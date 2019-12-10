@@ -9,7 +9,7 @@ flow, sumo, west harlem testbed
 
 ## How to generate these files: 
 
-1. WestHarlem.ipynb 
+### 1. WestHarlem.ipynb 
 
 derived from FLOW tutorial 8 LuST scenario example. Requires other 3 files in order to work. Must give a dirname to be added to the path. Save all 3 files to this path and ALSO into `/flow/flow/core/kernel/scenario/debug/cfg/`. 
 FlOW reads the routes and stuff from the path you give, but SUMO checks the second path to run. 
