@@ -53,12 +53,6 @@
 			"lon":-73.959940,
 			"name":"RSU",
 			"applications":["com.columbia.vsimrti.applications.lasalle.rsu.LasalleRSU"]
-		},
-		{
-			"lat":40.805107,
-            "lon": -73.959934,
-            "name": "WeatherServer",
-            "applications": [ "com.columbia.vsimrti.applications.lasalle.rsu.LasalleWeatherServer" ]
 		}
 	],
 	

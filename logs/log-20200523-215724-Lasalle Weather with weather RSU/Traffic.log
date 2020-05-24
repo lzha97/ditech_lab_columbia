@@ -1,0 +1,50 @@
+2020-05-23 21:57:24,494 INFO  SumoGUIAmbassador - The file does not exist: /Users/lillian/ns3/vsimrti-allinone/vsimrti/scenarios/120_Lasalle_Weather/sumo/sumo_config.jsonFile can not be read.The file does not exist: /Users/lillian/ns3/vsimrti-allinone/vsimrti/scenarios/120_Lasalle_Weather/sumo/sumo_config.json
+Try to instantiate using the default constructor.
+Object instantiated using the default constructor.
+
+2020-05-23 21:57:24,494 INFO  SumoGUIAmbassador - cSumo.updateInterval: 1000
+2020-05-23 21:57:24,494 INFO  SumoGUIAmbassador - cSumo.sumoConfigurationFile: null
+2020-05-23 21:57:24,496 INFO  SumoGUIAmbassador - found a a sumoConfigurationFile.
+2020-05-23 21:57:24,496 INFO  SumoGUIAmbassador - foundFile: ./scenarios/120_Lasalle_Weather/sumo/120_lasalle.sumo.cfg
+2020-05-23 21:57:24,497 INFO  SumoGUIAmbassador - cSumo.sumoConfigurationFile: 120_lasalle.sumo.cfg
+2020-05-23 21:57:24,521 INFO  SumoGUIAmbassador - routeFilename: 120_lasalle.rou.xml
+2020-05-23 21:57:24,535 INFO  SumoGUIAmbassador - stepSize: 1.0
+2020-05-23 21:57:30,942 INFO  SumoGUIAmbassador - Start Federate local
+2020-05-23 21:57:30,943 INFO  SumoGUIAmbassador - Directory: ./tmp/sumo
+2020-05-23 21:57:30,983 WARN  SumoGUIAmbassador - Error while connecting to SUMO. Retrying.
+2020-05-23 21:57:31,990 INFO  SumoGUIAmbassador - Process SumoAmbassador : Loading configuration... done.
+2020-05-23 21:57:35,678 INFO  SumoGUIAmbassador - Current API version of SUMO is 20 (=SUMO 1.2.0/1.3.0)
+2020-05-23 21:57:35,858 INFO  SumoGUIAmbassador - AddedVehicle "veh_0" received at simulation time 5000000000 ns
+2020-05-23 21:57:35,861 INFO  SumoGUIAmbassador - Adding new vehicle "veh_0" at simulation time 5000000000 ns (type=Car,routeId=1,laneId=0,departPos=0.0)
+2020-05-23 21:57:35,965 INFO  SumoGUIAmbassador - AddedVehicle "veh_1" received at simulation time 7000000000 ns
+2020-05-23 21:57:35,965 INFO  SumoGUIAmbassador - Adding new vehicle "veh_1" at simulation time 7000000000 ns (type=PKW,routeId=1,laneId=0,departPos=0.0)
+2020-05-23 21:57:35,997 INFO  SumoGUIAmbassador - AddedVehicle "veh_2" received at simulation time 9000000000 ns
+2020-05-23 21:57:35,998 INFO  SumoGUIAmbassador - Adding new vehicle "veh_2" at simulation time 9000000000 ns (type=Car,routeId=1,laneId=0,departPos=0.0)
+2020-05-23 21:57:36,155 INFO  SumoGUIAmbassador - AddedVehicle "veh_3" received at simulation time 11000000000 ns
+2020-05-23 21:57:36,156 INFO  SumoGUIAmbassador - Adding new vehicle "veh_3" at simulation time 11000000000 ns (type=PKW,routeId=1,laneId=0,departPos=0.0)
+2020-05-23 21:57:36,283 INFO  SumoGUIAmbassador - AddedVehicle "veh_4" received at simulation time 13000000000 ns
+2020-05-23 21:57:36,298 INFO  SumoGUIAmbassador - Adding new vehicle "veh_4" at simulation time 13000000000 ns (type=Car,routeId=1,laneId=0,departPos=0.0)
+2020-05-23 21:57:36,451 INFO  SumoGUIAmbassador - AddedVehicle "veh_5" received at simulation time 15000000000 ns
+2020-05-23 21:57:36,488 INFO  SumoGUIAmbassador - Adding new vehicle "veh_5" at simulation time 15000000000 ns (type=Car,routeId=1,laneId=0,departPos=0.0)
+2020-05-23 21:57:36,540 INFO  SumoGUIAmbassador - AddedVehicle "veh_6" received at simulation time 17000000000 ns
+2020-05-23 21:57:36,542 INFO  SumoGUIAmbassador - Adding new vehicle "veh_6" at simulation time 17000000000 ns (type=PKW,routeId=1,laneId=0,departPos=0.0)
+2020-05-23 21:57:36,597 INFO  SumoGUIAmbassador - AddedVehicle "veh_7" received at simulation time 19000000000 ns
+2020-05-23 21:57:36,598 INFO  SumoGUIAmbassador - Adding new vehicle "veh_7" at simulation time 19000000000 ns (type=Car,routeId=1,laneId=0,departPos=0.0)
+2020-05-23 21:57:37,324 INFO  SumoGUIAmbassador - Receive ChangeSpeed request at simulation time 50.0 s: vehicleId="veh_0", targetSpeed=6.94444465637207m/s, interval=5000ms
+2020-05-23 21:57:37,395 INFO  SumoGUIAmbassador - Receive ChangeSpeed request at simulation time 54.0 s: vehicleId="veh_0", targetSpeed=0.0m/s, interval=0ms
+2020-05-23 21:57:37,587 INFO  SumoGUIAmbassador - Receive ChangeSpeed request at simulation time 63.0 s: vehicleId="veh_2", targetSpeed=6.94444465637207m/s, interval=5000ms
+2020-05-23 21:57:37,624 INFO  SumoGUIAmbassador - Receive ChangeSpeed request at simulation time 66.0 s: vehicleId="veh_2", targetSpeed=0.0m/s, interval=0ms
+2020-05-23 21:57:37,813 INFO  TraciSimulationFacade - Removed vehicle "veh_0" at simulation time 76000000000ns
+2020-05-23 21:57:37,825 INFO  SumoGUIAmbassador - Receive ChangeSpeed request at simulation time 77.0 s: vehicleId="veh_4", targetSpeed=6.94444465637207m/s, interval=5000ms
+2020-05-23 21:57:37,832 INFO  TraciSimulationFacade - Removed vehicle "veh_1" at simulation time 78000000000ns
+2020-05-23 21:57:37,920 INFO  SumoGUIAmbassador - Receive ChangeSpeed request at simulation time 80.0 s: vehicleId="veh_4", targetSpeed=0.0m/s, interval=0ms
+2020-05-23 21:57:37,950 INFO  SumoGUIAmbassador - Receive ChangeSpeed request at simulation time 83.0 s: vehicleId="veh_5", targetSpeed=6.94444465637207m/s, interval=5000ms
+2020-05-23 21:57:37,977 INFO  SumoGUIAmbassador - Receive ChangeSpeed request at simulation time 86.0 s: vehicleId="veh_5", targetSpeed=0.0m/s, interval=0ms
+2020-05-23 21:57:37,985 INFO  TraciSimulationFacade - Removed vehicle "veh_2" at simulation time 88000000000ns
+2020-05-23 21:57:37,997 INFO  TraciSimulationFacade - Removed vehicle "veh_3" at simulation time 90000000000ns
+2020-05-23 21:57:38,027 INFO  SumoGUIAmbassador - Receive ChangeSpeed request at simulation time 95.0 s: vehicleId="veh_7", targetSpeed=6.94444465637207m/s, interval=5000ms
+2020-05-23 21:57:38,164 INFO  SumoGUIAmbassador - Receive ChangeSpeed request at simulation time 98.0 s: vehicleId="veh_7", targetSpeed=0.0m/s, interval=0ms
+2020-05-23 21:57:38,186 INFO  TraciSimulationFacade - Removed vehicle "veh_4" at simulation time 102000000000ns
+2020-05-23 21:57:38,214 INFO  TraciSimulationFacade - Removed vehicle "veh_5" at simulation time 108000000000ns
+2020-05-23 21:57:38,224 INFO  TraciSimulationFacade - Removed vehicle "veh_6" at simulation time 110000000000ns
+2020-05-23 21:57:38,327 INFO  TraciSimulationFacade - Removed vehicle "veh_7" at simulation time 120000000000ns

@@ -1,0 +1,96 @@
+2020-05-23 22:01:50,637 WARN - Could not check operating system of Application. Skipping check.
+2020-05-23 22:01:50,638 DEBUG - Successfully instantiated the class com.columbia.vsimrti.applications.lasalle.vehicle.LasalleWeatherWarningAppCell
+2020-05-23 22:01:50,639 DEBUG - Successfully instantiated the class com.columbia.vsimrti.applications.lasalle.vehicle.LasalleSlowDownApp
+2020-05-23 22:01:50,639 DEBUG - #tearUp at simulation time 10.000,000,000 s
+2020-05-23 22:01:50,643 DEBUG - #preProcessEvent at simulation time 10.000,000,000 s with resource class VehicleInfo and nice -99999900
+2020-05-23 22:01:50,658 DEBUG - #preProcessEvent at simulation time 11.000,000,000 s with resource class VehicleInfo and nice -99999800
+2020-05-23 22:01:50,672 DEBUG - #preProcessEvent at simulation time 12.000,000,000 s with resource class VehicleInfo and nice -99999800
+2020-05-23 22:01:50,679 DEBUG - #preProcessEvent at simulation time 13.000,000,000 s with resource class VehicleInfo and nice -99999800
+2020-05-23 22:01:50,692 DEBUG - #preProcessEvent at simulation time 14.000,000,000 s with resource class VehicleInfo and nice -99999800
+2020-05-23 22:01:50,705 DEBUG - #preProcessEvent at simulation time 15.000,000,000 s with resource class VehicleInfo and nice -99999800
+2020-05-23 22:01:50,725 DEBUG - #preProcessEvent at simulation time 16.000,000,000 s with resource class VehicleInfo and nice -99999800
+2020-05-23 22:01:50,733 DEBUG - #preProcessEvent at simulation time 17.000,000,000 s with resource class VehicleInfo and nice -99999800
+2020-05-23 22:01:50,744 DEBUG - #preProcessEvent at simulation time 18.000,000,000 s with resource class VehicleInfo and nice -99999800
+2020-05-23 22:01:50,758 DEBUG - #preProcessEvent at simulation time 19.000,000,000 s with resource class VehicleInfo and nice -99999800
+2020-05-23 22:01:50,785 DEBUG - #preProcessEvent at simulation time 20.000,000,000 s with resource class VehicleInfo and nice -99999800
+2020-05-23 22:01:50,828 DEBUG - #preProcessEvent at simulation time 21.000,000,000 s with resource class VehicleInfo and nice -99999800
+2020-05-23 22:01:50,848 DEBUG - #preProcessEvent at simulation time 22.000,000,000 s with resource class VehicleInfo and nice -99999800
+2020-05-23 22:01:50,861 DEBUG - #preProcessEvent at simulation time 23.000,000,000 s with resource class VehicleInfo and nice -99999800
+2020-05-23 22:01:50,880 DEBUG - #preProcessEvent at simulation time 24.000,000,000 s with resource class VehicleInfo and nice -99999800
+2020-05-23 22:01:50,907 DEBUG - #preProcessEvent at simulation time 25.000,000,000 s with resource class VehicleInfo and nice -99999800
+2020-05-23 22:01:50,928 DEBUG - #preProcessEvent at simulation time 26.000,000,000 s with resource class VehicleInfo and nice -99999800
+2020-05-23 22:01:51,026 DEBUG - #preProcessEvent at simulation time 27.000,000,000 s with resource class VehicleInfo and nice -99999800
+2020-05-23 22:01:51,069 DEBUG - #preProcessEvent at simulation time 28.000,000,000 s with resource class VehicleInfo and nice -99999800
+2020-05-23 22:01:51,082 DEBUG - #preProcessEvent at simulation time 29.000,000,000 s with resource class VehicleInfo and nice -99999800
+2020-05-23 22:01:51,093 DEBUG - #preProcessEvent at simulation time 30.000,000,000 s with resource class VehicleInfo and nice -99999800
+2020-05-23 22:01:51,111 DEBUG - #preProcessEvent at simulation time 31.000,000,000 s with resource class VehicleInfo and nice -99999800
+2020-05-23 22:01:51,118 DEBUG - #preProcessEvent at simulation time 32.000,000,000 s with resource class VehicleInfo and nice -99999800
+2020-05-23 22:01:51,134 DEBUG - #preProcessEvent at simulation time 33.000,000,000 s with resource class VehicleInfo and nice -99999800
+2020-05-23 22:01:51,206 DEBUG - #preProcessEvent at simulation time 34.000,000,000 s with resource class VehicleInfo and nice -99999800
+2020-05-23 22:01:51,222 DEBUG - #preProcessEvent at simulation time 35.000,000,000 s with resource class VehicleInfo and nice -99999800
+2020-05-23 22:01:51,234 DEBUG - #preProcessEvent at simulation time 36.000,000,000 s with resource class VehicleInfo and nice -99999800
+2020-05-23 22:01:51,245 DEBUG - #preProcessEvent at simulation time 37.000,000,000 s with resource class VehicleInfo and nice -99999800
+2020-05-23 22:01:51,252 DEBUG - #preProcessEvent at simulation time 38.000,000,000 s with resource class VehicleInfo and nice -99999800
+2020-05-23 22:01:51,260 DEBUG - #preProcessEvent at simulation time 39.000,000,000 s with resource class VehicleInfo and nice -99999800
+2020-05-23 22:01:51,267 DEBUG - #preProcessEvent at simulation time 40.000,000,000 s with resource class VehicleInfo and nice -99999800
+2020-05-23 22:01:51,276 DEBUG - #preProcessEvent at simulation time 41.000,000,000 s with resource class VehicleInfo and nice -99999800
+2020-05-23 22:01:51,279 DEBUG - #preProcessEvent at simulation time 42.000,000,000 s with resource class VehicleInfo and nice -99999800
+2020-05-23 22:01:51,286 DEBUG - #preProcessEvent at simulation time 43.000,000,000 s with resource class VehicleInfo and nice -99999800
+2020-05-23 22:01:51,290 DEBUG - #preProcessEvent at simulation time 44.000,000,000 s with resource class VehicleInfo and nice -99999800
+2020-05-23 22:01:51,320 DEBUG - #preProcessEvent at simulation time 45.000,000,000 s with resource class VehicleInfo and nice -99999800
+2020-05-23 22:01:51,325 DEBUG - #preProcessEvent at simulation time 46.000,000,000 s with resource class VehicleInfo and nice -99999800
+2020-05-23 22:01:51,329 DEBUG - #preProcessEvent at simulation time 47.000,000,000 s with resource class VehicleInfo and nice -99999800
+2020-05-23 22:01:51,334 DEBUG - #preProcessEvent at simulation time 48.000,000,000 s with resource class VehicleInfo and nice -99999800
+2020-05-23 22:01:51,339 DEBUG - #preProcessEvent at simulation time 49.000,000,000 s with resource class VehicleInfo and nice -99999800
+2020-05-23 22:01:51,343 DEBUG - #preProcessEvent at simulation time 50.000,000,000 s with resource class VehicleInfo and nice -99999800
+2020-05-23 22:01:51,638 DEBUG - #preProcessEvent at simulation time 50.445,495,428 s with resource class ReceivedV2XMessage and nice -99999100
+2020-05-23 22:01:51,638 DEBUG - NavigationModule#calculateRoutes: Calculate routes to [RoutingPosition [position=GeoPoint{lat|lon=[40.810505,-73.961977]}, connectionID=null, nodeID=null, heading=null]] with params [RoutingParameters [numAlternativeRoutes=0, routingCostFunction=com.dcaiti.vsimrti.lib.routing.util.ReRouteSpecificConnectionsCostFunction@5a85b4e6, considerTurnCosts=false]]
+2020-05-23 22:01:51,643 DEBUG - NavigationModule#switchRoute: Initiated route switch to [42421857,1506616204,42428850,6886295091,1506591534,42428844,1506591536,1504153604]
+2020-05-23 22:01:51,645 INFO - NavigationModule#switchRoute: Stay on route 1
+2020-05-23 22:01:51,648 DEBUG - #preProcessEvent at simulation time 51.000,000,000 s with resource class VehicleInfo and nice -99999800
+2020-05-23 22:01:51,654 DEBUG - #preProcessEvent at simulation time 51.279,055,440 s with resource class ReceivedV2XMessage and nice -99999100
+2020-05-23 22:01:51,659 DEBUG - #preProcessEvent at simulation time 52.000,000,000 s with resource class VehicleInfo and nice -99999800
+2020-05-23 22:01:51,669 DEBUG - #preProcessEvent at simulation time 52.384,759,575 s with resource class ReceivedV2XMessage and nice -99999100
+2020-05-23 22:01:51,673 DEBUG - #preProcessEvent at simulation time 53.000,000,000 s with resource class VehicleInfo and nice -99999800
+2020-05-23 22:01:51,680 DEBUG - #preProcessEvent at simulation time 53.243,372,845 s with resource class ReceivedV2XMessage and nice -99999100
+2020-05-23 22:01:51,685 DEBUG - #preProcessEvent at simulation time 54.000,000,000 s with resource class VehicleInfo and nice -99999800
+2020-05-23 22:01:51,692 DEBUG - #preProcessEvent at simulation time 55.000,000,000 s with resource class VehicleInfo and nice -99999800
+2020-05-23 22:01:51,699 DEBUG - #preProcessEvent at simulation time 56.000,000,000 s with resource class VehicleInfo and nice -99999800
+2020-05-23 22:01:51,713 DEBUG - #preProcessEvent at simulation time 57.000,000,000 s with resource class VehicleInfo and nice -99999800
+2020-05-23 22:01:51,718 DEBUG - #preProcessEvent at simulation time 58.000,000,000 s with resource class VehicleInfo and nice -99999800
+2020-05-23 22:01:51,723 DEBUG - #preProcessEvent at simulation time 59.000,000,000 s with resource class VehicleInfo and nice -99999800
+2020-05-23 22:01:51,727 DEBUG - #preProcessEvent at simulation time 60.000,000,000 s with resource class VehicleInfo and nice -99999800
+2020-05-23 22:01:51,735 DEBUG - #preProcessEvent at simulation time 61.000,000,000 s with resource class VehicleInfo and nice -99999800
+2020-05-23 22:01:51,739 DEBUG - #preProcessEvent at simulation time 62.000,000,000 s with resource class VehicleInfo and nice -99999800
+2020-05-23 22:01:51,743 DEBUG - #preProcessEvent at simulation time 63.000,000,000 s with resource class VehicleInfo and nice -99999800
+2020-05-23 22:01:51,754 DEBUG - #preProcessEvent at simulation time 63.213,569,718 s with resource class ReceivedV2XMessage and nice -99999100
+2020-05-23 22:01:51,769 DEBUG - #preProcessEvent at simulation time 64.000,000,000 s with resource class VehicleInfo and nice -99999800
+2020-05-23 22:01:51,854 DEBUG - #preProcessEvent at simulation time 64.278,731,808 s with resource class ReceivedV2XMessage and nice -99999100
+2020-05-23 22:01:51,860 DEBUG - #preProcessEvent at simulation time 65.000,000,000 s with resource class VehicleInfo and nice -99999800
+2020-05-23 22:01:51,872 DEBUG - #preProcessEvent at simulation time 65.235,814,700 s with resource class ReceivedV2XMessage and nice -99999100
+2020-05-23 22:01:51,876 DEBUG - #preProcessEvent at simulation time 66.000,000,000 s with resource class VehicleInfo and nice -99999800
+2020-05-23 22:01:51,890 DEBUG - #preProcessEvent at simulation time 67.000,000,000 s with resource class VehicleInfo and nice -99999800
+2020-05-23 22:01:51,894 DEBUG - #preProcessEvent at simulation time 68.000,000,000 s with resource class VehicleInfo and nice -99999800
+2020-05-23 22:01:51,903 DEBUG - #preProcessEvent at simulation time 69.000,000,000 s with resource class VehicleInfo and nice -99999800
+2020-05-23 22:01:51,907 DEBUG - #preProcessEvent at simulation time 70.000,000,000 s with resource class VehicleInfo and nice -99999800
+2020-05-23 22:01:51,915 DEBUG - #preProcessEvent at simulation time 71.000,000,000 s with resource class VehicleInfo and nice -99999800
+2020-05-23 22:01:51,919 DEBUG - #preProcessEvent at simulation time 72.000,000,000 s with resource class VehicleInfo and nice -99999800
+2020-05-23 22:01:51,925 DEBUG - #preProcessEvent at simulation time 73.000,000,000 s with resource class VehicleInfo and nice -99999800
+2020-05-23 22:01:51,927 DEBUG - #preProcessEvent at simulation time 74.000,000,000 s with resource class VehicleInfo and nice -99999800
+2020-05-23 22:01:51,934 DEBUG - #preProcessEvent at simulation time 75.000,000,000 s with resource class VehicleInfo and nice -99999800
+2020-05-23 22:01:51,941 DEBUG - #preProcessEvent at simulation time 76.000,000,000 s with resource class VehicleInfo and nice -99999800
+2020-05-23 22:01:51,987 DEBUG - #preProcessEvent at simulation time 77.000,000,000 s with resource class VehicleInfo and nice -99999800
+2020-05-23 22:01:52,018 DEBUG - #preProcessEvent at simulation time 77.531,353,164 s with resource class ReceivedV2XMessage and nice -99999100
+2020-05-23 22:01:52,023 DEBUG - #preProcessEvent at simulation time 78.000,000,000 s with resource class VehicleInfo and nice -99999800
+2020-05-23 22:01:52,031 DEBUG - #preProcessEvent at simulation time 78.226,889,954 s with resource class ReceivedV2XMessage and nice -99999100
+2020-05-23 22:01:52,035 DEBUG - #preProcessEvent at simulation time 79.000,000,000 s with resource class VehicleInfo and nice -99999800
+2020-05-23 22:01:52,041 DEBUG - #preProcessEvent at simulation time 79.268,131,515 s with resource class ReceivedV2XMessage and nice -99999100
+2020-05-23 22:01:52,043 DEBUG - #preProcessEvent at simulation time 80.000,000,000 s with resource class VehicleInfo and nice -99999800
+2020-05-23 22:01:52,054 DEBUG - #preProcessEvent at simulation time 81.000,000,000 s with resource class VehicleInfo and nice -99999800
+2020-05-23 22:01:52,064 DEBUG - #preProcessEvent at simulation time 82.000,000,000 s with resource class VehicleInfo and nice -99999800
+2020-05-23 22:01:52,072 DEBUG - #preProcessEvent at simulation time 83.000,000,000 s with resource class VehicleInfo and nice -99999800
+2020-05-23 22:01:52,074 DEBUG - #preProcessEvent at simulation time 84.000,000,000 s with resource class VehicleInfo and nice -99999800
+2020-05-23 22:01:52,078 DEBUG - #preProcessEvent at simulation time 85.000,000,000 s with resource class VehicleInfo and nice -99999800
+2020-05-23 22:01:52,083 DEBUG - #preProcessEvent at simulation time 86.000,000,000 s with resource class VehicleInfo and nice -99999800
+2020-05-23 22:01:52,089 DEBUG - #preProcessEvent at simulation time 87.000,000,000 s with resource class VehicleInfo and nice -99999800
+2020-05-23 22:01:52,093 DEBUG - #tearDown at simulation time 88.000,000,000 s

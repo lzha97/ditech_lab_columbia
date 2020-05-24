@@ -1,0 +1,31 @@
+2020-05-23 22:01:40,209 INFO  SnsAmbassador - Start Simulation
+2020-05-23 22:01:40,229 INFO  SnsAmbassador - Using TransmissionModel: Direct
+2020-05-23 22:01:46,183 INFO  SnsAmbassador - Initialized SNS
+2020-05-23 22:01:50,510 INFO  SnsAmbassador - Add RSU id=rsu_0 @time=0.000,000,000 s
+2020-05-23 22:01:51,345 WARN  SnsAmbassador - Unit veh_0 is not known, skipping
+2020-05-23 22:01:51,648 WARN  SnsAmbassador - Unit veh_0 is not known, skipping
+2020-05-23 22:01:51,660 WARN  SnsAmbassador - Unit veh_0 is not known, skipping
+2020-05-23 22:01:51,674 WARN  SnsAmbassador - Unit veh_0 is not known, skipping
+2020-05-23 22:01:51,743 WARN  SnsAmbassador - Unit veh_2 is not known, skipping
+2020-05-23 22:01:51,770 WARN  SnsAmbassador - Unit veh_2 is not known, skipping
+2020-05-23 22:01:51,861 WARN  SnsAmbassador - Unit veh_2 is not known, skipping
+2020-05-23 22:01:51,939 INFO  SnsAmbassador - Removed Vehicle id=veh_0 @time=76.000,000,000 s
+2020-05-23 22:01:51,976 WARN  SnsAmbassador - Unit veh_4 is not known, skipping
+2020-05-23 22:01:52,021 INFO  SnsAmbassador - Removed Vehicle id=veh_1 @time=78.000,000,000 s
+2020-05-23 22:01:52,023 WARN  SnsAmbassador - Unit veh_4 is not known, skipping
+2020-05-23 22:01:52,034 WARN  SnsAmbassador - Unit veh_4 is not known, skipping
+2020-05-23 22:01:52,092 INFO  SnsAmbassador - Removed Vehicle id=veh_2 @time=88.000,000,000 s
+2020-05-23 22:01:52,100 INFO  SnsAmbassador - Removed Vehicle id=veh_3 @time=90.000,000,000 s
+2020-05-23 22:01:52,141 INFO  SnsAmbassador - Removed Vehicle id=veh_4 @time=102.000,000,000 s
+2020-05-23 22:01:52,237 INFO  SnsAmbassador - Removed Vehicle id=veh_6 @time=109.000,000,000 s
+2020-05-23 22:01:52,238 WARN  SnsAmbassador - Unit veh_5 is not known, skipping
+2020-05-23 22:01:52,248 WARN  SnsAmbassador - Unit veh_5 is not known, skipping
+2020-05-23 22:01:52,257 WARN  SnsAmbassador - Unit veh_5 is not known, skipping
+2020-05-23 22:01:52,262 WARN  SnsAmbassador - Unit veh_5 is not known, skipping
+2020-05-23 22:01:52,288 WARN  SnsAmbassador - Unit veh_7 is not known, skipping
+2020-05-23 22:01:52,297 WARN  SnsAmbassador - Unit veh_7 is not known, skipping
+2020-05-23 22:01:52,302 WARN  SnsAmbassador - Unit veh_7 is not known, skipping
+2020-05-23 22:01:52,307 WARN  SnsAmbassador - Unit veh_7 is not known, skipping
+2020-05-23 22:01:52,334 INFO  SnsAmbassador - Removed Vehicle id=veh_5 @time=136.000,000,000 s
+2020-05-23 22:01:52,452 INFO  SnsAmbassador - Removed Vehicle id=veh_7 @time=149.000,000,000 s
+2020-05-23 22:01:52,496 INFO  SnsAmbassador - Finish Simulation

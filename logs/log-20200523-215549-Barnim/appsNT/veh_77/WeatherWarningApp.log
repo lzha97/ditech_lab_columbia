@@ -1,0 +1,1539 @@
+2020-05-23 21:56:10,561 INFO - Initialize application (at simulation time 160.000,000,000 s)
+2020-05-23 21:56:10,566 INFO - Activated AdHoc Module (at simulation time 160.000,000,000 s)
+2020-05-23 21:56:10,567 DEBUG - No Sensor/Event detected (at simulation time 160.000,000,000 s)
+2020-05-23 21:56:10,739 DEBUG - No Sensor/Event detected (at simulation time 161.000,000,000 s)
+2020-05-23 21:56:10,844 DEBUG - No Sensor/Event detected (at simulation time 162.000,000,000 s)
+2020-05-23 21:56:10,935 DEBUG - No Sensor/Event detected (at simulation time 163.000,000,000 s)
+2020-05-23 21:56:11,030 DEBUG - No Sensor/Event detected (at simulation time 164.000,000,000 s)
+2020-05-23 21:56:11,139 DEBUG - No Sensor/Event detected (at simulation time 165.000,000,000 s)
+2020-05-23 21:56:11,248 DEBUG - No Sensor/Event detected (at simulation time 166.000,000,000 s)
+2020-05-23 21:56:11,524 INFO - Processing DEN message (at simulation time 166.007,400,000 s)
+2020-05-23 21:56:11,524 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:11,524 DEBUG - DENM content: Sensor Type: Ice (at simulation time 166.007,400,000 s)
+2020-05-23 21:56:11,524 DEBUG - DENM content: Event position: GeoPoint{lat|lon=[52.627987,13.564159]} (at simulation time 166.007,400,000 s)
+2020-05-23 21:56:11,525 DEBUG - DENM content: Event Strength: 1 (at simulation time 166.007,400,000 s)
+2020-05-23 21:56:11,526 DEBUG - DENM content: Road Id of the Sender: 311964536_1313885442_2879911873 (at simulation time 166.007,400,000 s)
+2020-05-23 21:56:11,526 DEBUG - CurrVehicle: position: com.dcaiti.vsimrti.lib.routing.scenariodatabase.road.ScenarioDatabaseRoadPosition@a9b63d9d (at simulation time 166.007,400,000 s)
+2020-05-23 21:56:11,526 DEBUG - CurrVehicle: route: 1 (at simulation time 166.007,400,000 s)
+2020-05-23 21:56:11,526 INFO - The Event is on the vehicle's route 311964536_1313885442_2879911873 = 311964536_1313885442_2879911873 (at simulation time 166.007,400,000 s)
+2020-05-23 21:56:11,564 INFO - Sending Change Route Command at position: GeoPoint{lat|lon=[52.627987,13.564159]} (at simulation time 166.007,400,000 s)
+2020-05-23 21:56:11,566 INFO - Processing DEN message (at simulation time 166.008,000,000 s)
+2020-05-23 21:56:11,566 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:11,566 INFO - Route already changed (at simulation time 166.008,000,000 s)
+2020-05-23 21:56:11,566 INFO - Processing DEN message (at simulation time 166.009,900,000 s)
+2020-05-23 21:56:11,566 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:11,566 INFO - Route already changed (at simulation time 166.009,900,000 s)
+2020-05-23 21:56:11,598 DEBUG - No Sensor/Event detected (at simulation time 167.000,000,000 s)
+2020-05-23 21:56:11,606 INFO - Processing DEN message (at simulation time 167.008,500,000 s)
+2020-05-23 21:56:11,606 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:11,606 INFO - Route already changed (at simulation time 167.008,500,000 s)
+2020-05-23 21:56:11,606 INFO - Processing DEN message (at simulation time 167.008,900,000 s)
+2020-05-23 21:56:11,606 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:11,606 INFO - Route already changed (at simulation time 167.008,900,000 s)
+2020-05-23 21:56:11,606 INFO - Processing DEN message (at simulation time 167.009,900,000 s)
+2020-05-23 21:56:11,606 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:11,606 INFO - Route already changed (at simulation time 167.009,900,000 s)
+2020-05-23 21:56:11,638 DEBUG - No Sensor/Event detected (at simulation time 168.000,000,000 s)
+2020-05-23 21:56:11,647 INFO - Processing DEN message (at simulation time 168.007,400,000 s)
+2020-05-23 21:56:11,647 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:11,647 INFO - Route already changed (at simulation time 168.007,400,000 s)
+2020-05-23 21:56:11,647 INFO - Processing DEN message (at simulation time 168.007,400,000 s)
+2020-05-23 21:56:11,647 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:11,647 INFO - Route already changed (at simulation time 168.007,400,000 s)
+2020-05-23 21:56:11,647 INFO - Processing DEN message (at simulation time 168.008,900,000 s)
+2020-05-23 21:56:11,647 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:11,647 INFO - Route already changed (at simulation time 168.008,900,000 s)
+2020-05-23 21:56:11,647 INFO - Processing DEN message (at simulation time 168.010,000,000 s)
+2020-05-23 21:56:11,647 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:11,648 INFO - Route already changed (at simulation time 168.010,000,000 s)
+2020-05-23 21:56:11,690 DEBUG - No Sensor/Event detected (at simulation time 169.000,000,000 s)
+2020-05-23 21:56:11,766 INFO - Processing DEN message (at simulation time 169.004,000,000 s)
+2020-05-23 21:56:11,766 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:11,766 INFO - Route already changed (at simulation time 169.004,000,000 s)
+2020-05-23 21:56:11,833 INFO - Processing DEN message (at simulation time 169.006,500,000 s)
+2020-05-23 21:56:11,834 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:11,834 INFO - Route already changed (at simulation time 169.006,500,000 s)
+2020-05-23 21:56:11,842 INFO - Processing DEN message (at simulation time 169.006,900,000 s)
+2020-05-23 21:56:11,842 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:11,842 INFO - Route already changed (at simulation time 169.006,900,000 s)
+2020-05-23 21:56:11,846 INFO - Processing DEN message (at simulation time 169.009,900,000 s)
+2020-05-23 21:56:11,846 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:11,846 INFO - Route already changed (at simulation time 169.009,900,000 s)
+2020-05-23 21:56:11,930 DEBUG - No Sensor/Event detected (at simulation time 170.000,000,000 s)
+2020-05-23 21:56:12,027 INFO - Processing DEN message (at simulation time 170.005,900,000 s)
+2020-05-23 21:56:12,027 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:12,027 INFO - Route already changed (at simulation time 170.005,900,000 s)
+2020-05-23 21:56:12,028 INFO - Processing DEN message (at simulation time 170.006,500,000 s)
+2020-05-23 21:56:12,028 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:12,028 INFO - Route already changed (at simulation time 170.006,500,000 s)
+2020-05-23 21:56:12,032 INFO - Processing DEN message (at simulation time 170.008,500,000 s)
+2020-05-23 21:56:12,032 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:12,032 INFO - Route already changed (at simulation time 170.008,500,000 s)
+2020-05-23 21:56:12,033 INFO - Processing DEN message (at simulation time 170.011,900,000 s)
+2020-05-23 21:56:12,033 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:12,033 INFO - Route already changed (at simulation time 170.011,900,000 s)
+2020-05-23 21:56:12,100 DEBUG - No Sensor/Event detected (at simulation time 171.000,000,000 s)
+2020-05-23 21:56:12,117 INFO - Processing DEN message (at simulation time 171.005,500,000 s)
+2020-05-23 21:56:12,117 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:12,117 INFO - Route already changed (at simulation time 171.005,500,000 s)
+2020-05-23 21:56:12,118 INFO - Processing DEN message (at simulation time 171.006,900,000 s)
+2020-05-23 21:56:12,118 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:12,118 INFO - Route already changed (at simulation time 171.006,900,000 s)
+2020-05-23 21:56:12,118 INFO - Processing DEN message (at simulation time 171.007,000,000 s)
+2020-05-23 21:56:12,118 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:12,118 INFO - Route already changed (at simulation time 171.007,000,000 s)
+2020-05-23 21:56:12,118 INFO - Processing DEN message (at simulation time 171.007,500,000 s)
+2020-05-23 21:56:12,118 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:12,118 INFO - Route already changed (at simulation time 171.007,500,000 s)
+2020-05-23 21:56:12,205 DEBUG - No Sensor/Event detected (at simulation time 172.000,000,000 s)
+2020-05-23 21:56:12,221 INFO - Processing DEN message (at simulation time 172.006,000,000 s)
+2020-05-23 21:56:12,221 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:12,221 INFO - Route already changed (at simulation time 172.006,000,000 s)
+2020-05-23 21:56:12,221 INFO - Processing DEN message (at simulation time 172.006,900,000 s)
+2020-05-23 21:56:12,221 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:12,221 INFO - Route already changed (at simulation time 172.006,900,000 s)
+2020-05-23 21:56:12,221 INFO - Processing DEN message (at simulation time 172.007,000,000 s)
+2020-05-23 21:56:12,221 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:12,221 INFO - Route already changed (at simulation time 172.007,000,000 s)
+2020-05-23 21:56:12,221 INFO - Processing DEN message (at simulation time 172.007,500,000 s)
+2020-05-23 21:56:12,221 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:12,221 INFO - Route already changed (at simulation time 172.007,500,000 s)
+2020-05-23 21:56:12,288 DEBUG - No Sensor/Event detected (at simulation time 173.000,000,000 s)
+2020-05-23 21:56:12,322 INFO - Processing DEN message (at simulation time 173.004,500,000 s)
+2020-05-23 21:56:12,322 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:12,322 INFO - Route already changed (at simulation time 173.004,500,000 s)
+2020-05-23 21:56:12,324 INFO - Processing DEN message (at simulation time 173.005,000,000 s)
+2020-05-23 21:56:12,324 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:12,324 INFO - Route already changed (at simulation time 173.005,000,000 s)
+2020-05-23 21:56:12,325 INFO - Processing DEN message (at simulation time 173.007,400,000 s)
+2020-05-23 21:56:12,325 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:12,325 INFO - Route already changed (at simulation time 173.007,400,000 s)
+2020-05-23 21:56:12,325 INFO - Processing DEN message (at simulation time 173.007,500,000 s)
+2020-05-23 21:56:12,325 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:12,325 INFO - Route already changed (at simulation time 173.007,500,000 s)
+2020-05-23 21:56:12,531 DEBUG - No Sensor/Event detected (at simulation time 174.000,000,000 s)
+2020-05-23 21:56:12,556 INFO - Processing DEN message (at simulation time 174.003,500,000 s)
+2020-05-23 21:56:12,556 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:12,556 INFO - Route already changed (at simulation time 174.003,500,000 s)
+2020-05-23 21:56:12,558 INFO - Processing DEN message (at simulation time 174.006,000,000 s)
+2020-05-23 21:56:12,558 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:12,558 INFO - Route already changed (at simulation time 174.006,000,000 s)
+2020-05-23 21:56:12,558 INFO - Processing DEN message (at simulation time 174.006,000,000 s)
+2020-05-23 21:56:12,558 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:12,558 INFO - Route already changed (at simulation time 174.006,000,000 s)
+2020-05-23 21:56:12,559 INFO - Processing DEN message (at simulation time 174.006,100,000 s)
+2020-05-23 21:56:12,559 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:12,559 INFO - Route already changed (at simulation time 174.006,100,000 s)
+2020-05-23 21:56:12,559 INFO - Processing DEN message (at simulation time 174.008,500,000 s)
+2020-05-23 21:56:12,559 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:12,559 INFO - Route already changed (at simulation time 174.008,500,000 s)
+2020-05-23 21:56:12,633 DEBUG - No Sensor/Event detected (at simulation time 175.000,000,000 s)
+2020-05-23 21:56:12,686 INFO - Processing DEN message (at simulation time 175.005,600,000 s)
+2020-05-23 21:56:12,686 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:12,686 INFO - Route already changed (at simulation time 175.005,600,000 s)
+2020-05-23 21:56:12,687 INFO - Processing DEN message (at simulation time 175.007,500,000 s)
+2020-05-23 21:56:12,687 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:12,687 INFO - Route already changed (at simulation time 175.007,500,000 s)
+2020-05-23 21:56:12,687 INFO - Processing DEN message (at simulation time 175.007,500,000 s)
+2020-05-23 21:56:12,687 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:12,687 INFO - Route already changed (at simulation time 175.007,500,000 s)
+2020-05-23 21:56:12,688 INFO - Processing DEN message (at simulation time 175.008,500,000 s)
+2020-05-23 21:56:12,688 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:12,688 INFO - Route already changed (at simulation time 175.008,500,000 s)
+2020-05-23 21:56:12,688 INFO - Processing DEN message (at simulation time 175.010,000,000 s)
+2020-05-23 21:56:12,688 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:12,688 INFO - Route already changed (at simulation time 175.010,000,000 s)
+2020-05-23 21:56:12,790 DEBUG - No Sensor/Event detected (at simulation time 176.000,000,000 s)
+2020-05-23 21:56:12,828 INFO - Processing DEN message (at simulation time 176.005,600,000 s)
+2020-05-23 21:56:12,828 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:12,828 INFO - Route already changed (at simulation time 176.005,600,000 s)
+2020-05-23 21:56:12,830 INFO - Processing DEN message (at simulation time 176.006,000,000 s)
+2020-05-23 21:56:12,830 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:12,830 INFO - Route already changed (at simulation time 176.006,000,000 s)
+2020-05-23 21:56:12,831 INFO - Processing DEN message (at simulation time 176.008,000,000 s)
+2020-05-23 21:56:12,831 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:12,831 INFO - Route already changed (at simulation time 176.008,000,000 s)
+2020-05-23 21:56:12,831 INFO - Processing DEN message (at simulation time 176.008,000,000 s)
+2020-05-23 21:56:12,831 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:12,831 INFO - Route already changed (at simulation time 176.008,000,000 s)
+2020-05-23 21:56:12,832 INFO - Processing DEN message (at simulation time 176.008,500,000 s)
+2020-05-23 21:56:12,832 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:12,832 INFO - Route already changed (at simulation time 176.008,500,000 s)
+2020-05-23 21:56:12,877 DEBUG - No Sensor/Event detected (at simulation time 177.000,000,000 s)
+2020-05-23 21:56:12,917 INFO - Processing DEN message (at simulation time 177.003,500,000 s)
+2020-05-23 21:56:12,917 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:12,917 INFO - Route already changed (at simulation time 177.003,500,000 s)
+2020-05-23 21:56:12,917 INFO - Processing DEN message (at simulation time 177.003,600,000 s)
+2020-05-23 21:56:12,917 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:12,917 INFO - Route already changed (at simulation time 177.003,600,000 s)
+2020-05-23 21:56:12,924 INFO - Processing DEN message (at simulation time 177.005,500,000 s)
+2020-05-23 21:56:12,924 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:12,924 INFO - Route already changed (at simulation time 177.005,500,000 s)
+2020-05-23 21:56:12,925 INFO - Processing DEN message (at simulation time 177.007,000,000 s)
+2020-05-23 21:56:12,925 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:12,925 INFO - Route already changed (at simulation time 177.007,000,000 s)
+2020-05-23 21:56:12,925 INFO - Processing DEN message (at simulation time 177.009,000,000 s)
+2020-05-23 21:56:12,926 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:12,926 INFO - Route already changed (at simulation time 177.009,000,000 s)
+2020-05-23 21:56:13,016 DEBUG - No Sensor/Event detected (at simulation time 178.000,000,000 s)
+2020-05-23 21:56:13,070 INFO - Processing DEN message (at simulation time 178.005,600,000 s)
+2020-05-23 21:56:13,071 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:13,071 INFO - Route already changed (at simulation time 178.005,600,000 s)
+2020-05-23 21:56:13,071 INFO - Processing DEN message (at simulation time 178.006,000,000 s)
+2020-05-23 21:56:13,071 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:13,071 INFO - Route already changed (at simulation time 178.006,000,000 s)
+2020-05-23 21:56:13,072 INFO - Processing DEN message (at simulation time 178.006,500,000 s)
+2020-05-23 21:56:13,072 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:13,072 INFO - Route already changed (at simulation time 178.006,500,000 s)
+2020-05-23 21:56:13,074 INFO - Processing DEN message (at simulation time 178.008,600,000 s)
+2020-05-23 21:56:13,074 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:13,074 INFO - Route already changed (at simulation time 178.008,600,000 s)
+2020-05-23 21:56:13,074 INFO - Processing DEN message (at simulation time 178.010,000,000 s)
+2020-05-23 21:56:13,074 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:13,074 INFO - Route already changed (at simulation time 178.010,000,000 s)
+2020-05-23 21:56:13,165 DEBUG - No Sensor/Event detected (at simulation time 179.000,000,000 s)
+2020-05-23 21:56:13,220 INFO - Processing DEN message (at simulation time 179.003,600,000 s)
+2020-05-23 21:56:13,220 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:13,220 INFO - Route already changed (at simulation time 179.003,600,000 s)
+2020-05-23 21:56:13,223 INFO - Processing DEN message (at simulation time 179.005,600,000 s)
+2020-05-23 21:56:13,223 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:13,223 INFO - Route already changed (at simulation time 179.005,600,000 s)
+2020-05-23 21:56:13,223 INFO - Processing DEN message (at simulation time 179.006,000,000 s)
+2020-05-23 21:56:13,223 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:13,223 INFO - Route already changed (at simulation time 179.006,000,000 s)
+2020-05-23 21:56:13,224 INFO - Processing DEN message (at simulation time 179.008,000,000 s)
+2020-05-23 21:56:13,224 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:13,224 INFO - Route already changed (at simulation time 179.008,000,000 s)
+2020-05-23 21:56:13,225 INFO - Processing DEN message (at simulation time 179.009,500,000 s)
+2020-05-23 21:56:13,225 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:13,225 INFO - Route already changed (at simulation time 179.009,500,000 s)
+2020-05-23 21:56:13,268 DEBUG - No Sensor/Event detected (at simulation time 180.000,000,000 s)
+2020-05-23 21:56:13,328 INFO - Processing DEN message (at simulation time 180.005,500,000 s)
+2020-05-23 21:56:13,328 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:13,328 INFO - Route already changed (at simulation time 180.005,500,000 s)
+2020-05-23 21:56:13,328 INFO - Processing DEN message (at simulation time 180.005,500,000 s)
+2020-05-23 21:56:13,328 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:13,328 INFO - Route already changed (at simulation time 180.005,500,000 s)
+2020-05-23 21:56:13,328 INFO - Processing DEN message (at simulation time 180.006,000,000 s)
+2020-05-23 21:56:13,328 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:13,328 INFO - Route already changed (at simulation time 180.006,000,000 s)
+2020-05-23 21:56:13,329 INFO - Processing DEN message (at simulation time 180.006,100,000 s)
+2020-05-23 21:56:13,329 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:13,329 INFO - Route already changed (at simulation time 180.006,100,000 s)
+2020-05-23 21:56:13,331 INFO - Processing DEN message (at simulation time 180.006,600,000 s)
+2020-05-23 21:56:13,331 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:13,331 INFO - Route already changed (at simulation time 180.006,600,000 s)
+2020-05-23 21:56:13,491 DEBUG - No Sensor/Event detected (at simulation time 181.000,000,000 s)
+2020-05-23 21:56:13,514 INFO - Processing DEN message (at simulation time 181.005,500,000 s)
+2020-05-23 21:56:13,514 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:13,514 INFO - Route already changed (at simulation time 181.005,500,000 s)
+2020-05-23 21:56:13,515 INFO - Processing DEN message (at simulation time 181.006,600,000 s)
+2020-05-23 21:56:13,515 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:13,515 INFO - Route already changed (at simulation time 181.006,600,000 s)
+2020-05-23 21:56:13,515 INFO - Processing DEN message (at simulation time 181.006,600,000 s)
+2020-05-23 21:56:13,515 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:13,515 INFO - Route already changed (at simulation time 181.006,600,000 s)
+2020-05-23 21:56:13,515 INFO - Processing DEN message (at simulation time 181.006,600,000 s)
+2020-05-23 21:56:13,515 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:13,515 INFO - Route already changed (at simulation time 181.006,600,000 s)
+2020-05-23 21:56:13,516 INFO - Processing DEN message (at simulation time 181.008,500,000 s)
+2020-05-23 21:56:13,516 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:13,516 INFO - Route already changed (at simulation time 181.008,500,000 s)
+2020-05-23 21:56:13,673 DEBUG - No Sensor/Event detected (at simulation time 182.000,000,000 s)
+2020-05-23 21:56:13,683 INFO - Processing DEN message (at simulation time 182.003,600,000 s)
+2020-05-23 21:56:13,683 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:13,683 INFO - Route already changed (at simulation time 182.003,600,000 s)
+2020-05-23 21:56:13,686 INFO - Processing DEN message (at simulation time 182.006,000,000 s)
+2020-05-23 21:56:13,686 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:13,686 INFO - Route already changed (at simulation time 182.006,000,000 s)
+2020-05-23 21:56:13,686 INFO - Processing DEN message (at simulation time 182.006,000,000 s)
+2020-05-23 21:56:13,686 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:13,686 INFO - Route already changed (at simulation time 182.006,000,000 s)
+2020-05-23 21:56:13,687 INFO - Processing DEN message (at simulation time 182.006,500,000 s)
+2020-05-23 21:56:13,687 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:13,687 INFO - Route already changed (at simulation time 182.006,500,000 s)
+2020-05-23 21:56:13,687 INFO - Processing DEN message (at simulation time 182.007,000,000 s)
+2020-05-23 21:56:13,687 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:13,687 INFO - Route already changed (at simulation time 182.007,000,000 s)
+2020-05-23 21:56:13,793 DEBUG - No Sensor/Event detected (at simulation time 183.000,000,000 s)
+2020-05-23 21:56:13,813 INFO - Processing DEN message (at simulation time 183.004,100,000 s)
+2020-05-23 21:56:13,813 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:13,813 INFO - Route already changed (at simulation time 183.004,100,000 s)
+2020-05-23 21:56:13,816 INFO - Processing DEN message (at simulation time 183.006,000,000 s)
+2020-05-23 21:56:13,816 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:13,816 INFO - Route already changed (at simulation time 183.006,000,000 s)
+2020-05-23 21:56:13,816 INFO - Processing DEN message (at simulation time 183.006,500,000 s)
+2020-05-23 21:56:13,816 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:13,816 INFO - Route already changed (at simulation time 183.006,500,000 s)
+2020-05-23 21:56:13,816 INFO - Processing DEN message (at simulation time 183.006,500,000 s)
+2020-05-23 21:56:13,816 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:13,816 INFO - Route already changed (at simulation time 183.006,500,000 s)
+2020-05-23 21:56:13,818 INFO - Processing DEN message (at simulation time 183.008,000,000 s)
+2020-05-23 21:56:13,818 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:13,818 INFO - Route already changed (at simulation time 183.008,000,000 s)
+2020-05-23 21:56:13,888 DEBUG - No Sensor/Event detected (at simulation time 184.000,000,000 s)
+2020-05-23 21:56:13,911 INFO - Processing DEN message (at simulation time 184.004,000,000 s)
+2020-05-23 21:56:13,911 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:13,911 INFO - Route already changed (at simulation time 184.004,000,000 s)
+2020-05-23 21:56:13,913 INFO - Processing DEN message (at simulation time 184.005,100,000 s)
+2020-05-23 21:56:13,913 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:13,913 INFO - Route already changed (at simulation time 184.005,100,000 s)
+2020-05-23 21:56:13,916 INFO - Processing DEN message (at simulation time 184.006,500,000 s)
+2020-05-23 21:56:13,916 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:13,916 INFO - Route already changed (at simulation time 184.006,500,000 s)
+2020-05-23 21:56:13,920 INFO - Processing DEN message (at simulation time 184.007,500,000 s)
+2020-05-23 21:56:13,920 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:13,920 INFO - Route already changed (at simulation time 184.007,500,000 s)
+2020-05-23 21:56:13,920 INFO - Processing DEN message (at simulation time 184.007,600,000 s)
+2020-05-23 21:56:13,920 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:13,920 INFO - Route already changed (at simulation time 184.007,600,000 s)
+2020-05-23 21:56:13,920 INFO - Processing DEN message (at simulation time 184.008,000,000 s)
+2020-05-23 21:56:13,920 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:13,920 INFO - Route already changed (at simulation time 184.008,000,000 s)
+2020-05-23 21:56:14,045 DEBUG - No Sensor/Event detected (at simulation time 185.000,000,000 s)
+2020-05-23 21:56:14,239 DEBUG - No Sensor/Event detected (at simulation time 186.000,000,000 s)
+2020-05-23 21:56:14,306 DEBUG - No Sensor/Event detected (at simulation time 187.000,000,000 s)
+2020-05-23 21:56:14,439 DEBUG - No Sensor/Event detected (at simulation time 188.000,000,000 s)
+2020-05-23 21:56:14,487 DEBUG - No Sensor/Event detected (at simulation time 189.000,000,000 s)
+2020-05-23 21:56:14,634 DEBUG - No Sensor/Event detected (at simulation time 190.000,000,000 s)
+2020-05-23 21:56:14,803 DEBUG - No Sensor/Event detected (at simulation time 191.000,000,000 s)
+2020-05-23 21:56:14,970 DEBUG - No Sensor/Event detected (at simulation time 192.000,000,000 s)
+2020-05-23 21:56:15,023 DEBUG - No Sensor/Event detected (at simulation time 193.000,000,000 s)
+2020-05-23 21:56:15,179 DEBUG - No Sensor/Event detected (at simulation time 194.000,000,000 s)
+2020-05-23 21:56:15,249 DEBUG - No Sensor/Event detected (at simulation time 195.000,000,000 s)
+2020-05-23 21:56:15,415 DEBUG - No Sensor/Event detected (at simulation time 196.000,000,000 s)
+2020-05-23 21:56:15,497 DEBUG - No Sensor/Event detected (at simulation time 197.000,000,000 s)
+2020-05-23 21:56:15,581 DEBUG - No Sensor/Event detected (at simulation time 198.000,000,000 s)
+2020-05-23 21:56:15,678 DEBUG - No Sensor/Event detected (at simulation time 199.000,000,000 s)
+2020-05-23 21:56:15,748 DEBUG - No Sensor/Event detected (at simulation time 200.000,000,000 s)
+2020-05-23 21:56:15,956 DEBUG - No Sensor/Event detected (at simulation time 201.000,000,000 s)
+2020-05-23 21:56:16,075 DEBUG - No Sensor/Event detected (at simulation time 202.000,000,000 s)
+2020-05-23 21:56:16,125 DEBUG - No Sensor/Event detected (at simulation time 203.000,000,000 s)
+2020-05-23 21:56:16,292 DEBUG - No Sensor/Event detected (at simulation time 204.000,000,000 s)
+2020-05-23 21:56:16,347 DEBUG - No Sensor/Event detected (at simulation time 205.000,000,000 s)
+2020-05-23 21:56:16,537 DEBUG - No Sensor/Event detected (at simulation time 206.000,000,000 s)
+2020-05-23 21:56:16,618 DEBUG - No Sensor/Event detected (at simulation time 207.000,000,000 s)
+2020-05-23 21:56:16,680 DEBUG - No Sensor/Event detected (at simulation time 208.000,000,000 s)
+2020-05-23 21:56:16,771 DEBUG - No Sensor/Event detected (at simulation time 209.000,000,000 s)
+2020-05-23 21:56:16,946 DEBUG - No Sensor/Event detected (at simulation time 210.000,000,000 s)
+2020-05-23 21:56:17,087 DEBUG - No Sensor/Event detected (at simulation time 211.000,000,000 s)
+2020-05-23 21:56:17,217 DEBUG - No Sensor/Event detected (at simulation time 212.000,000,000 s)
+2020-05-23 21:56:17,260 DEBUG - No Sensor/Event detected (at simulation time 213.000,000,000 s)
+2020-05-23 21:56:17,337 DEBUG - No Sensor/Event detected (at simulation time 214.000,000,000 s)
+2020-05-23 21:56:17,478 DEBUG - No Sensor/Event detected (at simulation time 215.000,000,000 s)
+2020-05-23 21:56:17,628 DEBUG - No Sensor/Event detected (at simulation time 216.000,000,000 s)
+2020-05-23 21:56:17,663 DEBUG - No Sensor/Event detected (at simulation time 217.000,000,000 s)
+2020-05-23 21:56:17,723 DEBUG - No Sensor/Event detected (at simulation time 218.000,000,000 s)
+2020-05-23 21:56:17,848 DEBUG - No Sensor/Event detected (at simulation time 219.000,000,000 s)
+2020-05-23 21:56:17,893 DEBUG - No Sensor/Event detected (at simulation time 220.000,000,000 s)
+2020-05-23 21:56:18,071 DEBUG - No Sensor/Event detected (at simulation time 221.000,000,000 s)
+2020-05-23 21:56:18,167 DEBUG - No Sensor/Event detected (at simulation time 222.000,000,000 s)
+2020-05-23 21:56:18,206 DEBUG - No Sensor/Event detected (at simulation time 223.000,000,000 s)
+2020-05-23 21:56:18,355 DEBUG - No Sensor/Event detected (at simulation time 224.000,000,000 s)
+2020-05-23 21:56:18,524 DEBUG - No Sensor/Event detected (at simulation time 225.000,000,000 s)
+2020-05-23 21:56:18,677 DEBUG - No Sensor/Event detected (at simulation time 226.000,000,000 s)
+2020-05-23 21:56:18,780 DEBUG - No Sensor/Event detected (at simulation time 227.000,000,000 s)
+2020-05-23 21:56:18,889 DEBUG - No Sensor/Event detected (at simulation time 228.000,000,000 s)
+2020-05-23 21:56:18,946 DEBUG - No Sensor/Event detected (at simulation time 229.000,000,000 s)
+2020-05-23 21:56:19,097 DEBUG - No Sensor/Event detected (at simulation time 230.000,000,000 s)
+2020-05-23 21:56:19,183 DEBUG - No Sensor/Event detected (at simulation time 231.000,000,000 s)
+2020-05-23 21:56:19,343 DEBUG - No Sensor/Event detected (at simulation time 232.000,000,000 s)
+2020-05-23 21:56:19,451 DEBUG - No Sensor/Event detected (at simulation time 233.000,000,000 s)
+2020-05-23 21:56:19,500 DEBUG - No Sensor/Event detected (at simulation time 234.000,000,000 s)
+2020-05-23 21:56:19,644 DEBUG - No Sensor/Event detected (at simulation time 235.000,000,000 s)
+2020-05-23 21:56:19,733 DEBUG - No Sensor/Event detected (at simulation time 236.000,000,000 s)
+2020-05-23 21:56:19,836 DEBUG - No Sensor/Event detected (at simulation time 237.000,000,000 s)
+2020-05-23 21:56:19,877 DEBUG - No Sensor/Event detected (at simulation time 238.000,000,000 s)
+2020-05-23 21:56:19,938 DEBUG - No Sensor/Event detected (at simulation time 239.000,000,000 s)
+2020-05-23 21:56:20,095 DEBUG - No Sensor/Event detected (at simulation time 240.000,000,000 s)
+2020-05-23 21:56:20,187 DEBUG - No Sensor/Event detected (at simulation time 241.000,000,000 s)
+2020-05-23 21:56:20,305 DEBUG - No Sensor/Event detected (at simulation time 242.000,000,000 s)
+2020-05-23 21:56:20,414 DEBUG - No Sensor/Event detected (at simulation time 243.000,000,000 s)
+2020-05-23 21:56:20,469 DEBUG - No Sensor/Event detected (at simulation time 244.000,000,000 s)
+2020-05-23 21:56:20,510 DEBUG - No Sensor/Event detected (at simulation time 245.000,000,000 s)
+2020-05-23 21:56:20,798 DEBUG - No Sensor/Event detected (at simulation time 246.000,000,000 s)
+2020-05-23 21:56:20,876 DEBUG - No Sensor/Event detected (at simulation time 247.000,000,000 s)
+2020-05-23 21:56:20,923 DEBUG - No Sensor/Event detected (at simulation time 248.000,000,000 s)
+2020-05-23 21:56:21,069 DEBUG - No Sensor/Event detected (at simulation time 249.000,000,000 s)
+2020-05-23 21:56:21,111 DEBUG - No Sensor/Event detected (at simulation time 250.000,000,000 s)
+2020-05-23 21:56:21,311 DEBUG - No Sensor/Event detected (at simulation time 251.000,000,000 s)
+2020-05-23 21:56:21,390 DEBUG - No Sensor/Event detected (at simulation time 252.000,000,000 s)
+2020-05-23 21:56:21,432 DEBUG - No Sensor/Event detected (at simulation time 253.000,000,000 s)
+2020-05-23 21:56:21,467 DEBUG - No Sensor/Event detected (at simulation time 254.000,000,000 s)
+2020-05-23 21:56:21,539 DEBUG - No Sensor/Event detected (at simulation time 255.000,000,000 s)
+2020-05-23 21:56:21,796 DEBUG - No Sensor/Event detected (at simulation time 256.000,000,000 s)
+2020-05-23 21:56:21,875 DEBUG - No Sensor/Event detected (at simulation time 257.000,000,000 s)
+2020-05-23 21:56:21,929 DEBUG - No Sensor/Event detected (at simulation time 258.000,000,000 s)
+2020-05-23 21:56:22,077 INFO - Processing DEN message (at simulation time 258.002,700,000 s)
+2020-05-23 21:56:22,077 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:22,077 INFO - Route already changed (at simulation time 258.002,700,000 s)
+2020-05-23 21:56:22,077 INFO - Processing DEN message (at simulation time 258.002,800,000 s)
+2020-05-23 21:56:22,077 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:22,077 INFO - Route already changed (at simulation time 258.002,800,000 s)
+2020-05-23 21:56:22,247 INFO - Processing DEN message (at simulation time 258.004,100,000 s)
+2020-05-23 21:56:22,247 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:22,247 INFO - Route already changed (at simulation time 258.004,100,000 s)
+2020-05-23 21:56:22,247 INFO - Processing DEN message (at simulation time 258.004,200,000 s)
+2020-05-23 21:56:22,247 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:22,247 INFO - Route already changed (at simulation time 258.004,200,000 s)
+2020-05-23 21:56:22,284 INFO - Processing DEN message (at simulation time 258.004,700,000 s)
+2020-05-23 21:56:22,284 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:22,284 INFO - Route already changed (at simulation time 258.004,700,000 s)
+2020-05-23 21:56:22,285 INFO - Processing DEN message (at simulation time 258.005,200,000 s)
+2020-05-23 21:56:22,285 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:22,285 INFO - Route already changed (at simulation time 258.005,200,000 s)
+2020-05-23 21:56:22,342 INFO - Processing DEN message (at simulation time 258.006,700,000 s)
+2020-05-23 21:56:22,342 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:22,342 INFO - Route already changed (at simulation time 258.006,700,000 s)
+2020-05-23 21:56:22,391 DEBUG - No Sensor/Event detected (at simulation time 259.000,000,000 s)
+2020-05-23 21:56:22,426 INFO - Processing DEN message (at simulation time 259.002,300,000 s)
+2020-05-23 21:56:22,426 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:22,426 INFO - Route already changed (at simulation time 259.002,300,000 s)
+2020-05-23 21:56:22,434 INFO - Processing DEN message (at simulation time 259.003,200,000 s)
+2020-05-23 21:56:22,434 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:22,434 INFO - Route already changed (at simulation time 259.003,200,000 s)
+2020-05-23 21:56:22,436 INFO - Processing DEN message (at simulation time 259.003,700,000 s)
+2020-05-23 21:56:22,436 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:22,436 INFO - Route already changed (at simulation time 259.003,700,000 s)
+2020-05-23 21:56:22,437 INFO - Processing DEN message (at simulation time 259.004,200,000 s)
+2020-05-23 21:56:22,437 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:22,437 INFO - Route already changed (at simulation time 259.004,200,000 s)
+2020-05-23 21:56:22,438 INFO - Processing DEN message (at simulation time 259.004,700,000 s)
+2020-05-23 21:56:22,438 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:22,438 INFO - Route already changed (at simulation time 259.004,700,000 s)
+2020-05-23 21:56:22,443 INFO - Processing DEN message (at simulation time 259.006,200,000 s)
+2020-05-23 21:56:22,443 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:22,443 INFO - Route already changed (at simulation time 259.006,200,000 s)
+2020-05-23 21:56:22,445 INFO - Processing DEN message (at simulation time 259.007,600,000 s)
+2020-05-23 21:56:22,445 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:22,445 INFO - Route already changed (at simulation time 259.007,600,000 s)
+2020-05-23 21:56:22,491 DEBUG - No Sensor/Event detected (at simulation time 260.000,000,000 s)
+2020-05-23 21:56:22,750 INFO - Processing DEN message (at simulation time 260.001,800,000 s)
+2020-05-23 21:56:22,750 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:22,750 INFO - Route already changed (at simulation time 260.001,800,000 s)
+2020-05-23 21:56:22,752 INFO - Processing DEN message (at simulation time 260.002,700,000 s)
+2020-05-23 21:56:22,752 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:22,752 INFO - Route already changed (at simulation time 260.002,700,000 s)
+2020-05-23 21:56:22,752 INFO - Processing DEN message (at simulation time 260.002,700,000 s)
+2020-05-23 21:56:22,752 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:22,752 INFO - Route already changed (at simulation time 260.002,700,000 s)
+2020-05-23 21:56:22,753 INFO - Processing DEN message (at simulation time 260.003,200,000 s)
+2020-05-23 21:56:22,753 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:22,753 INFO - Route already changed (at simulation time 260.003,200,000 s)
+2020-05-23 21:56:22,753 INFO - Processing DEN message (at simulation time 260.003,700,000 s)
+2020-05-23 21:56:22,753 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:22,753 INFO - Route already changed (at simulation time 260.003,700,000 s)
+2020-05-23 21:56:22,754 INFO - Processing DEN message (at simulation time 260.004,300,000 s)
+2020-05-23 21:56:22,754 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:22,754 INFO - Route already changed (at simulation time 260.004,300,000 s)
+2020-05-23 21:56:22,755 INFO - Processing DEN message (at simulation time 260.004,700,000 s)
+2020-05-23 21:56:22,755 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:22,755 INFO - Route already changed (at simulation time 260.004,700,000 s)
+2020-05-23 21:56:22,805 DEBUG - No Sensor/Event detected (at simulation time 261.000,000,000 s)
+2020-05-23 21:56:22,882 INFO - Processing DEN message (at simulation time 261.001,300,000 s)
+2020-05-23 21:56:22,882 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:22,882 INFO - Route already changed (at simulation time 261.001,300,000 s)
+2020-05-23 21:56:22,888 INFO - Processing DEN message (at simulation time 261.003,200,000 s)
+2020-05-23 21:56:22,888 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:22,888 INFO - Route already changed (at simulation time 261.003,200,000 s)
+2020-05-23 21:56:22,888 INFO - Processing DEN message (at simulation time 261.003,200,000 s)
+2020-05-23 21:56:22,888 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:22,888 INFO - Route already changed (at simulation time 261.003,200,000 s)
+2020-05-23 21:56:22,889 INFO - Processing DEN message (at simulation time 261.003,300,000 s)
+2020-05-23 21:56:22,889 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:22,889 INFO - Route already changed (at simulation time 261.003,300,000 s)
+2020-05-23 21:56:22,889 INFO - Processing DEN message (at simulation time 261.003,700,000 s)
+2020-05-23 21:56:22,889 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:22,889 INFO - Route already changed (at simulation time 261.003,700,000 s)
+2020-05-23 21:56:22,891 INFO - Processing DEN message (at simulation time 261.004,200,000 s)
+2020-05-23 21:56:22,891 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:22,891 INFO - Route already changed (at simulation time 261.004,200,000 s)
+2020-05-23 21:56:22,893 INFO - Processing DEN message (at simulation time 261.005,700,000 s)
+2020-05-23 21:56:22,893 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:22,893 INFO - Route already changed (at simulation time 261.005,700,000 s)
+2020-05-23 21:56:23,070 DEBUG - No Sensor/Event detected (at simulation time 262.000,000,000 s)
+2020-05-23 21:56:23,147 INFO - Processing DEN message (at simulation time 262.001,200,000 s)
+2020-05-23 21:56:23,147 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:23,147 INFO - Route already changed (at simulation time 262.001,200,000 s)
+2020-05-23 21:56:23,154 INFO - Processing DEN message (at simulation time 262.002,200,000 s)
+2020-05-23 21:56:23,154 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:23,154 INFO - Route already changed (at simulation time 262.002,200,000 s)
+2020-05-23 21:56:23,154 INFO - Processing DEN message (at simulation time 262.002,300,000 s)
+2020-05-23 21:56:23,154 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:23,154 INFO - Route already changed (at simulation time 262.002,300,000 s)
+2020-05-23 21:56:23,167 INFO - Processing DEN message (at simulation time 262.004,700,000 s)
+2020-05-23 21:56:23,167 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:23,167 INFO - Route already changed (at simulation time 262.004,700,000 s)
+2020-05-23 21:56:23,168 INFO - Processing DEN message (at simulation time 262.004,800,000 s)
+2020-05-23 21:56:23,168 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:23,168 INFO - Route already changed (at simulation time 262.004,800,000 s)
+2020-05-23 21:56:23,170 INFO - Processing DEN message (at simulation time 262.005,200,000 s)
+2020-05-23 21:56:23,170 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:23,170 INFO - Route already changed (at simulation time 262.005,200,000 s)
+2020-05-23 21:56:23,170 INFO - Processing DEN message (at simulation time 262.005,700,000 s)
+2020-05-23 21:56:23,170 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:23,170 INFO - Route already changed (at simulation time 262.005,700,000 s)
+2020-05-23 21:56:23,312 DEBUG - No Sensor/Event detected (at simulation time 263.000,000,000 s)
+2020-05-23 21:56:23,378 INFO - Processing DEN message (at simulation time 263.002,300,000 s)
+2020-05-23 21:56:23,378 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:23,378 INFO - Route already changed (at simulation time 263.002,300,000 s)
+2020-05-23 21:56:23,379 INFO - Processing DEN message (at simulation time 263.002,800,000 s)
+2020-05-23 21:56:23,379 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:23,379 INFO - Route already changed (at simulation time 263.002,800,000 s)
+2020-05-23 21:56:23,380 INFO - Processing DEN message (at simulation time 263.003,300,000 s)
+2020-05-23 21:56:23,380 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:23,380 INFO - Route already changed (at simulation time 263.003,300,000 s)
+2020-05-23 21:56:23,381 INFO - Processing DEN message (at simulation time 263.003,700,000 s)
+2020-05-23 21:56:23,381 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:23,381 INFO - Route already changed (at simulation time 263.003,700,000 s)
+2020-05-23 21:56:23,381 INFO - Processing DEN message (at simulation time 263.003,700,000 s)
+2020-05-23 21:56:23,381 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:23,381 INFO - Route already changed (at simulation time 263.003,700,000 s)
+2020-05-23 21:56:23,382 INFO - Processing DEN message (at simulation time 263.004,700,000 s)
+2020-05-23 21:56:23,382 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:23,382 INFO - Route already changed (at simulation time 263.004,700,000 s)
+2020-05-23 21:56:23,383 INFO - Processing DEN message (at simulation time 263.005,200,000 s)
+2020-05-23 21:56:23,383 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:23,383 INFO - Route already changed (at simulation time 263.005,200,000 s)
+2020-05-23 21:56:23,499 DEBUG - No Sensor/Event detected (at simulation time 264.000,000,000 s)
+2020-05-23 21:56:23,570 INFO - Processing DEN message (at simulation time 264.002,700,000 s)
+2020-05-23 21:56:23,570 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:23,570 INFO - Route already changed (at simulation time 264.002,700,000 s)
+2020-05-23 21:56:23,571 INFO - Processing DEN message (at simulation time 264.004,300,000 s)
+2020-05-23 21:56:23,571 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:23,571 INFO - Route already changed (at simulation time 264.004,300,000 s)
+2020-05-23 21:56:23,571 INFO - Processing DEN message (at simulation time 264.005,100,000 s)
+2020-05-23 21:56:23,571 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:23,571 INFO - Route already changed (at simulation time 264.005,100,000 s)
+2020-05-23 21:56:23,571 INFO - Processing DEN message (at simulation time 264.005,200,000 s)
+2020-05-23 21:56:23,571 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:23,571 INFO - Route already changed (at simulation time 264.005,200,000 s)
+2020-05-23 21:56:23,572 INFO - Processing DEN message (at simulation time 264.005,600,000 s)
+2020-05-23 21:56:23,572 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:23,572 INFO - Route already changed (at simulation time 264.005,600,000 s)
+2020-05-23 21:56:23,572 INFO - Processing DEN message (at simulation time 264.005,700,000 s)
+2020-05-23 21:56:23,572 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:23,572 INFO - Route already changed (at simulation time 264.005,700,000 s)
+2020-05-23 21:56:23,573 INFO - Processing DEN message (at simulation time 264.007,100,000 s)
+2020-05-23 21:56:23,573 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:23,573 INFO - Route already changed (at simulation time 264.007,100,000 s)
+2020-05-23 21:56:23,573 INFO - Processing DEN message (at simulation time 264.007,100,000 s)
+2020-05-23 21:56:23,573 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:23,573 INFO - Route already changed (at simulation time 264.007,100,000 s)
+2020-05-23 21:56:23,627 DEBUG - No Sensor/Event detected (at simulation time 265.000,000,000 s)
+2020-05-23 21:56:23,763 INFO - Processing DEN message (at simulation time 265.002,200,000 s)
+2020-05-23 21:56:23,764 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:23,764 INFO - Route already changed (at simulation time 265.002,200,000 s)
+2020-05-23 21:56:23,778 INFO - Processing DEN message (at simulation time 265.003,200,000 s)
+2020-05-23 21:56:23,778 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:23,778 INFO - Route already changed (at simulation time 265.003,200,000 s)
+2020-05-23 21:56:23,829 INFO - Processing DEN message (at simulation time 265.003,800,000 s)
+2020-05-23 21:56:23,829 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:23,829 INFO - Route already changed (at simulation time 265.003,800,000 s)
+2020-05-23 21:56:23,829 INFO - Processing DEN message (at simulation time 265.004,100,000 s)
+2020-05-23 21:56:23,829 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:23,829 INFO - Route already changed (at simulation time 265.004,100,000 s)
+2020-05-23 21:56:23,829 INFO - Processing DEN message (at simulation time 265.004,100,000 s)
+2020-05-23 21:56:23,829 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:23,829 INFO - Route already changed (at simulation time 265.004,100,000 s)
+2020-05-23 21:56:23,831 INFO - Processing DEN message (at simulation time 265.005,100,000 s)
+2020-05-23 21:56:23,831 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:23,831 INFO - Route already changed (at simulation time 265.005,100,000 s)
+2020-05-23 21:56:23,832 INFO - Processing DEN message (at simulation time 265.005,700,000 s)
+2020-05-23 21:56:23,832 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:23,833 INFO - Route already changed (at simulation time 265.005,700,000 s)
+2020-05-23 21:56:23,835 INFO - Processing DEN message (at simulation time 265.006,600,000 s)
+2020-05-23 21:56:23,835 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:23,835 INFO - Route already changed (at simulation time 265.006,600,000 s)
+2020-05-23 21:56:23,920 DEBUG - No Sensor/Event detected (at simulation time 266.000,000,000 s)
+2020-05-23 21:56:23,981 INFO - Processing DEN message (at simulation time 266.001,300,000 s)
+2020-05-23 21:56:23,981 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:23,981 INFO - Route already changed (at simulation time 266.001,300,000 s)
+2020-05-23 21:56:23,985 INFO - Processing DEN message (at simulation time 266.004,100,000 s)
+2020-05-23 21:56:23,985 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:23,985 INFO - Route already changed (at simulation time 266.004,100,000 s)
+2020-05-23 21:56:23,985 INFO - Processing DEN message (at simulation time 266.004,200,000 s)
+2020-05-23 21:56:23,985 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:23,985 INFO - Route already changed (at simulation time 266.004,200,000 s)
+2020-05-23 21:56:23,985 INFO - Processing DEN message (at simulation time 266.004,200,000 s)
+2020-05-23 21:56:23,985 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:23,985 INFO - Route already changed (at simulation time 266.004,200,000 s)
+2020-05-23 21:56:23,986 INFO - Processing DEN message (at simulation time 266.005,100,000 s)
+2020-05-23 21:56:23,986 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:23,986 INFO - Route already changed (at simulation time 266.005,100,000 s)
+2020-05-23 21:56:23,987 INFO - Processing DEN message (at simulation time 266.005,700,000 s)
+2020-05-23 21:56:23,987 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:23,987 INFO - Route already changed (at simulation time 266.005,700,000 s)
+2020-05-23 21:56:23,988 INFO - Processing DEN message (at simulation time 266.006,100,000 s)
+2020-05-23 21:56:23,988 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:23,988 INFO - Route already changed (at simulation time 266.006,100,000 s)
+2020-05-23 21:56:23,988 INFO - Processing DEN message (at simulation time 266.006,100,000 s)
+2020-05-23 21:56:23,988 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:23,988 INFO - Route already changed (at simulation time 266.006,100,000 s)
+2020-05-23 21:56:24,039 DEBUG - No Sensor/Event detected (at simulation time 267.000,000,000 s)
+2020-05-23 21:56:24,104 INFO - Processing DEN message (at simulation time 267.003,700,000 s)
+2020-05-23 21:56:24,104 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:24,104 INFO - Route already changed (at simulation time 267.003,700,000 s)
+2020-05-23 21:56:24,104 INFO - Processing DEN message (at simulation time 267.003,700,000 s)
+2020-05-23 21:56:24,104 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:24,104 INFO - Route already changed (at simulation time 267.003,700,000 s)
+2020-05-23 21:56:24,105 INFO - Processing DEN message (at simulation time 267.004,100,000 s)
+2020-05-23 21:56:24,105 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:24,105 INFO - Route already changed (at simulation time 267.004,100,000 s)
+2020-05-23 21:56:24,105 INFO - Processing DEN message (at simulation time 267.004,300,000 s)
+2020-05-23 21:56:24,105 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:24,105 INFO - Route already changed (at simulation time 267.004,300,000 s)
+2020-05-23 21:56:24,106 INFO - Processing DEN message (at simulation time 267.004,600,000 s)
+2020-05-23 21:56:24,106 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:24,106 INFO - Route already changed (at simulation time 267.004,600,000 s)
+2020-05-23 21:56:24,107 INFO - Processing DEN message (at simulation time 267.005,200,000 s)
+2020-05-23 21:56:24,107 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:24,107 INFO - Route already changed (at simulation time 267.005,200,000 s)
+2020-05-23 21:56:24,108 INFO - Processing DEN message (at simulation time 267.005,600,000 s)
+2020-05-23 21:56:24,108 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:24,108 INFO - Route already changed (at simulation time 267.005,600,000 s)
+2020-05-23 21:56:24,109 INFO - Processing DEN message (at simulation time 267.006,100,000 s)
+2020-05-23 21:56:24,109 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:24,109 INFO - Route already changed (at simulation time 267.006,100,000 s)
+2020-05-23 21:56:24,325 DEBUG - No Sensor/Event detected (at simulation time 268.000,000,000 s)
+2020-05-23 21:56:24,384 INFO - Processing DEN message (at simulation time 268.002,300,000 s)
+2020-05-23 21:56:24,384 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:24,384 INFO - Route already changed (at simulation time 268.002,300,000 s)
+2020-05-23 21:56:24,386 INFO - Processing DEN message (at simulation time 268.003,600,000 s)
+2020-05-23 21:56:24,386 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:24,386 INFO - Route already changed (at simulation time 268.003,600,000 s)
+2020-05-23 21:56:24,386 INFO - Processing DEN message (at simulation time 268.004,200,000 s)
+2020-05-23 21:56:24,386 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:24,387 INFO - Route already changed (at simulation time 268.004,200,000 s)
+2020-05-23 21:56:24,387 INFO - Processing DEN message (at simulation time 268.004,200,000 s)
+2020-05-23 21:56:24,387 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:24,387 INFO - Route already changed (at simulation time 268.004,200,000 s)
+2020-05-23 21:56:24,389 INFO - Processing DEN message (at simulation time 268.006,100,000 s)
+2020-05-23 21:56:24,389 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:24,389 INFO - Route already changed (at simulation time 268.006,100,000 s)
+2020-05-23 21:56:24,390 INFO - Processing DEN message (at simulation time 268.006,200,000 s)
+2020-05-23 21:56:24,390 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:24,390 INFO - Route already changed (at simulation time 268.006,200,000 s)
+2020-05-23 21:56:24,391 INFO - Processing DEN message (at simulation time 268.006,600,000 s)
+2020-05-23 21:56:24,391 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:24,391 INFO - Route already changed (at simulation time 268.006,600,000 s)
+2020-05-23 21:56:24,392 INFO - Processing DEN message (at simulation time 268.007,100,000 s)
+2020-05-23 21:56:24,392 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:24,392 INFO - Route already changed (at simulation time 268.007,100,000 s)
+2020-05-23 21:56:24,432 DEBUG - No Sensor/Event detected (at simulation time 269.000,000,000 s)
+2020-05-23 21:56:24,480 INFO - Processing DEN message (at simulation time 269.001,800,000 s)
+2020-05-23 21:56:24,480 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:24,480 INFO - Route already changed (at simulation time 269.001,800,000 s)
+2020-05-23 21:56:24,482 INFO - Processing DEN message (at simulation time 269.003,700,000 s)
+2020-05-23 21:56:24,482 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:24,482 INFO - Route already changed (at simulation time 269.003,700,000 s)
+2020-05-23 21:56:24,484 INFO - Processing DEN message (at simulation time 269.005,200,000 s)
+2020-05-23 21:56:24,484 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:24,484 INFO - Route already changed (at simulation time 269.005,200,000 s)
+2020-05-23 21:56:24,485 INFO - Processing DEN message (at simulation time 269.006,600,000 s)
+2020-05-23 21:56:24,485 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:24,485 INFO - Route already changed (at simulation time 269.006,600,000 s)
+2020-05-23 21:56:24,485 INFO - Processing DEN message (at simulation time 269.006,700,000 s)
+2020-05-23 21:56:24,485 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:24,485 INFO - Route already changed (at simulation time 269.006,700,000 s)
+2020-05-23 21:56:24,486 INFO - Processing DEN message (at simulation time 269.008,100,000 s)
+2020-05-23 21:56:24,486 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:24,486 INFO - Route already changed (at simulation time 269.008,100,000 s)
+2020-05-23 21:56:24,486 INFO - Processing DEN message (at simulation time 269.008,100,000 s)
+2020-05-23 21:56:24,486 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:24,486 INFO - Route already changed (at simulation time 269.008,100,000 s)
+2020-05-23 21:56:24,486 INFO - Processing DEN message (at simulation time 269.008,600,000 s)
+2020-05-23 21:56:24,486 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:24,486 INFO - Route already changed (at simulation time 269.008,600,000 s)
+2020-05-23 21:56:24,738 DEBUG - No Sensor/Event detected (at simulation time 270.000,000,000 s)
+2020-05-23 21:56:24,784 INFO - Processing DEN message (at simulation time 270.002,600,000 s)
+2020-05-23 21:56:24,784 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:24,784 INFO - Route already changed (at simulation time 270.002,600,000 s)
+2020-05-23 21:56:24,785 INFO - Processing DEN message (at simulation time 270.003,800,000 s)
+2020-05-23 21:56:24,785 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:24,785 INFO - Route already changed (at simulation time 270.003,800,000 s)
+2020-05-23 21:56:24,786 INFO - Processing DEN message (at simulation time 270.004,100,000 s)
+2020-05-23 21:56:24,786 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:24,786 INFO - Route already changed (at simulation time 270.004,100,000 s)
+2020-05-23 21:56:24,786 INFO - Processing DEN message (at simulation time 270.004,700,000 s)
+2020-05-23 21:56:24,786 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:24,786 INFO - Route already changed (at simulation time 270.004,700,000 s)
+2020-05-23 21:56:24,787 INFO - Processing DEN message (at simulation time 270.005,200,000 s)
+2020-05-23 21:56:24,787 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:24,787 INFO - Route already changed (at simulation time 270.005,200,000 s)
+2020-05-23 21:56:24,787 INFO - Processing DEN message (at simulation time 270.005,600,000 s)
+2020-05-23 21:56:24,787 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:24,787 INFO - Route already changed (at simulation time 270.005,600,000 s)
+2020-05-23 21:56:24,787 INFO - Processing DEN message (at simulation time 270.005,700,000 s)
+2020-05-23 21:56:24,787 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:24,787 INFO - Route already changed (at simulation time 270.005,700,000 s)
+2020-05-23 21:56:24,789 INFO - Processing DEN message (at simulation time 270.006,600,000 s)
+2020-05-23 21:56:24,789 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:24,789 INFO - Route already changed (at simulation time 270.006,600,000 s)
+2020-05-23 21:56:24,836 DEBUG - No Sensor/Event detected (at simulation time 271.000,000,000 s)
+2020-05-23 21:56:24,882 INFO - Processing DEN message (at simulation time 271.001,800,000 s)
+2020-05-23 21:56:24,882 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:24,882 INFO - Route already changed (at simulation time 271.001,800,000 s)
+2020-05-23 21:56:24,883 INFO - Processing DEN message (at simulation time 271.002,200,000 s)
+2020-05-23 21:56:24,883 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:24,883 INFO - Route already changed (at simulation time 271.002,200,000 s)
+2020-05-23 21:56:24,884 INFO - Processing DEN message (at simulation time 271.002,800,000 s)
+2020-05-23 21:56:24,884 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:24,884 INFO - Route already changed (at simulation time 271.002,800,000 s)
+2020-05-23 21:56:24,891 INFO - Processing DEN message (at simulation time 271.004,700,000 s)
+2020-05-23 21:56:24,891 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:24,891 INFO - Route already changed (at simulation time 271.004,700,000 s)
+2020-05-23 21:56:24,892 INFO - Processing DEN message (at simulation time 271.005,200,000 s)
+2020-05-23 21:56:24,892 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:24,892 INFO - Route already changed (at simulation time 271.005,200,000 s)
+2020-05-23 21:56:24,893 INFO - Processing DEN message (at simulation time 271.005,700,000 s)
+2020-05-23 21:56:24,893 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:24,893 INFO - Route already changed (at simulation time 271.005,700,000 s)
+2020-05-23 21:56:24,893 INFO - Processing DEN message (at simulation time 271.006,200,000 s)
+2020-05-23 21:56:24,893 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:24,893 INFO - Route already changed (at simulation time 271.006,200,000 s)
+2020-05-23 21:56:24,894 INFO - Processing DEN message (at simulation time 271.006,600,000 s)
+2020-05-23 21:56:24,894 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:24,894 INFO - Route already changed (at simulation time 271.006,600,000 s)
+2020-05-23 21:56:25,057 DEBUG - No Sensor/Event detected (at simulation time 272.000,000,000 s)
+2020-05-23 21:56:25,124 INFO - Processing DEN message (at simulation time 272.002,300,000 s)
+2020-05-23 21:56:25,124 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:25,124 INFO - Route already changed (at simulation time 272.002,300,000 s)
+2020-05-23 21:56:25,132 INFO - Processing DEN message (at simulation time 272.002,700,000 s)
+2020-05-23 21:56:25,132 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:25,132 INFO - Route already changed (at simulation time 272.002,700,000 s)
+2020-05-23 21:56:25,134 INFO - Processing DEN message (at simulation time 272.004,200,000 s)
+2020-05-23 21:56:25,134 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:25,134 INFO - Route already changed (at simulation time 272.004,200,000 s)
+2020-05-23 21:56:25,135 INFO - Processing DEN message (at simulation time 272.004,300,000 s)
+2020-05-23 21:56:25,135 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:25,135 INFO - Route already changed (at simulation time 272.004,300,000 s)
+2020-05-23 21:56:25,136 INFO - Processing DEN message (at simulation time 272.004,700,000 s)
+2020-05-23 21:56:25,136 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:25,136 INFO - Route already changed (at simulation time 272.004,700,000 s)
+2020-05-23 21:56:25,137 INFO - Processing DEN message (at simulation time 272.005,200,000 s)
+2020-05-23 21:56:25,137 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:25,137 INFO - Route already changed (at simulation time 272.005,200,000 s)
+2020-05-23 21:56:25,137 INFO - Processing DEN message (at simulation time 272.005,600,000 s)
+2020-05-23 21:56:25,137 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:25,137 INFO - Route already changed (at simulation time 272.005,600,000 s)
+2020-05-23 21:56:25,139 INFO - Processing DEN message (at simulation time 272.006,700,000 s)
+2020-05-23 21:56:25,139 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:25,139 INFO - Route already changed (at simulation time 272.006,700,000 s)
+2020-05-23 21:56:25,189 DEBUG - No Sensor/Event detected (at simulation time 273.000,000,000 s)
+2020-05-23 21:56:25,264 INFO - Processing DEN message (at simulation time 273.001,700,000 s)
+2020-05-23 21:56:25,264 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:25,264 INFO - Route already changed (at simulation time 273.001,700,000 s)
+2020-05-23 21:56:25,266 INFO - Processing DEN message (at simulation time 273.002,800,000 s)
+2020-05-23 21:56:25,266 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:25,266 INFO - Route already changed (at simulation time 273.002,800,000 s)
+2020-05-23 21:56:25,267 INFO - Processing DEN message (at simulation time 273.004,100,000 s)
+2020-05-23 21:56:25,267 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:25,267 INFO - Route already changed (at simulation time 273.004,100,000 s)
+2020-05-23 21:56:25,268 INFO - Processing DEN message (at simulation time 273.004,700,000 s)
+2020-05-23 21:56:25,268 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:25,268 INFO - Route already changed (at simulation time 273.004,700,000 s)
+2020-05-23 21:56:25,269 INFO - Processing DEN message (at simulation time 273.005,600,000 s)
+2020-05-23 21:56:25,269 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:25,269 INFO - Route already changed (at simulation time 273.005,600,000 s)
+2020-05-23 21:56:25,270 INFO - Processing DEN message (at simulation time 273.005,700,000 s)
+2020-05-23 21:56:25,270 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:25,270 INFO - Route already changed (at simulation time 273.005,700,000 s)
+2020-05-23 21:56:25,270 INFO - Processing DEN message (at simulation time 273.006,100,000 s)
+2020-05-23 21:56:25,270 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:25,270 INFO - Route already changed (at simulation time 273.006,100,000 s)
+2020-05-23 21:56:25,271 INFO - Processing DEN message (at simulation time 273.006,600,000 s)
+2020-05-23 21:56:25,271 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:25,271 INFO - Route already changed (at simulation time 273.006,600,000 s)
+2020-05-23 21:56:25,337 DEBUG - No Sensor/Event detected (at simulation time 274.000,000,000 s)
+2020-05-23 21:56:25,426 INFO - Processing DEN message (at simulation time 274.001,300,000 s)
+2020-05-23 21:56:25,426 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:25,426 INFO - Route already changed (at simulation time 274.001,300,000 s)
+2020-05-23 21:56:25,427 INFO - Processing DEN message (at simulation time 274.001,800,000 s)
+2020-05-23 21:56:25,427 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:25,427 INFO - Route already changed (at simulation time 274.001,800,000 s)
+2020-05-23 21:56:25,433 INFO - Processing DEN message (at simulation time 274.005,100,000 s)
+2020-05-23 21:56:25,433 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:25,433 INFO - Route already changed (at simulation time 274.005,100,000 s)
+2020-05-23 21:56:25,433 INFO - Processing DEN message (at simulation time 274.005,200,000 s)
+2020-05-23 21:56:25,433 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:25,433 INFO - Route already changed (at simulation time 274.005,200,000 s)
+2020-05-23 21:56:25,433 INFO - Processing DEN message (at simulation time 274.005,600,000 s)
+2020-05-23 21:56:25,433 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:25,433 INFO - Route already changed (at simulation time 274.005,600,000 s)
+2020-05-23 21:56:25,434 INFO - Processing DEN message (at simulation time 274.005,700,000 s)
+2020-05-23 21:56:25,434 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:25,434 INFO - Route already changed (at simulation time 274.005,700,000 s)
+2020-05-23 21:56:25,438 INFO - Processing DEN message (at simulation time 274.006,600,000 s)
+2020-05-23 21:56:25,438 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:25,438 INFO - Route already changed (at simulation time 274.006,600,000 s)
+2020-05-23 21:56:25,439 INFO - Processing DEN message (at simulation time 274.007,200,000 s)
+2020-05-23 21:56:25,439 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:25,439 INFO - Route already changed (at simulation time 274.007,200,000 s)
+2020-05-23 21:56:25,472 INFO - Processing DEN message (at simulation time 274.008,600,000 s)
+2020-05-23 21:56:25,472 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:25,472 INFO - Route already changed (at simulation time 274.008,600,000 s)
+2020-05-23 21:56:25,590 DEBUG - No Sensor/Event detected (at simulation time 275.000,000,000 s)
+2020-05-23 21:56:25,644 INFO - Processing DEN message (at simulation time 275.002,200,000 s)
+2020-05-23 21:56:25,644 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:25,644 INFO - Route already changed (at simulation time 275.002,200,000 s)
+2020-05-23 21:56:25,646 INFO - Processing DEN message (at simulation time 275.002,800,000 s)
+2020-05-23 21:56:25,646 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:25,646 INFO - Route already changed (at simulation time 275.002,800,000 s)
+2020-05-23 21:56:25,646 INFO - Processing DEN message (at simulation time 275.003,300,000 s)
+2020-05-23 21:56:25,646 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:25,646 INFO - Route already changed (at simulation time 275.003,300,000 s)
+2020-05-23 21:56:25,650 INFO - Processing DEN message (at simulation time 275.005,100,000 s)
+2020-05-23 21:56:25,650 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:25,650 INFO - Route already changed (at simulation time 275.005,100,000 s)
+2020-05-23 21:56:25,650 INFO - Processing DEN message (at simulation time 275.005,200,000 s)
+2020-05-23 21:56:25,650 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:25,650 INFO - Route already changed (at simulation time 275.005,200,000 s)
+2020-05-23 21:56:25,651 INFO - Processing DEN message (at simulation time 275.005,600,000 s)
+2020-05-23 21:56:25,651 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:25,651 INFO - Route already changed (at simulation time 275.005,600,000 s)
+2020-05-23 21:56:25,651 INFO - Processing DEN message (at simulation time 275.005,600,000 s)
+2020-05-23 21:56:25,651 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:25,651 INFO - Route already changed (at simulation time 275.005,600,000 s)
+2020-05-23 21:56:25,651 INFO - Processing DEN message (at simulation time 275.005,700,000 s)
+2020-05-23 21:56:25,651 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:25,651 INFO - Route already changed (at simulation time 275.005,700,000 s)
+2020-05-23 21:56:25,653 INFO - Processing DEN message (at simulation time 275.007,600,000 s)
+2020-05-23 21:56:25,653 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:25,653 INFO - Route already changed (at simulation time 275.007,600,000 s)
+2020-05-23 21:56:25,708 DEBUG - No Sensor/Event detected (at simulation time 276.000,000,000 s)
+2020-05-23 21:56:25,873 INFO - Processing DEN message (at simulation time 276.002,600,000 s)
+2020-05-23 21:56:25,873 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:25,873 INFO - Route already changed (at simulation time 276.002,600,000 s)
+2020-05-23 21:56:25,874 INFO - Processing DEN message (at simulation time 276.002,800,000 s)
+2020-05-23 21:56:25,874 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:25,874 INFO - Route already changed (at simulation time 276.002,800,000 s)
+2020-05-23 21:56:25,875 INFO - Processing DEN message (at simulation time 276.003,300,000 s)
+2020-05-23 21:56:25,875 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:25,875 INFO - Route already changed (at simulation time 276.003,300,000 s)
+2020-05-23 21:56:25,875 INFO - Processing DEN message (at simulation time 276.003,600,000 s)
+2020-05-23 21:56:25,875 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:25,875 INFO - Route already changed (at simulation time 276.003,600,000 s)
+2020-05-23 21:56:25,875 INFO - Processing DEN message (at simulation time 276.003,700,000 s)
+2020-05-23 21:56:25,875 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:25,875 INFO - Route already changed (at simulation time 276.003,700,000 s)
+2020-05-23 21:56:25,876 INFO - Processing DEN message (at simulation time 276.004,200,000 s)
+2020-05-23 21:56:25,876 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:25,876 INFO - Route already changed (at simulation time 276.004,200,000 s)
+2020-05-23 21:56:25,877 INFO - Processing DEN message (at simulation time 276.004,600,000 s)
+2020-05-23 21:56:25,877 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:25,877 INFO - Route already changed (at simulation time 276.004,600,000 s)
+2020-05-23 21:56:25,879 INFO - Processing DEN message (at simulation time 276.005,200,000 s)
+2020-05-23 21:56:25,879 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:25,879 INFO - Route already changed (at simulation time 276.005,200,000 s)
+2020-05-23 21:56:25,881 INFO - Processing DEN message (at simulation time 276.006,600,000 s)
+2020-05-23 21:56:25,881 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:25,881 INFO - Route already changed (at simulation time 276.006,600,000 s)
+2020-05-23 21:56:25,920 DEBUG - No Sensor/Event detected (at simulation time 277.000,000,000 s)
+2020-05-23 21:56:26,042 INFO - Processing DEN message (at simulation time 277.001,300,000 s)
+2020-05-23 21:56:26,042 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:26,042 INFO - Route already changed (at simulation time 277.001,300,000 s)
+2020-05-23 21:56:26,046 INFO - Processing DEN message (at simulation time 277.001,800,000 s)
+2020-05-23 21:56:26,046 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:26,046 INFO - Route already changed (at simulation time 277.001,800,000 s)
+2020-05-23 21:56:26,049 INFO - Processing DEN message (at simulation time 277.003,200,000 s)
+2020-05-23 21:56:26,049 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:26,049 INFO - Route already changed (at simulation time 277.003,200,000 s)
+2020-05-23 21:56:26,050 INFO - Processing DEN message (at simulation time 277.003,600,000 s)
+2020-05-23 21:56:26,050 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:26,050 INFO - Route already changed (at simulation time 277.003,600,000 s)
+2020-05-23 21:56:26,050 INFO - Processing DEN message (at simulation time 277.003,700,000 s)
+2020-05-23 21:56:26,050 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:26,050 INFO - Route already changed (at simulation time 277.003,700,000 s)
+2020-05-23 21:56:26,051 INFO - Processing DEN message (at simulation time 277.003,700,000 s)
+2020-05-23 21:56:26,051 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:26,051 INFO - Route already changed (at simulation time 277.003,700,000 s)
+2020-05-23 21:56:26,052 INFO - Processing DEN message (at simulation time 277.004,600,000 s)
+2020-05-23 21:56:26,052 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:26,052 INFO - Route already changed (at simulation time 277.004,600,000 s)
+2020-05-23 21:56:26,054 INFO - Processing DEN message (at simulation time 277.005,600,000 s)
+2020-05-23 21:56:26,054 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:26,054 INFO - Route already changed (at simulation time 277.005,600,000 s)
+2020-05-23 21:56:26,063 INFO - Processing DEN message (at simulation time 277.008,100,000 s)
+2020-05-23 21:56:26,063 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:26,063 INFO - Route already changed (at simulation time 277.008,100,000 s)
+2020-05-23 21:56:26,105 DEBUG - No Sensor/Event detected (at simulation time 278.000,000,000 s)
+2020-05-23 21:56:26,220 INFO - Processing DEN message (at simulation time 278.003,700,000 s)
+2020-05-23 21:56:26,220 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:26,220 INFO - Route already changed (at simulation time 278.003,700,000 s)
+2020-05-23 21:56:26,222 INFO - Processing DEN message (at simulation time 278.004,600,000 s)
+2020-05-23 21:56:26,222 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:26,222 INFO - Route already changed (at simulation time 278.004,600,000 s)
+2020-05-23 21:56:26,222 INFO - Processing DEN message (at simulation time 278.004,600,000 s)
+2020-05-23 21:56:26,222 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:26,222 INFO - Route already changed (at simulation time 278.004,600,000 s)
+2020-05-23 21:56:26,223 INFO - Processing DEN message (at simulation time 278.006,000,000 s)
+2020-05-23 21:56:26,223 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:26,223 INFO - Route already changed (at simulation time 278.006,000,000 s)
+2020-05-23 21:56:26,223 INFO - Processing DEN message (at simulation time 278.006,200,000 s)
+2020-05-23 21:56:26,223 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:26,223 INFO - Route already changed (at simulation time 278.006,200,000 s)
+2020-05-23 21:56:26,225 INFO - Processing DEN message (at simulation time 278.007,500,000 s)
+2020-05-23 21:56:26,225 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:26,225 INFO - Route already changed (at simulation time 278.007,500,000 s)
+2020-05-23 21:56:26,225 INFO - Processing DEN message (at simulation time 278.007,600,000 s)
+2020-05-23 21:56:26,225 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:26,225 INFO - Route already changed (at simulation time 278.007,600,000 s)
+2020-05-23 21:56:26,226 INFO - Processing DEN message (at simulation time 278.008,500,000 s)
+2020-05-23 21:56:26,226 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:26,226 INFO - Route already changed (at simulation time 278.008,500,000 s)
+2020-05-23 21:56:26,227 INFO - Processing DEN message (at simulation time 278.009,000,000 s)
+2020-05-23 21:56:26,227 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:26,227 INFO - Route already changed (at simulation time 278.009,000,000 s)
+2020-05-23 21:56:26,262 DEBUG - No Sensor/Event detected (at simulation time 279.000,000,000 s)
+2020-05-23 21:56:26,423 INFO - Processing DEN message (at simulation time 279.003,600,000 s)
+2020-05-23 21:56:26,423 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:26,423 INFO - Route already changed (at simulation time 279.003,600,000 s)
+2020-05-23 21:56:26,452 INFO - Processing DEN message (at simulation time 279.004,600,000 s)
+2020-05-23 21:56:26,452 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:26,452 INFO - Route already changed (at simulation time 279.004,600,000 s)
+2020-05-23 21:56:26,453 INFO - Processing DEN message (at simulation time 279.004,700,000 s)
+2020-05-23 21:56:26,453 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:26,453 INFO - Route already changed (at simulation time 279.004,700,000 s)
+2020-05-23 21:56:26,453 INFO - Processing DEN message (at simulation time 279.005,500,000 s)
+2020-05-23 21:56:26,453 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:26,453 INFO - Route already changed (at simulation time 279.005,500,000 s)
+2020-05-23 21:56:26,453 INFO - Processing DEN message (at simulation time 279.005,700,000 s)
+2020-05-23 21:56:26,453 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:26,453 INFO - Route already changed (at simulation time 279.005,700,000 s)
+2020-05-23 21:56:26,454 INFO - Processing DEN message (at simulation time 279.006,500,000 s)
+2020-05-23 21:56:26,454 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:26,454 INFO - Route already changed (at simulation time 279.006,500,000 s)
+2020-05-23 21:56:26,455 INFO - Processing DEN message (at simulation time 279.007,100,000 s)
+2020-05-23 21:56:26,455 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:26,455 INFO - Route already changed (at simulation time 279.007,100,000 s)
+2020-05-23 21:56:26,457 INFO - Processing DEN message (at simulation time 279.008,000,000 s)
+2020-05-23 21:56:26,457 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:26,457 INFO - Route already changed (at simulation time 279.008,000,000 s)
+2020-05-23 21:56:26,458 INFO - Processing DEN message (at simulation time 279.009,000,000 s)
+2020-05-23 21:56:26,458 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:26,458 INFO - Route already changed (at simulation time 279.009,000,000 s)
+2020-05-23 21:56:26,506 DEBUG - No Sensor/Event detected (at simulation time 280.000,000,000 s)
+2020-05-23 21:56:26,568 INFO - Processing DEN message (at simulation time 280.004,700,000 s)
+2020-05-23 21:56:26,568 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:26,568 INFO - Route already changed (at simulation time 280.004,700,000 s)
+2020-05-23 21:56:26,568 INFO - Processing DEN message (at simulation time 280.005,000,000 s)
+2020-05-23 21:56:26,568 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:26,568 INFO - Route already changed (at simulation time 280.005,000,000 s)
+2020-05-23 21:56:26,568 INFO - Processing DEN message (at simulation time 280.005,100,000 s)
+2020-05-23 21:56:26,568 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:26,568 INFO - Route already changed (at simulation time 280.005,100,000 s)
+2020-05-23 21:56:26,568 INFO - Processing DEN message (at simulation time 280.005,200,000 s)
+2020-05-23 21:56:26,568 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:26,568 INFO - Route already changed (at simulation time 280.005,200,000 s)
+2020-05-23 21:56:26,569 INFO - Processing DEN message (at simulation time 280.006,100,000 s)
+2020-05-23 21:56:26,569 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:26,569 INFO - Route already changed (at simulation time 280.006,100,000 s)
+2020-05-23 21:56:26,570 INFO - Processing DEN message (at simulation time 280.006,500,000 s)
+2020-05-23 21:56:26,570 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:26,570 INFO - Route already changed (at simulation time 280.006,500,000 s)
+2020-05-23 21:56:26,571 INFO - Processing DEN message (at simulation time 280.008,000,000 s)
+2020-05-23 21:56:26,571 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:26,571 INFO - Route already changed (at simulation time 280.008,000,000 s)
+2020-05-23 21:56:26,572 INFO - Processing DEN message (at simulation time 280.008,600,000 s)
+2020-05-23 21:56:26,572 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:26,572 INFO - Route already changed (at simulation time 280.008,600,000 s)
+2020-05-23 21:56:26,572 INFO - Processing DEN message (at simulation time 280.009,500,000 s)
+2020-05-23 21:56:26,572 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:26,572 INFO - Route already changed (at simulation time 280.009,500,000 s)
+2020-05-23 21:56:26,620 DEBUG - No Sensor/Event detected (at simulation time 281.000,000,000 s)
+2020-05-23 21:56:26,662 INFO - Processing DEN message (at simulation time 281.003,200,000 s)
+2020-05-23 21:56:26,662 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:26,662 INFO - Route already changed (at simulation time 281.003,200,000 s)
+2020-05-23 21:56:26,662 INFO - Processing DEN message (at simulation time 281.003,500,000 s)
+2020-05-23 21:56:26,662 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:26,662 INFO - Route already changed (at simulation time 281.003,500,000 s)
+2020-05-23 21:56:26,663 INFO - Processing DEN message (at simulation time 281.004,600,000 s)
+2020-05-23 21:56:26,663 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:26,663 INFO - Route already changed (at simulation time 281.004,600,000 s)
+2020-05-23 21:56:26,663 INFO - Processing DEN message (at simulation time 281.005,000,000 s)
+2020-05-23 21:56:26,663 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:26,663 INFO - Route already changed (at simulation time 281.005,000,000 s)
+2020-05-23 21:56:26,664 INFO - Processing DEN message (at simulation time 281.005,200,000 s)
+2020-05-23 21:56:26,664 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:26,664 INFO - Route already changed (at simulation time 281.005,200,000 s)
+2020-05-23 21:56:26,664 INFO - Processing DEN message (at simulation time 281.005,600,000 s)
+2020-05-23 21:56:26,664 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:26,664 INFO - Route already changed (at simulation time 281.005,600,000 s)
+2020-05-23 21:56:26,666 INFO - Processing DEN message (at simulation time 281.006,600,000 s)
+2020-05-23 21:56:26,666 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:26,666 INFO - Route already changed (at simulation time 281.006,600,000 s)
+2020-05-23 21:56:26,667 INFO - Processing DEN message (at simulation time 281.007,000,000 s)
+2020-05-23 21:56:26,667 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:26,667 INFO - Route already changed (at simulation time 281.007,000,000 s)
+2020-05-23 21:56:26,669 INFO - Processing DEN message (at simulation time 281.010,000,000 s)
+2020-05-23 21:56:26,669 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:26,669 INFO - Route already changed (at simulation time 281.010,000,000 s)
+2020-05-23 21:56:26,732 DEBUG - No Sensor/Event detected (at simulation time 282.000,000,000 s)
+2020-05-23 21:56:26,909 INFO - Processing DEN message (at simulation time 282.003,100,000 s)
+2020-05-23 21:56:26,909 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:26,909 INFO - Route already changed (at simulation time 282.003,100,000 s)
+2020-05-23 21:56:26,912 INFO - Processing DEN message (at simulation time 282.004,500,000 s)
+2020-05-23 21:56:26,912 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:26,912 INFO - Route already changed (at simulation time 282.004,500,000 s)
+2020-05-23 21:56:26,913 INFO - Processing DEN message (at simulation time 282.005,100,000 s)
+2020-05-23 21:56:26,913 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:26,913 INFO - Route already changed (at simulation time 282.005,100,000 s)
+2020-05-23 21:56:26,913 INFO - Processing DEN message (at simulation time 282.005,200,000 s)
+2020-05-23 21:56:26,913 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:26,913 INFO - Route already changed (at simulation time 282.005,200,000 s)
+2020-05-23 21:56:26,913 INFO - Processing DEN message (at simulation time 282.005,600,000 s)
+2020-05-23 21:56:26,913 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:26,913 INFO - Route already changed (at simulation time 282.005,600,000 s)
+2020-05-23 21:56:26,913 INFO - Processing DEN message (at simulation time 282.005,700,000 s)
+2020-05-23 21:56:26,913 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:26,913 INFO - Route already changed (at simulation time 282.005,700,000 s)
+2020-05-23 21:56:26,914 INFO - Processing DEN message (at simulation time 282.006,000,000 s)
+2020-05-23 21:56:26,914 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:26,914 INFO - Route already changed (at simulation time 282.006,000,000 s)
+2020-05-23 21:56:26,914 INFO - Processing DEN message (at simulation time 282.006,500,000 s)
+2020-05-23 21:56:26,914 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:26,914 INFO - Route already changed (at simulation time 282.006,500,000 s)
+2020-05-23 21:56:26,914 INFO - Processing DEN message (at simulation time 282.006,500,000 s)
+2020-05-23 21:56:26,914 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:26,914 INFO - Route already changed (at simulation time 282.006,500,000 s)
+2020-05-23 21:56:26,965 DEBUG - No Sensor/Event detected (at simulation time 283.000,000,000 s)
+2020-05-23 21:56:27,107 INFO - Processing DEN message (at simulation time 283.003,100,000 s)
+2020-05-23 21:56:27,107 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:27,107 INFO - Route already changed (at simulation time 283.003,100,000 s)
+2020-05-23 21:56:27,108 INFO - Processing DEN message (at simulation time 283.003,700,000 s)
+2020-05-23 21:56:27,108 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:27,108 INFO - Route already changed (at simulation time 283.003,700,000 s)
+2020-05-23 21:56:27,108 INFO - Processing DEN message (at simulation time 283.003,700,000 s)
+2020-05-23 21:56:27,108 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:27,108 INFO - Route already changed (at simulation time 283.003,700,000 s)
+2020-05-23 21:56:27,109 INFO - Processing DEN message (at simulation time 283.004,100,000 s)
+2020-05-23 21:56:27,109 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:27,109 INFO - Route already changed (at simulation time 283.004,100,000 s)
+2020-05-23 21:56:27,110 INFO - Processing DEN message (at simulation time 283.004,700,000 s)
+2020-05-23 21:56:27,110 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:27,110 INFO - Route already changed (at simulation time 283.004,700,000 s)
+2020-05-23 21:56:27,111 INFO - Processing DEN message (at simulation time 283.005,100,000 s)
+2020-05-23 21:56:27,111 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:27,111 INFO - Route already changed (at simulation time 283.005,100,000 s)
+2020-05-23 21:56:27,112 INFO - Processing DEN message (at simulation time 283.006,000,000 s)
+2020-05-23 21:56:27,112 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:27,112 INFO - Route already changed (at simulation time 283.006,000,000 s)
+2020-05-23 21:56:27,112 INFO - Processing DEN message (at simulation time 283.006,100,000 s)
+2020-05-23 21:56:27,112 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:27,112 INFO - Route already changed (at simulation time 283.006,100,000 s)
+2020-05-23 21:56:27,114 INFO - Processing DEN message (at simulation time 283.007,100,000 s)
+2020-05-23 21:56:27,114 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:27,114 INFO - Route already changed (at simulation time 283.007,100,000 s)
+2020-05-23 21:56:27,227 DEBUG - No Sensor/Event detected (at simulation time 284.000,000,000 s)
+2020-05-23 21:56:27,273 INFO - Processing DEN message (at simulation time 284.003,700,000 s)
+2020-05-23 21:56:27,273 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:27,273 INFO - Route already changed (at simulation time 284.003,700,000 s)
+2020-05-23 21:56:27,274 INFO - Processing DEN message (at simulation time 284.004,700,000 s)
+2020-05-23 21:56:27,274 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:27,274 INFO - Route already changed (at simulation time 284.004,700,000 s)
+2020-05-23 21:56:27,274 INFO - Processing DEN message (at simulation time 284.005,500,000 s)
+2020-05-23 21:56:27,274 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:27,274 INFO - Route already changed (at simulation time 284.005,500,000 s)
+2020-05-23 21:56:27,277 INFO - Processing DEN message (at simulation time 284.005,700,000 s)
+2020-05-23 21:56:27,277 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:27,277 INFO - Route already changed (at simulation time 284.005,700,000 s)
+2020-05-23 21:56:27,277 INFO - Processing DEN message (at simulation time 284.006,000,000 s)
+2020-05-23 21:56:27,277 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:27,277 INFO - Route already changed (at simulation time 284.006,000,000 s)
+2020-05-23 21:56:27,277 INFO - Processing DEN message (at simulation time 284.006,100,000 s)
+2020-05-23 21:56:27,277 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:27,277 INFO - Route already changed (at simulation time 284.006,100,000 s)
+2020-05-23 21:56:27,366 INFO - Processing DEN message (at simulation time 284.007,100,000 s)
+2020-05-23 21:56:27,366 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:27,366 INFO - Route already changed (at simulation time 284.007,100,000 s)
+2020-05-23 21:56:27,367 INFO - Processing DEN message (at simulation time 284.008,000,000 s)
+2020-05-23 21:56:27,367 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:27,367 INFO - Route already changed (at simulation time 284.008,000,000 s)
+2020-05-23 21:56:27,367 INFO - Processing DEN message (at simulation time 284.008,100,000 s)
+2020-05-23 21:56:27,367 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:27,367 INFO - Route already changed (at simulation time 284.008,100,000 s)
+2020-05-23 21:56:27,381 INFO - Processing DEN message (at simulation time 284.009,500,000 s)
+2020-05-23 21:56:27,381 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:27,381 INFO - Route already changed (at simulation time 284.009,500,000 s)
+2020-05-23 21:56:27,429 DEBUG - No Sensor/Event detected (at simulation time 285.000,000,000 s)
+2020-05-23 21:56:27,475 INFO - Processing DEN message (at simulation time 285.003,600,000 s)
+2020-05-23 21:56:27,475 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:27,475 INFO - Route already changed (at simulation time 285.003,600,000 s)
+2020-05-23 21:56:27,476 INFO - Processing DEN message (at simulation time 285.004,200,000 s)
+2020-05-23 21:56:27,476 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:27,476 INFO - Route already changed (at simulation time 285.004,200,000 s)
+2020-05-23 21:56:27,477 INFO - Processing DEN message (at simulation time 285.004,700,000 s)
+2020-05-23 21:56:27,477 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:27,477 INFO - Route already changed (at simulation time 285.004,700,000 s)
+2020-05-23 21:56:27,478 INFO - Processing DEN message (at simulation time 285.005,200,000 s)
+2020-05-23 21:56:27,478 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:27,478 INFO - Route already changed (at simulation time 285.005,200,000 s)
+2020-05-23 21:56:27,478 INFO - Processing DEN message (at simulation time 285.005,500,000 s)
+2020-05-23 21:56:27,478 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:27,478 INFO - Route already changed (at simulation time 285.005,500,000 s)
+2020-05-23 21:56:27,478 INFO - Processing DEN message (at simulation time 285.005,600,000 s)
+2020-05-23 21:56:27,478 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:27,478 INFO - Route already changed (at simulation time 285.005,600,000 s)
+2020-05-23 21:56:27,479 INFO - Processing DEN message (at simulation time 285.006,500,000 s)
+2020-05-23 21:56:27,479 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:27,479 INFO - Route already changed (at simulation time 285.006,500,000 s)
+2020-05-23 21:56:27,480 INFO - Processing DEN message (at simulation time 285.008,100,000 s)
+2020-05-23 21:56:27,480 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:27,480 INFO - Route already changed (at simulation time 285.008,100,000 s)
+2020-05-23 21:56:27,481 INFO - Processing DEN message (at simulation time 285.009,000,000 s)
+2020-05-23 21:56:27,481 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:27,481 INFO - Route already changed (at simulation time 285.009,000,000 s)
+2020-05-23 21:56:27,482 INFO - Processing DEN message (at simulation time 285.010,000,000 s)
+2020-05-23 21:56:27,482 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:27,482 INFO - Route already changed (at simulation time 285.010,000,000 s)
+2020-05-23 21:56:27,638 DEBUG - No Sensor/Event detected (at simulation time 286.000,000,000 s)
+2020-05-23 21:56:27,678 INFO - Processing DEN message (at simulation time 286.003,200,000 s)
+2020-05-23 21:56:27,678 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:27,678 INFO - Route already changed (at simulation time 286.003,200,000 s)
+2020-05-23 21:56:27,679 INFO - Processing DEN message (at simulation time 286.003,700,000 s)
+2020-05-23 21:56:27,679 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:27,679 INFO - Route already changed (at simulation time 286.003,700,000 s)
+2020-05-23 21:56:27,680 INFO - Processing DEN message (at simulation time 286.004,100,000 s)
+2020-05-23 21:56:27,680 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:27,680 INFO - Route already changed (at simulation time 286.004,100,000 s)
+2020-05-23 21:56:27,680 INFO - Processing DEN message (at simulation time 286.004,200,000 s)
+2020-05-23 21:56:27,680 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:27,680 INFO - Route already changed (at simulation time 286.004,200,000 s)
+2020-05-23 21:56:27,681 INFO - Processing DEN message (at simulation time 286.005,500,000 s)
+2020-05-23 21:56:27,681 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:27,681 INFO - Route already changed (at simulation time 286.005,500,000 s)
+2020-05-23 21:56:27,685 INFO - Processing DEN message (at simulation time 286.006,600,000 s)
+2020-05-23 21:56:27,685 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:27,685 INFO - Route already changed (at simulation time 286.006,600,000 s)
+2020-05-23 21:56:27,686 INFO - Processing DEN message (at simulation time 286.007,500,000 s)
+2020-05-23 21:56:27,686 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:27,686 INFO - Route already changed (at simulation time 286.007,500,000 s)
+2020-05-23 21:56:27,686 INFO - Processing DEN message (at simulation time 286.007,600,000 s)
+2020-05-23 21:56:27,686 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:27,686 INFO - Route already changed (at simulation time 286.007,600,000 s)
+2020-05-23 21:56:27,686 INFO - Processing DEN message (at simulation time 286.008,000,000 s)
+2020-05-23 21:56:27,686 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:27,686 INFO - Route already changed (at simulation time 286.008,000,000 s)
+2020-05-23 21:56:27,687 INFO - Processing DEN message (at simulation time 286.008,500,000 s)
+2020-05-23 21:56:27,687 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:27,687 INFO - Route already changed (at simulation time 286.008,500,000 s)
+2020-05-23 21:56:27,821 DEBUG - No Sensor/Event detected (at simulation time 287.000,000,000 s)
+2020-05-23 21:56:27,861 INFO - Processing DEN message (at simulation time 287.002,200,000 s)
+2020-05-23 21:56:27,861 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:27,861 INFO - Route already changed (at simulation time 287.002,200,000 s)
+2020-05-23 21:56:27,864 INFO - Processing DEN message (at simulation time 287.003,100,000 s)
+2020-05-23 21:56:27,864 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:27,864 INFO - Route already changed (at simulation time 287.003,100,000 s)
+2020-05-23 21:56:27,867 INFO - Processing DEN message (at simulation time 287.003,700,000 s)
+2020-05-23 21:56:27,867 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:27,867 INFO - Route already changed (at simulation time 287.003,700,000 s)
+2020-05-23 21:56:27,872 INFO - Processing DEN message (at simulation time 287.004,200,000 s)
+2020-05-23 21:56:27,872 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:27,872 INFO - Route already changed (at simulation time 287.004,200,000 s)
+2020-05-23 21:56:27,873 INFO - Processing DEN message (at simulation time 287.005,100,000 s)
+2020-05-23 21:56:27,873 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:27,873 INFO - Route already changed (at simulation time 287.005,100,000 s)
+2020-05-23 21:56:27,874 INFO - Processing DEN message (at simulation time 287.006,100,000 s)
+2020-05-23 21:56:27,874 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:27,874 INFO - Route already changed (at simulation time 287.006,100,000 s)
+2020-05-23 21:56:27,874 INFO - Processing DEN message (at simulation time 287.006,500,000 s)
+2020-05-23 21:56:27,874 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:27,874 INFO - Route already changed (at simulation time 287.006,500,000 s)
+2020-05-23 21:56:27,874 INFO - Processing DEN message (at simulation time 287.006,500,000 s)
+2020-05-23 21:56:27,874 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:27,874 INFO - Route already changed (at simulation time 287.006,500,000 s)
+2020-05-23 21:56:27,876 INFO - Processing DEN message (at simulation time 287.008,000,000 s)
+2020-05-23 21:56:27,876 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:27,876 INFO - Route already changed (at simulation time 287.008,000,000 s)
+2020-05-23 21:56:27,876 INFO - Processing DEN message (at simulation time 287.008,500,000 s)
+2020-05-23 21:56:27,877 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:27,877 INFO - Route already changed (at simulation time 287.008,500,000 s)
+2020-05-23 21:56:27,968 DEBUG - No Sensor/Event detected (at simulation time 288.000,000,000 s)
+2020-05-23 21:56:28,061 INFO - Processing DEN message (at simulation time 288.003,600,000 s)
+2020-05-23 21:56:28,061 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:28,061 INFO - Route already changed (at simulation time 288.003,600,000 s)
+2020-05-23 21:56:28,061 INFO - Processing DEN message (at simulation time 288.004,200,000 s)
+2020-05-23 21:56:28,061 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:28,061 INFO - Route already changed (at simulation time 288.004,200,000 s)
+2020-05-23 21:56:28,062 INFO - Processing DEN message (at simulation time 288.004,700,000 s)
+2020-05-23 21:56:28,062 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:28,062 INFO - Route already changed (at simulation time 288.004,700,000 s)
+2020-05-23 21:56:28,062 INFO - Processing DEN message (at simulation time 288.005,000,000 s)
+2020-05-23 21:56:28,062 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:28,062 INFO - Route already changed (at simulation time 288.005,000,000 s)
+2020-05-23 21:56:28,062 INFO - Processing DEN message (at simulation time 288.005,500,000 s)
+2020-05-23 21:56:28,062 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:28,062 INFO - Route already changed (at simulation time 288.005,500,000 s)
+2020-05-23 21:56:28,062 INFO - Processing DEN message (at simulation time 288.005,600,000 s)
+2020-05-23 21:56:28,062 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:28,062 INFO - Route already changed (at simulation time 288.005,600,000 s)
+2020-05-23 21:56:28,064 INFO - Processing DEN message (at simulation time 288.006,500,000 s)
+2020-05-23 21:56:28,064 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:28,064 INFO - Route already changed (at simulation time 288.006,500,000 s)
+2020-05-23 21:56:28,064 INFO - Processing DEN message (at simulation time 288.006,700,000 s)
+2020-05-23 21:56:28,064 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:28,064 INFO - Route already changed (at simulation time 288.006,700,000 s)
+2020-05-23 21:56:28,065 INFO - Processing DEN message (at simulation time 288.007,100,000 s)
+2020-05-23 21:56:28,065 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:28,065 INFO - Route already changed (at simulation time 288.007,100,000 s)
+2020-05-23 21:56:28,066 INFO - Processing DEN message (at simulation time 288.008,000,000 s)
+2020-05-23 21:56:28,066 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:28,066 INFO - Route already changed (at simulation time 288.008,000,000 s)
+2020-05-23 21:56:28,137 DEBUG - No Sensor/Event detected (at simulation time 289.000,000,000 s)
+2020-05-23 21:56:28,254 INFO - Processing DEN message (at simulation time 289.002,200,000 s)
+2020-05-23 21:56:28,254 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:28,254 INFO - Route already changed (at simulation time 289.002,200,000 s)
+2020-05-23 21:56:28,256 INFO - Processing DEN message (at simulation time 289.003,000,000 s)
+2020-05-23 21:56:28,256 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:28,256 INFO - Route already changed (at simulation time 289.003,000,000 s)
+2020-05-23 21:56:28,257 INFO - Processing DEN message (at simulation time 289.003,700,000 s)
+2020-05-23 21:56:28,257 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:28,257 INFO - Route already changed (at simulation time 289.003,700,000 s)
+2020-05-23 21:56:28,261 INFO - Processing DEN message (at simulation time 289.004,200,000 s)
+2020-05-23 21:56:28,261 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:28,261 INFO - Route already changed (at simulation time 289.004,200,000 s)
+2020-05-23 21:56:28,262 INFO - Processing DEN message (at simulation time 289.005,100,000 s)
+2020-05-23 21:56:28,262 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:28,262 INFO - Route already changed (at simulation time 289.005,100,000 s)
+2020-05-23 21:56:28,262 INFO - Processing DEN message (at simulation time 289.006,500,000 s)
+2020-05-23 21:56:28,262 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:28,262 INFO - Route already changed (at simulation time 289.006,500,000 s)
+2020-05-23 21:56:28,262 INFO - Processing DEN message (at simulation time 289.006,500,000 s)
+2020-05-23 21:56:28,262 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:28,262 INFO - Route already changed (at simulation time 289.006,500,000 s)
+2020-05-23 21:56:28,263 INFO - Processing DEN message (at simulation time 289.007,100,000 s)
+2020-05-23 21:56:28,263 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:28,263 INFO - Route already changed (at simulation time 289.007,100,000 s)
+2020-05-23 21:56:28,264 INFO - Processing DEN message (at simulation time 289.007,100,000 s)
+2020-05-23 21:56:28,264 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:28,264 INFO - Route already changed (at simulation time 289.007,100,000 s)
+2020-05-23 21:56:28,410 DEBUG - No Sensor/Event detected (at simulation time 290.000,000,000 s)
+2020-05-23 21:56:28,446 INFO - Processing DEN message (at simulation time 290.002,000,000 s)
+2020-05-23 21:56:28,446 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:28,446 INFO - Route already changed (at simulation time 290.002,000,000 s)
+2020-05-23 21:56:28,449 INFO - Processing DEN message (at simulation time 290.003,500,000 s)
+2020-05-23 21:56:28,449 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:28,449 INFO - Route already changed (at simulation time 290.003,500,000 s)
+2020-05-23 21:56:28,449 INFO - Processing DEN message (at simulation time 290.003,700,000 s)
+2020-05-23 21:56:28,449 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:28,449 INFO - Route already changed (at simulation time 290.003,700,000 s)
+2020-05-23 21:56:28,450 INFO - Processing DEN message (at simulation time 290.004,200,000 s)
+2020-05-23 21:56:28,450 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:28,450 INFO - Route already changed (at simulation time 290.004,200,000 s)
+2020-05-23 21:56:28,455 INFO - Processing DEN message (at simulation time 290.005,100,000 s)
+2020-05-23 21:56:28,455 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:28,455 INFO - Route already changed (at simulation time 290.005,100,000 s)
+2020-05-23 21:56:28,455 INFO - Processing DEN message (at simulation time 290.005,700,000 s)
+2020-05-23 21:56:28,455 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:28,455 INFO - Route already changed (at simulation time 290.005,700,000 s)
+2020-05-23 21:56:28,456 INFO - Processing DEN message (at simulation time 290.006,100,000 s)
+2020-05-23 21:56:28,456 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:28,456 INFO - Route already changed (at simulation time 290.006,100,000 s)
+2020-05-23 21:56:28,456 INFO - Processing DEN message (at simulation time 290.006,600,000 s)
+2020-05-23 21:56:28,456 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:28,456 INFO - Route already changed (at simulation time 290.006,600,000 s)
+2020-05-23 21:56:28,457 INFO - Processing DEN message (at simulation time 290.007,500,000 s)
+2020-05-23 21:56:28,457 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:28,457 INFO - Route already changed (at simulation time 290.007,500,000 s)
+2020-05-23 21:56:28,527 DEBUG - No Sensor/Event detected (at simulation time 291.000,000,000 s)
+2020-05-23 21:56:28,635 INFO - Processing DEN message (at simulation time 291.002,000,000 s)
+2020-05-23 21:56:28,635 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:28,635 INFO - Route already changed (at simulation time 291.002,000,000 s)
+2020-05-23 21:56:28,636 INFO - Processing DEN message (at simulation time 291.002,600,000 s)
+2020-05-23 21:56:28,636 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:28,636 INFO - Route already changed (at simulation time 291.002,600,000 s)
+2020-05-23 21:56:28,637 INFO - Processing DEN message (at simulation time 291.002,700,000 s)
+2020-05-23 21:56:28,637 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:28,637 INFO - Route already changed (at simulation time 291.002,700,000 s)
+2020-05-23 21:56:28,638 INFO - Processing DEN message (at simulation time 291.003,700,000 s)
+2020-05-23 21:56:28,638 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:28,638 INFO - Route already changed (at simulation time 291.003,700,000 s)
+2020-05-23 21:56:28,638 INFO - Processing DEN message (at simulation time 291.004,200,000 s)
+2020-05-23 21:56:28,638 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:28,638 INFO - Route already changed (at simulation time 291.004,200,000 s)
+2020-05-23 21:56:28,640 INFO - Processing DEN message (at simulation time 291.006,600,000 s)
+2020-05-23 21:56:28,640 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:28,640 INFO - Route already changed (at simulation time 291.006,600,000 s)
+2020-05-23 21:56:28,641 INFO - Processing DEN message (at simulation time 291.007,500,000 s)
+2020-05-23 21:56:28,641 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:28,641 INFO - Route already changed (at simulation time 291.007,500,000 s)
+2020-05-23 21:56:28,642 INFO - Processing DEN message (at simulation time 291.009,100,000 s)
+2020-05-23 21:56:28,642 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:28,642 INFO - Route already changed (at simulation time 291.009,100,000 s)
+2020-05-23 21:56:28,642 INFO - Processing DEN message (at simulation time 291.009,500,000 s)
+2020-05-23 21:56:28,642 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:28,642 INFO - Route already changed (at simulation time 291.009,500,000 s)
+2020-05-23 21:56:28,678 DEBUG - No Sensor/Event detected (at simulation time 292.000,000,000 s)
+2020-05-23 21:56:28,816 INFO - Processing DEN message (at simulation time 292.003,700,000 s)
+2020-05-23 21:56:28,816 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:28,816 INFO - Route already changed (at simulation time 292.003,700,000 s)
+2020-05-23 21:56:28,816 INFO - Processing DEN message (at simulation time 292.004,000,000 s)
+2020-05-23 21:56:28,816 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:28,816 INFO - Route already changed (at simulation time 292.004,000,000 s)
+2020-05-23 21:56:28,817 INFO - Processing DEN message (at simulation time 292.004,200,000 s)
+2020-05-23 21:56:28,817 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:28,817 INFO - Route already changed (at simulation time 292.004,200,000 s)
+2020-05-23 21:56:28,817 INFO - Processing DEN message (at simulation time 292.004,200,000 s)
+2020-05-23 21:56:28,817 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:28,817 INFO - Route already changed (at simulation time 292.004,200,000 s)
+2020-05-23 21:56:28,819 INFO - Processing DEN message (at simulation time 292.004,600,000 s)
+2020-05-23 21:56:28,819 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:28,819 INFO - Route already changed (at simulation time 292.004,600,000 s)
+2020-05-23 21:56:28,821 INFO - Processing DEN message (at simulation time 292.006,000,000 s)
+2020-05-23 21:56:28,821 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:28,821 INFO - Route already changed (at simulation time 292.006,000,000 s)
+2020-05-23 21:56:28,822 INFO - Processing DEN message (at simulation time 292.006,500,000 s)
+2020-05-23 21:56:28,822 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:28,822 INFO - Route already changed (at simulation time 292.006,500,000 s)
+2020-05-23 21:56:28,822 INFO - Processing DEN message (at simulation time 292.007,100,000 s)
+2020-05-23 21:56:28,822 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:28,822 INFO - Route already changed (at simulation time 292.007,100,000 s)
+2020-05-23 21:56:28,823 INFO - Processing DEN message (at simulation time 292.008,100,000 s)
+2020-05-23 21:56:28,823 DEBUG - Handle Environment Warning Message. Processing...
+2020-05-23 21:56:28,823 INFO - Route already changed (at simulation time 292.008,100,000 s)
+2020-05-23 21:56:28,855 DEBUG - No Sensor/Event detected (at simulation time 293.000,000,000 s)
+2020-05-23 21:56:28,929 DEBUG - No Sensor/Event detected (at simulation time 294.000,000,000 s)
+2020-05-23 21:56:29,163 DEBUG - No Sensor/Event detected (at simulation time 295.000,000,000 s)
+2020-05-23 21:56:29,384 DEBUG - No Sensor/Event detected (at simulation time 296.000,000,000 s)
+2020-05-23 21:56:29,447 DEBUG - No Sensor/Event detected (at simulation time 297.000,000,000 s)
+2020-05-23 21:56:29,663 DEBUG - No Sensor/Event detected (at simulation time 298.000,000,000 s)
+2020-05-23 21:56:29,767 DEBUG - No Sensor/Event detected (at simulation time 299.000,000,000 s)
+2020-05-23 21:56:29,836 DEBUG - No Sensor/Event detected (at simulation time 300.000,000,000 s)
+2020-05-23 21:56:30,083 DEBUG - No Sensor/Event detected (at simulation time 301.000,000,000 s)
+2020-05-23 21:56:30,160 DEBUG - No Sensor/Event detected (at simulation time 302.000,000,000 s)
+2020-05-23 21:56:30,223 DEBUG - No Sensor/Event detected (at simulation time 303.000,000,000 s)
+2020-05-23 21:56:30,279 DEBUG - No Sensor/Event detected (at simulation time 304.000,000,000 s)
+2020-05-23 21:56:30,431 DEBUG - No Sensor/Event detected (at simulation time 305.000,000,000 s)
+2020-05-23 21:56:30,616 DEBUG - No Sensor/Event detected (at simulation time 306.000,000,000 s)
+2020-05-23 21:56:30,764 DEBUG - No Sensor/Event detected (at simulation time 307.000,000,000 s)
+2020-05-23 21:56:30,888 DEBUG - No Sensor/Event detected (at simulation time 308.000,000,000 s)
+2020-05-23 21:56:30,953 DEBUG - No Sensor/Event detected (at simulation time 309.000,000,000 s)
+2020-05-23 21:56:31,146 DEBUG - No Sensor/Event detected (at simulation time 310.000,000,000 s)
+2020-05-23 21:56:31,314 DEBUG - No Sensor/Event detected (at simulation time 311.000,000,000 s)
+2020-05-23 21:56:31,369 DEBUG - No Sensor/Event detected (at simulation time 312.000,000,000 s)
+2020-05-23 21:56:31,435 DEBUG - No Sensor/Event detected (at simulation time 313.000,000,000 s)
+2020-05-23 21:56:31,483 DEBUG - No Sensor/Event detected (at simulation time 314.000,000,000 s)
+2020-05-23 21:56:31,763 DEBUG - No Sensor/Event detected (at simulation time 315.000,000,000 s)
+2020-05-23 21:56:31,895 DEBUG - No Sensor/Event detected (at simulation time 316.000,000,000 s)
+2020-05-23 21:56:31,971 DEBUG - No Sensor/Event detected (at simulation time 317.000,000,000 s)
+2020-05-23 21:56:32,092 DEBUG - No Sensor/Event detected (at simulation time 318.000,000,000 s)
+2020-05-23 21:56:32,196 DEBUG - No Sensor/Event detected (at simulation time 319.000,000,000 s)
+2020-05-23 21:56:32,347 DEBUG - No Sensor/Event detected (at simulation time 320.000,000,000 s)
+2020-05-23 21:56:32,492 DEBUG - No Sensor/Event detected (at simulation time 321.000,000,000 s)
+2020-05-23 21:56:32,595 DEBUG - No Sensor/Event detected (at simulation time 322.000,000,000 s)
+2020-05-23 21:56:32,687 DEBUG - No Sensor/Event detected (at simulation time 323.000,000,000 s)
+2020-05-23 21:56:32,742 DEBUG - No Sensor/Event detected (at simulation time 324.000,000,000 s)
+2020-05-23 21:56:32,914 DEBUG - No Sensor/Event detected (at simulation time 325.000,000,000 s)
+2020-05-23 21:56:33,034 DEBUG - No Sensor/Event detected (at simulation time 326.000,000,000 s)
+2020-05-23 21:56:33,169 DEBUG - No Sensor/Event detected (at simulation time 327.000,000,000 s)
+2020-05-23 21:56:33,268 DEBUG - No Sensor/Event detected (at simulation time 328.000,000,000 s)
+2020-05-23 21:56:33,320 DEBUG - No Sensor/Event detected (at simulation time 329.000,000,000 s)
+2020-05-23 21:56:33,485 DEBUG - No Sensor/Event detected (at simulation time 330.000,000,000 s)
+2020-05-23 21:56:33,600 DEBUG - No Sensor/Event detected (at simulation time 331.000,000,000 s)
+2020-05-23 21:56:33,668 DEBUG - No Sensor/Event detected (at simulation time 332.000,000,000 s)
+2020-05-23 21:56:33,737 DEBUG - No Sensor/Event detected (at simulation time 333.000,000,000 s)
+2020-05-23 21:56:33,843 DEBUG - No Sensor/Event detected (at simulation time 334.000,000,000 s)
+2020-05-23 21:56:33,894 DEBUG - No Sensor/Event detected (at simulation time 335.000,000,000 s)
+2020-05-23 21:56:34,096 DEBUG - No Sensor/Event detected (at simulation time 336.000,000,000 s)
+2020-05-23 21:56:34,191 DEBUG - No Sensor/Event detected (at simulation time 337.000,000,000 s)
+2020-05-23 21:56:34,246 DEBUG - No Sensor/Event detected (at simulation time 338.000,000,000 s)
+2020-05-23 21:56:34,299 DEBUG - No Sensor/Event detected (at simulation time 339.000,000,000 s)
+2020-05-23 21:56:34,549 DEBUG - No Sensor/Event detected (at simulation time 340.000,000,000 s)
+2020-05-23 21:56:34,690 DEBUG - No Sensor/Event detected (at simulation time 341.000,000,000 s)
+2020-05-23 21:56:34,912 DEBUG - No Sensor/Event detected (at simulation time 342.000,000,000 s)
+2020-05-23 21:56:34,980 DEBUG - No Sensor/Event detected (at simulation time 343.000,000,000 s)
+2020-05-23 21:56:35,140 DEBUG - No Sensor/Event detected (at simulation time 344.000,000,000 s)
+2020-05-23 21:56:35,260 DEBUG - No Sensor/Event detected (at simulation time 345.000,000,000 s)
+2020-05-23 21:56:35,332 DEBUG - No Sensor/Event detected (at simulation time 346.000,000,000 s)
+2020-05-23 21:56:35,401 DEBUG - No Sensor/Event detected (at simulation time 347.000,000,000 s)
+2020-05-23 21:56:35,446 DEBUG - No Sensor/Event detected (at simulation time 348.000,000,000 s)
+2020-05-23 21:56:35,478 DEBUG - No Sensor/Event detected (at simulation time 349.000,000,000 s)
+2020-05-23 21:56:35,537 DEBUG - No Sensor/Event detected (at simulation time 350.000,000,000 s)
+2020-05-23 21:56:35,789 DEBUG - No Sensor/Event detected (at simulation time 351.000,000,000 s)
+2020-05-23 21:56:35,839 DEBUG - No Sensor/Event detected (at simulation time 352.000,000,000 s)
+2020-05-23 21:56:35,880 DEBUG - No Sensor/Event detected (at simulation time 353.000,000,000 s)
+2020-05-23 21:56:35,970 DEBUG - No Sensor/Event detected (at simulation time 354.000,000,000 s)
+2020-05-23 21:56:36,126 DEBUG - No Sensor/Event detected (at simulation time 355.000,000,000 s)
+2020-05-23 21:56:36,262 DEBUG - No Sensor/Event detected (at simulation time 356.000,000,000 s)
+2020-05-23 21:56:36,308 DEBUG - No Sensor/Event detected (at simulation time 357.000,000,000 s)
+2020-05-23 21:56:36,460 DEBUG - No Sensor/Event detected (at simulation time 358.000,000,000 s)
+2020-05-23 21:56:36,498 DEBUG - No Sensor/Event detected (at simulation time 359.000,000,000 s)
+2020-05-23 21:56:36,684 DEBUG - No Sensor/Event detected (at simulation time 360.000,000,000 s)
+2020-05-23 21:56:36,916 DEBUG - No Sensor/Event detected (at simulation time 361.000,000,000 s)
+2020-05-23 21:56:36,965 DEBUG - No Sensor/Event detected (at simulation time 362.000,000,000 s)
+2020-05-23 21:56:37,149 DEBUG - No Sensor/Event detected (at simulation time 363.000,000,000 s)
+2020-05-23 21:56:37,289 DEBUG - No Sensor/Event detected (at simulation time 364.000,000,000 s)
+2020-05-23 21:56:37,339 DEBUG - No Sensor/Event detected (at simulation time 365.000,000,000 s)
+2020-05-23 21:56:37,562 DEBUG - No Sensor/Event detected (at simulation time 366.000,000,000 s)
+2020-05-23 21:56:37,656 DEBUG - No Sensor/Event detected (at simulation time 367.000,000,000 s)
+2020-05-23 21:56:37,791 DEBUG - No Sensor/Event detected (at simulation time 368.000,000,000 s)
+2020-05-23 21:56:37,850 DEBUG - No Sensor/Event detected (at simulation time 369.000,000,000 s)
+2020-05-23 21:56:37,933 DEBUG - No Sensor/Event detected (at simulation time 370.000,000,000 s)
+2020-05-23 21:56:38,111 DEBUG - No Sensor/Event detected (at simulation time 371.000,000,000 s)
+2020-05-23 21:56:38,232 DEBUG - No Sensor/Event detected (at simulation time 372.000,000,000 s)
+2020-05-23 21:56:38,324 DEBUG - No Sensor/Event detected (at simulation time 373.000,000,000 s)
+2020-05-23 21:56:38,489 DEBUG - No Sensor/Event detected (at simulation time 374.000,000,000 s)
+2020-05-23 21:56:38,554 DEBUG - No Sensor/Event detected (at simulation time 375.000,000,000 s)
+2020-05-23 21:56:38,704 DEBUG - No Sensor/Event detected (at simulation time 376.000,000,000 s)
+2020-05-23 21:56:38,822 DEBUG - No Sensor/Event detected (at simulation time 377.000,000,000 s)
+2020-05-23 21:56:38,903 DEBUG - No Sensor/Event detected (at simulation time 378.000,000,000 s)
+2020-05-23 21:56:38,967 DEBUG - No Sensor/Event detected (at simulation time 379.000,000,000 s)
+2020-05-23 21:56:39,121 DEBUG - No Sensor/Event detected (at simulation time 380.000,000,000 s)
+2020-05-23 21:56:39,199 DEBUG - No Sensor/Event detected (at simulation time 381.000,000,000 s)
+2020-05-23 21:56:39,404 DEBUG - No Sensor/Event detected (at simulation time 382.000,000,000 s)
+2020-05-23 21:56:39,478 DEBUG - No Sensor/Event detected (at simulation time 383.000,000,000 s)
+2020-05-23 21:56:39,521 DEBUG - No Sensor/Event detected (at simulation time 384.000,000,000 s)
+2020-05-23 21:56:39,681 DEBUG - No Sensor/Event detected (at simulation time 385.000,000,000 s)
+2020-05-23 21:56:39,753 DEBUG - No Sensor/Event detected (at simulation time 386.000,000,000 s)
+2020-05-23 21:56:39,905 DEBUG - No Sensor/Event detected (at simulation time 387.000,000,000 s)
+2020-05-23 21:56:39,991 DEBUG - No Sensor/Event detected (at simulation time 388.000,000,000 s)
+2020-05-23 21:56:40,122 DEBUG - No Sensor/Event detected (at simulation time 389.000,000,000 s)
+2020-05-23 21:56:40,171 DEBUG - No Sensor/Event detected (at simulation time 390.000,000,000 s)
+2020-05-23 21:56:40,301 DEBUG - No Sensor/Event detected (at simulation time 391.000,000,000 s)
+2020-05-23 21:56:40,346 DEBUG - No Sensor/Event detected (at simulation time 392.000,000,000 s)
+2020-05-23 21:56:40,401 DEBUG - No Sensor/Event detected (at simulation time 393.000,000,000 s)
+2020-05-23 21:56:40,448 DEBUG - No Sensor/Event detected (at simulation time 394.000,000,000 s)
+2020-05-23 21:56:40,551 DEBUG - No Sensor/Event detected (at simulation time 395.000,000,000 s)
+2020-05-23 21:56:40,843 DEBUG - No Sensor/Event detected (at simulation time 396.000,000,000 s)
+2020-05-23 21:56:40,888 DEBUG - No Sensor/Event detected (at simulation time 397.000,000,000 s)
+2020-05-23 21:56:41,048 DEBUG - No Sensor/Event detected (at simulation time 398.000,000,000 s)
+2020-05-23 21:56:41,092 DEBUG - No Sensor/Event detected (at simulation time 399.000,000,000 s)
+2020-05-23 21:56:41,185 DEBUG - No Sensor/Event detected (at simulation time 400.000,000,000 s)
+2020-05-23 21:56:41,362 DEBUG - No Sensor/Event detected (at simulation time 401.000,000,000 s)
+2020-05-23 21:56:41,488 DEBUG - No Sensor/Event detected (at simulation time 402.000,000,000 s)
+2020-05-23 21:56:41,552 DEBUG - No Sensor/Event detected (at simulation time 403.000,000,000 s)
+2020-05-23 21:56:41,642 DEBUG - No Sensor/Event detected (at simulation time 404.000,000,000 s)
+2020-05-23 21:56:41,673 DEBUG - No Sensor/Event detected (at simulation time 405.000,000,000 s)
+2020-05-23 21:56:41,751 DEBUG - No Sensor/Event detected (at simulation time 406.000,000,000 s)
+2020-05-23 21:56:41,816 DEBUG - No Sensor/Event detected (at simulation time 407.000,000,000 s)
+2020-05-23 21:56:41,853 DEBUG - No Sensor/Event detected (at simulation time 408.000,000,000 s)
+2020-05-23 21:56:41,931 DEBUG - No Sensor/Event detected (at simulation time 409.000,000,000 s)
+2020-05-23 21:56:42,064 DEBUG - No Sensor/Event detected (at simulation time 410.000,000,000 s)
+2020-05-23 21:56:42,142 DEBUG - No Sensor/Event detected (at simulation time 411.000,000,000 s)
+2020-05-23 21:56:42,183 DEBUG - No Sensor/Event detected (at simulation time 412.000,000,000 s)
+2020-05-23 21:56:42,216 DEBUG - No Sensor/Event detected (at simulation time 413.000,000,000 s)
+2020-05-23 21:56:42,274 DEBUG - No Sensor/Event detected (at simulation time 414.000,000,000 s)
+2020-05-23 21:56:42,365 DEBUG - No Sensor/Event detected (at simulation time 415.000,000,000 s)
+2020-05-23 21:56:42,488 DEBUG - No Sensor/Event detected (at simulation time 416.000,000,000 s)
+2020-05-23 21:56:42,550 DEBUG - No Sensor/Event detected (at simulation time 417.000,000,000 s)
+2020-05-23 21:56:42,599 DEBUG - No Sensor/Event detected (at simulation time 418.000,000,000 s)
+2020-05-23 21:56:42,631 DEBUG - No Sensor/Event detected (at simulation time 419.000,000,000 s)
+2020-05-23 21:56:42,681 DEBUG - No Sensor/Event detected (at simulation time 420.000,000,000 s)
+2020-05-23 21:56:42,815 DEBUG - No Sensor/Event detected (at simulation time 421.000,000,000 s)
+2020-05-23 21:56:42,856 DEBUG - No Sensor/Event detected (at simulation time 422.000,000,000 s)
+2020-05-23 21:56:42,903 DEBUG - No Sensor/Event detected (at simulation time 423.000,000,000 s)
+2020-05-23 21:56:42,989 DEBUG - No Sensor/Event detected (at simulation time 424.000,000,000 s)
+2020-05-23 21:56:43,022 DEBUG - No Sensor/Event detected (at simulation time 425.000,000,000 s)
+2020-05-23 21:56:43,105 DEBUG - No Sensor/Event detected (at simulation time 426.000,000,000 s)
+2020-05-23 21:56:43,213 DEBUG - No Sensor/Event detected (at simulation time 427.000,000,000 s)
+2020-05-23 21:56:43,245 DEBUG - No Sensor/Event detected (at simulation time 428.000,000,000 s)
+2020-05-23 21:56:43,274 DEBUG - No Sensor/Event detected (at simulation time 429.000,000,000 s)
+2020-05-23 21:56:43,348 DEBUG - No Sensor/Event detected (at simulation time 430.000,000,000 s)
+2020-05-23 21:56:43,414 DEBUG - No Sensor/Event detected (at simulation time 431.000,000,000 s)
+2020-05-23 21:56:43,456 DEBUG - No Sensor/Event detected (at simulation time 432.000,000,000 s)
+2020-05-23 21:56:43,580 DEBUG - No Sensor/Event detected (at simulation time 433.000,000,000 s)
+2020-05-23 21:56:43,643 DEBUG - No Sensor/Event detected (at simulation time 434.000,000,000 s)
+2020-05-23 21:56:43,687 DEBUG - No Sensor/Event detected (at simulation time 435.000,000,000 s)
+2020-05-23 21:56:43,764 DEBUG - No Sensor/Event detected (at simulation time 436.000,000,000 s)
+2020-05-23 21:56:43,849 DEBUG - No Sensor/Event detected (at simulation time 437.000,000,000 s)
+2020-05-23 21:56:43,884 DEBUG - No Sensor/Event detected (at simulation time 438.000,000,000 s)
+2020-05-23 21:56:43,972 DEBUG - No Sensor/Event detected (at simulation time 439.000,000,000 s)
+2020-05-23 21:56:44,030 DEBUG - No Sensor/Event detected (at simulation time 440.000,000,000 s)
+2020-05-23 21:56:44,074 DEBUG - No Sensor/Event detected (at simulation time 441.000,000,000 s)
+2020-05-23 21:56:44,184 DEBUG - No Sensor/Event detected (at simulation time 442.000,000,000 s)
+2020-05-23 21:56:44,221 DEBUG - No Sensor/Event detected (at simulation time 443.000,000,000 s)
+2020-05-23 21:56:44,250 DEBUG - No Sensor/Event detected (at simulation time 444.000,000,000 s)
+2020-05-23 21:56:44,282 DEBUG - No Sensor/Event detected (at simulation time 445.000,000,000 s)
+2020-05-23 21:56:44,403 DEBUG - No Sensor/Event detected (at simulation time 446.000,000,000 s)
+2020-05-23 21:56:44,454 DEBUG - No Sensor/Event detected (at simulation time 447.000,000,000 s)
+2020-05-23 21:56:44,514 DEBUG - No Sensor/Event detected (at simulation time 448.000,000,000 s)
+2020-05-23 21:56:44,650 DEBUG - No Sensor/Event detected (at simulation time 449.000,000,000 s)
+2020-05-23 21:56:44,709 DEBUG - No Sensor/Event detected (at simulation time 450.000,000,000 s)
+2020-05-23 21:56:44,809 DEBUG - No Sensor/Event detected (at simulation time 451.000,000,000 s)
+2020-05-23 21:56:44,848 DEBUG - No Sensor/Event detected (at simulation time 452.000,000,000 s)
+2020-05-23 21:56:44,924 DEBUG - No Sensor/Event detected (at simulation time 453.000,000,000 s)
+2020-05-23 21:56:44,996 DEBUG - No Sensor/Event detected (at simulation time 454.000,000,000 s)
+2020-05-23 21:56:45,026 DEBUG - No Sensor/Event detected (at simulation time 455.000,000,000 s)
+2020-05-23 21:56:45,081 DEBUG - No Sensor/Event detected (at simulation time 456.000,000,000 s)
+2020-05-23 21:56:45,216 DEBUG - No Sensor/Event detected (at simulation time 457.000,000,000 s)
+2020-05-23 21:56:45,253 DEBUG - No Sensor/Event detected (at simulation time 458.000,000,000 s)
+2020-05-23 21:56:45,281 DEBUG - No Sensor/Event detected (at simulation time 459.000,000,000 s)
+2020-05-23 21:56:45,334 DEBUG - No Sensor/Event detected (at simulation time 460.000,000,000 s)
+2020-05-23 21:56:45,426 DEBUG - No Sensor/Event detected (at simulation time 461.000,000,000 s)
+2020-05-23 21:56:45,455 DEBUG - No Sensor/Event detected (at simulation time 462.000,000,000 s)
+2020-05-23 21:56:45,482 DEBUG - No Sensor/Event detected (at simulation time 463.000,000,000 s)
+2020-05-23 21:56:45,514 DEBUG - No Sensor/Event detected (at simulation time 464.000,000,000 s)
+2020-05-23 21:56:45,612 DEBUG - No Sensor/Event detected (at simulation time 465.000,000,000 s)
+2020-05-23 21:56:45,751 DEBUG - No Sensor/Event detected (at simulation time 466.000,000,000 s)
+2020-05-23 21:56:45,813 DEBUG - No Sensor/Event detected (at simulation time 467.000,000,000 s)
+2020-05-23 21:56:45,845 DEBUG - No Sensor/Event detected (at simulation time 468.000,000,000 s)
+2020-05-23 21:56:45,887 DEBUG - No Sensor/Event detected (at simulation time 469.000,000,000 s)
+2020-05-23 21:56:45,939 DEBUG - No Sensor/Event detected (at simulation time 470.000,000,000 s)
+2020-05-23 21:56:46,052 DEBUG - No Sensor/Event detected (at simulation time 471.000,000,000 s)
+2020-05-23 21:56:46,081 DEBUG - No Sensor/Event detected (at simulation time 472.000,000,000 s)
+2020-05-23 21:56:46,120 DEBUG - No Sensor/Event detected (at simulation time 473.000,000,000 s)
+2020-05-23 21:56:46,186 DEBUG - No Sensor/Event detected (at simulation time 474.000,000,000 s)
+2020-05-23 21:56:46,226 DEBUG - No Sensor/Event detected (at simulation time 475.000,000,000 s)
+2020-05-23 21:56:46,272 DEBUG - No Sensor/Event detected (at simulation time 476.000,000,000 s)
+2020-05-23 21:56:46,305 DEBUG - No Sensor/Event detected (at simulation time 477.000,000,000 s)
+2020-05-23 21:56:46,392 DEBUG - No Sensor/Event detected (at simulation time 478.000,000,000 s)
+2020-05-23 21:56:46,422 DEBUG - No Sensor/Event detected (at simulation time 479.000,000,000 s)
+2020-05-23 21:56:46,454 DEBUG - No Sensor/Event detected (at simulation time 480.000,000,000 s)
+2020-05-23 21:56:46,497 DEBUG - No Sensor/Event detected (at simulation time 481.000,000,000 s)
+2020-05-23 21:56:46,558 DEBUG - No Sensor/Event detected (at simulation time 482.000,000,000 s)
+2020-05-23 21:56:46,585 DEBUG - No Sensor/Event detected (at simulation time 483.000,000,000 s)
+2020-05-23 21:56:46,615 DEBUG - No Sensor/Event detected (at simulation time 484.000,000,000 s)
+2020-05-23 21:56:46,652 DEBUG - No Sensor/Event detected (at simulation time 485.000,000,000 s)
+2020-05-23 21:56:46,695 DEBUG - No Sensor/Event detected (at simulation time 486.000,000,000 s)
+2020-05-23 21:56:46,749 DEBUG - No Sensor/Event detected (at simulation time 487.000,000,000 s)
+2020-05-23 21:56:46,826 DEBUG - No Sensor/Event detected (at simulation time 488.000,000,000 s)
+2020-05-23 21:56:46,858 DEBUG - No Sensor/Event detected (at simulation time 489.000,000,000 s)
+2020-05-23 21:56:46,886 DEBUG - No Sensor/Event detected (at simulation time 490.000,000,000 s)
+2020-05-23 21:56:46,953 DEBUG - No Sensor/Event detected (at simulation time 491.000,000,000 s)
+2020-05-23 21:56:46,983 DEBUG - No Sensor/Event detected (at simulation time 492.000,000,000 s)
+2020-05-23 21:56:47,005 DEBUG - No Sensor/Event detected (at simulation time 493.000,000,000 s)
+2020-05-23 21:56:47,030 DEBUG - No Sensor/Event detected (at simulation time 494.000,000,000 s)
+2020-05-23 21:56:47,055 DEBUG - No Sensor/Event detected (at simulation time 495.000,000,000 s)
+2020-05-23 21:56:47,102 DEBUG - No Sensor/Event detected (at simulation time 496.000,000,000 s)
+2020-05-23 21:56:47,155 DEBUG - No Sensor/Event detected (at simulation time 497.000,000,000 s)
+2020-05-23 21:56:47,185 DEBUG - No Sensor/Event detected (at simulation time 498.000,000,000 s)
+2020-05-23 21:56:47,219 DEBUG - No Sensor/Event detected (at simulation time 499.000,000,000 s)
+2020-05-23 21:56:47,245 DEBUG - No Sensor/Event detected (at simulation time 500.000,000,000 s)
+2020-05-23 21:56:47,334 DEBUG - No Sensor/Event detected (at simulation time 501.000,000,000 s)
+2020-05-23 21:56:47,365 DEBUG - No Sensor/Event detected (at simulation time 502.000,000,000 s)
+2020-05-23 21:56:47,390 DEBUG - No Sensor/Event detected (at simulation time 503.000,000,000 s)
+2020-05-23 21:56:47,413 DEBUG - No Sensor/Event detected (at simulation time 504.000,000,000 s)
+2020-05-23 21:56:47,436 DEBUG - No Sensor/Event detected (at simulation time 505.000,000,000 s)
+2020-05-23 21:56:47,467 DEBUG - No Sensor/Event detected (at simulation time 506.000,000,000 s)
+2020-05-23 21:56:47,490 DEBUG - No Sensor/Event detected (at simulation time 507.000,000,000 s)
+2020-05-23 21:56:47,530 DEBUG - No Sensor/Event detected (at simulation time 508.000,000,000 s)
+2020-05-23 21:56:47,557 DEBUG - No Sensor/Event detected (at simulation time 509.000,000,000 s)
+2020-05-23 21:56:47,579 DEBUG - No Sensor/Event detected (at simulation time 510.000,000,000 s)
+2020-05-23 21:56:47,610 DEBUG - No Sensor/Event detected (at simulation time 511.000,000,000 s)
+2020-05-23 21:56:47,631 DEBUG - No Sensor/Event detected (at simulation time 512.000,000,000 s)
+2020-05-23 21:56:47,654 DEBUG - No Sensor/Event detected (at simulation time 513.000,000,000 s)
+2020-05-23 21:56:47,674 DEBUG - No Sensor/Event detected (at simulation time 514.000,000,000 s)
+2020-05-23 21:56:47,696 DEBUG - No Sensor/Event detected (at simulation time 515.000,000,000 s)
+2020-05-23 21:56:47,757 DEBUG - No Sensor/Event detected (at simulation time 516.000,000,000 s)
+2020-05-23 21:56:47,778 DEBUG - No Sensor/Event detected (at simulation time 517.000,000,000 s)
+2020-05-23 21:56:47,800 DEBUG - No Sensor/Event detected (at simulation time 518.000,000,000 s)
+2020-05-23 21:56:47,818 DEBUG - No Sensor/Event detected (at simulation time 519.000,000,000 s)
+2020-05-23 21:56:47,837 DEBUG - No Sensor/Event detected (at simulation time 520.000,000,000 s)
+2020-05-23 21:56:47,865 DEBUG - No Sensor/Event detected (at simulation time 521.000,000,000 s)
+2020-05-23 21:56:47,882 DEBUG - No Sensor/Event detected (at simulation time 522.000,000,000 s)
+2020-05-23 21:56:47,906 DEBUG - No Sensor/Event detected (at simulation time 523.000,000,000 s)
+2020-05-23 21:56:47,931 DEBUG - No Sensor/Event detected (at simulation time 524.000,000,000 s)
+2020-05-23 21:56:47,952 DEBUG - No Sensor/Event detected (at simulation time 525.000,000,000 s)
+2020-05-23 21:56:47,980 DEBUG - No Sensor/Event detected (at simulation time 526.000,000,000 s)
+2020-05-23 21:56:47,995 DEBUG - No Sensor/Event detected (at simulation time 527.000,000,000 s)
+2020-05-23 21:56:48,019 DEBUG - No Sensor/Event detected (at simulation time 528.000,000,000 s)
+2020-05-23 21:56:48,034 DEBUG - No Sensor/Event detected (at simulation time 529.000,000,000 s)
+2020-05-23 21:56:48,048 DEBUG - No Sensor/Event detected (at simulation time 530.000,000,000 s)
+2020-05-23 21:56:48,079 DEBUG - No Sensor/Event detected (at simulation time 531.000,000,000 s)
+2020-05-23 21:56:48,091 DEBUG - No Sensor/Event detected (at simulation time 532.000,000,000 s)
+2020-05-23 21:56:48,116 DEBUG - No Sensor/Event detected (at simulation time 533.000,000,000 s)
+2020-05-23 21:56:48,131 DEBUG - No Sensor/Event detected (at simulation time 534.000,000,000 s)
+2020-05-23 21:56:48,148 DEBUG - No Sensor/Event detected (at simulation time 535.000,000,000 s)
+2020-05-23 21:56:48,171 DEBUG - No Sensor/Event detected (at simulation time 536.000,000,000 s)
+2020-05-23 21:56:48,184 INFO - Shutdown application (at simulation time 537.000,000,000 s)

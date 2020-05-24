@@ -1,0 +1,278 @@
+2020-05-23 21:55:49,864 INFO  MappingAmbassador - File found, read successfully.
+The following object was created (This is the created, internal JSON data object and might differ from the initial JSON-String read).
+The normal string representation.
+{"prototypes":[{"name":"Car","length":5.0,"minGap":2.5,"maxSpeed":70.0,"accel":2.6,"decel":4.5,"emergencyDecel":6.0,"sigma":0.5,"tau":1.0,"speedFactor":1.0,"speedDeviation":0.0,"laneChangeMode":"DEFAULT","speedMode":"DEFAULT"},{"name":"electricCar","length":5.0,"minGap":2.5,"maxSpeed":40.0,"vehicleClass":"ElectricVehicle","accel":2.6,"decel":4.5,"sigma":0.5,"tau":1.0,"speedFactor":1.0,"speedDeviation":0.0}],"rsus":[{"name":"WeatherServer","applications":["com.dcaiti.vsimrti.app.tutorials.barnim.WeatherServer"],"lat":52.65027,"lon":13.545}],"vehicles":[{"startingTime":5.0,"targetFlow":1800.0,"spawningMode":"CONSTANT","maxNumberVehicles":120,"lanes":[0,1],"laneSelectionMode":"DEFAULT","departSpeed":0.0,"departSpeedMode":"MAXIMUM","types":[{"name":"Car","group":"Cellular","weight":0.1,"applications":["com.dcaiti.vsimrti.app.tutorials.barnim.WeatherWarningAppCell","com.dcaiti.vsimrti.app.tut ... "com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp"]}],"deterministic":true,"pos":0,"route":"1"}]}
+The pretty string representation.
+{
+  "prototypes": [
+    {
+      "name": "Car",
+      "length": 5.0,
+      "minGap": 2.5,
+      "maxSpeed": 70.0,
+      "accel": 2.6,
+      "decel": 4.5,
+      "emergencyDecel": 6.0,
+      "sigma": 0.5,
+      "tau": 1.0,
+      "speedFactor": 1.0,
+      "speedDeviation": 0.0,
+      "laneChangeMode": "DEFAULT",
+      "speedMode": "DEFAULT"
+    },
+    {
+      "name": "electricCar",
+      "length": 5.0,
+      "minGap": 2.5,
+      "maxSpeed": 40.0,
+      "vehicleClass": "ElectricVehicle",
+      "accel": 2.6,
+      "decel": 4.5,
+      "sigma": 0.5,
+      "tau": 1.0,
+      "speedFactor": 1.0,
+      "speedDeviation": 0.0
+    }
+  ],
+  "rsus": [
+    {
+      "name": "WeatherServer",
+      "applications": [
+        "com.dcaiti.vsimrti.app.tutorials.barnim.WeatherServer"
+      ],
+      "lat": 52.65027,
+      "lon": 13.545
+    }
+  ],
+  "vehicles": [
+    {
+      "startingTime": 5.0,
+      "targetFlow": 1800.0,
+      "spawningMode": "CONSTANT",
+      "maxNumberVehicles": 120,
+      "lanes": [
+        0,
+        1
+      ],
+      "laneSelectionMode": "DEFAULT",
+      "departSpeed": 0.0,
+      "departSpeedMode": "MAXIMUM",
+      "types": [
+        {
+          "name": "Car",
+          "group": "Cellular",
+          "weight": 0.1,
+          "applications": [
+            "com.dcaiti.vsimrti.app.tutorials.barnim.WeatherWarningAppCell",
+            "com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp"
+          ]
+        },
+        {
+          "name": "Car",
+          "group": "AdHoc",
+          "weight": 0.2,
+          "applications": [
+            "com.dcaiti.vsimrti.app.tutorials.barnim.WeatherWarningApp",
+            "com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp"
+          ]
+        },
+        {
+          "name": "Car",
+          "group": "Unequipped",
+          "weight": 0.6,
+          "applications": [
+            "com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp"
+          ]
+        },
+        {
+          "name": "electricCar",
+          "group": "Unequipped",
+          "weight": 0.1,
+          "applications": [
+            "com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp"
+          ]
+        }
+      ],
+      "deterministic": true,
+      "pos": 0,
+      "route": "1"
+    }
+  ]
+}
+2020-05-23 21:56:02,742 INFO  MappingAmbassador - processMessage(): com.dcaiti.vsimrti.rti.messages.init.VehiclePathsInitMessage
+2020-05-23 21:56:02,742 INFO  MappingAmbassador - processMessage(): com.dcaiti.vsimrti.rti.messages.traffic.ScenarioTrafficLights
+2020-05-23 21:56:02,742 INFO  MappingAmbassador - Received TL-Message
+2020-05-23 21:56:02,743 INFO  MappingAmbassador - Creating Traffic Light: name=1012674923, apps=[]
+2020-05-23 21:56:02,743 INFO  MappingAmbassador - Creating Traffic Light: name=1451483682, apps=[]
+2020-05-23 21:56:02,743 INFO  MappingAmbassador - Creating Traffic Light: name=150944687, apps=[]
+2020-05-23 21:56:02,743 INFO  MappingAmbassador - Creating Traffic Light: name=1566370849, apps=[]
+2020-05-23 21:56:02,745 INFO  MappingAmbassador - Creating Traffic Light: name=2290659372, apps=[]
+2020-05-23 21:56:02,746 INFO  MappingAmbassador - Creating Traffic Light: name=2311924013, apps=[]
+2020-05-23 21:56:02,746 INFO  MappingAmbassador - Creating Traffic Light: name=2311924020, apps=[]
+2020-05-23 21:56:02,746 INFO  MappingAmbassador - Creating Traffic Light: name=2506722893, apps=[]
+2020-05-23 21:56:02,747 INFO  MappingAmbassador - Creating Traffic Light: name=259173275, apps=[]
+2020-05-23 21:56:02,747 INFO  MappingAmbassador - Creating Traffic Light: name=259173276, apps=[]
+2020-05-23 21:56:02,747 INFO  MappingAmbassador - Creating Traffic Light: name=2621152975, apps=[]
+2020-05-23 21:56:02,747 INFO  MappingAmbassador - Creating Traffic Light: name=2697697230, apps=[]
+2020-05-23 21:56:02,747 INFO  MappingAmbassador - Creating Traffic Light: name=29768656, apps=[]
+2020-05-23 21:56:02,748 INFO  MappingAmbassador - Creating Traffic Light: name=29768657, apps=[]
+2020-05-23 21:56:02,748 INFO  MappingAmbassador - Creating Traffic Light: name=29768672, apps=[]
+2020-05-23 21:56:02,748 INFO  MappingAmbassador - Creating Traffic Light: name=29859393, apps=[]
+2020-05-23 21:56:02,749 INFO  MappingAmbassador - Creating Traffic Light: name=29859404, apps=[]
+2020-05-23 21:56:02,749 INFO  MappingAmbassador - Creating Traffic Light: name=29859450, apps=[]
+2020-05-23 21:56:02,749 INFO  MappingAmbassador - Creating Traffic Light: name=29859969, apps=[]
+2020-05-23 21:56:02,749 INFO  MappingAmbassador - Creating Traffic Light: name=3139039271, apps=[]
+2020-05-23 21:56:02,750 INFO  MappingAmbassador - Creating Traffic Light: name=321568014, apps=[]
+2020-05-23 21:56:02,750 INFO  MappingAmbassador - Creating Traffic Light: name=3884573943, apps=[]
+2020-05-23 21:56:02,750 INFO  MappingAmbassador - Creating Traffic Light: name=392364162, apps=[]
+2020-05-23 21:56:02,750 INFO  MappingAmbassador - Creating Traffic Light: name=40447168, apps=[]
+2020-05-23 21:56:02,751 INFO  MappingAmbassador - Creating Traffic Light: name=410463568, apps=[]
+2020-05-23 21:56:02,751 INFO  MappingAmbassador - Creating Traffic Light: name=4340202391, apps=[]
+2020-05-23 21:56:02,751 INFO  MappingAmbassador - Creating Traffic Light: name=4340202392, apps=[]
+2020-05-23 21:56:02,752 INFO  MappingAmbassador - Creating Traffic Light: name=47966053, apps=[]
+2020-05-23 21:56:02,753 INFO  MappingAmbassador - Creating Traffic Light: name=47966148, apps=[]
+2020-05-23 21:56:02,753 INFO  MappingAmbassador - Creating Traffic Light: name=49832298, apps=[]
+2020-05-23 21:56:02,753 INFO  MappingAmbassador - Creating Traffic Light: name=5033817580, apps=[]
+2020-05-23 21:56:02,753 INFO  MappingAmbassador - Creating Traffic Light: name=5057062598, apps=[]
+2020-05-23 21:56:02,754 INFO  MappingAmbassador - Creating Traffic Light: name=5057062619, apps=[]
+2020-05-23 21:56:02,754 INFO  MappingAmbassador - Creating Traffic Light: name=51545416, apps=[]
+2020-05-23 21:56:02,754 INFO  MappingAmbassador - Creating Traffic Light: name=564006580, apps=[]
+2020-05-23 21:56:02,754 INFO  MappingAmbassador - Creating Traffic Light: name=5937809836, apps=[]
+2020-05-23 21:56:02,754 INFO  MappingAmbassador - Creating Traffic Light: name=5937809837, apps=[]
+2020-05-23 21:56:02,755 INFO  MappingAmbassador - Creating Traffic Light: name=595752821, apps=[]
+2020-05-23 21:56:02,755 INFO  MappingAmbassador - Creating Traffic Light: name=601059352, apps=[]
+2020-05-23 21:56:02,755 INFO  MappingAmbassador - Creating Traffic Light: name=6154964351, apps=[]
+2020-05-23 21:56:02,756 INFO  MappingAmbassador - Creating Traffic Light: name=6154964353, apps=[]
+2020-05-23 21:56:02,756 INFO  MappingAmbassador - Creating Traffic Light: name=6154964354, apps=[]
+2020-05-23 21:56:02,756 INFO  MappingAmbassador - Creating Traffic Light: name=6154964355, apps=[]
+2020-05-23 21:56:02,756 INFO  MappingAmbassador - Creating Traffic Light: name=6154964356, apps=[]
+2020-05-23 21:56:02,756 INFO  MappingAmbassador - Creating Traffic Light: name=64660869, apps=[]
+2020-05-23 21:56:02,757 INFO  MappingAmbassador - Creating Traffic Light: name=683261981, apps=[]
+2020-05-23 21:56:02,759 INFO  MappingAmbassador - Creating Traffic Light: name=75670662, apps=[]
+2020-05-23 21:56:02,760 INFO  MappingAmbassador - Creating Traffic Light: name=75679644, apps=[]
+2020-05-23 21:56:02,760 INFO  MappingAmbassador - Creating Traffic Light: name=76598379, apps=[]
+2020-05-23 21:56:02,760 INFO  MappingAmbassador - Creating Traffic Light: name=866614320, apps=[]
+2020-05-23 21:56:02,762 INFO  MappingAmbassador - Creating Traffic Light: name=866614578, apps=[]
+2020-05-23 21:56:02,763 INFO  MappingAmbassador - Creating Traffic Light: name=89988845, apps=[]
+2020-05-23 21:56:02,763 INFO  MappingAmbassador - Creating Traffic Light: name=97636932, apps=[]
+2020-05-23 21:56:02,766 INFO  MappingAmbassador - Creating RSU @GeoPoint{lat|lon=[52.650270,13.545000]} with apps: com.dcaiti.vsimrti.app.tutorials.barnim.WeatherServer
+2020-05-23 21:56:02,813 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=5000000000, name=veh_0, lane=0, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.WeatherWarningAppCell,com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:02,857 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=7000000000, name=veh_1, lane=1, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:02,869 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=9000000000, name=veh_2, lane=0, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.WeatherWarningApp,com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:02,896 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=11000000000, name=veh_3, lane=1, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:02,910 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=13000000000, name=veh_4, lane=0, pos=0: Vehicle: name=electricCar, apps=com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:03,145 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=15000000000, name=veh_5, lane=1, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:03,288 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=17000000000, name=veh_6, lane=0, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:03,308 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=19000000000, name=veh_7, lane=1, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.WeatherWarningApp,com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:03,374 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=21000000000, name=veh_8, lane=0, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:03,394 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=23000000000, name=veh_9, lane=1, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:03,411 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=25000000000, name=veh_10, lane=0, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.WeatherWarningAppCell,com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:03,479 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=27000000000, name=veh_11, lane=1, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:03,504 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=29000000000, name=veh_12, lane=0, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.WeatherWarningApp,com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:03,564 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=31000000000, name=veh_13, lane=1, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:03,597 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=33000000000, name=veh_14, lane=0, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:03,616 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=35000000000, name=veh_15, lane=1, pos=0: Vehicle: name=electricCar, apps=com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:03,651 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=37000000000, name=veh_16, lane=0, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:03,671 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=39000000000, name=veh_17, lane=1, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.WeatherWarningApp,com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:03,777 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=41000000000, name=veh_18, lane=0, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:03,800 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=43000000000, name=veh_19, lane=1, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:03,830 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=45000000000, name=veh_20, lane=0, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.WeatherWarningAppCell,com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:03,888 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=47000000000, name=veh_21, lane=1, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:03,944 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=49000000000, name=veh_22, lane=0, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.WeatherWarningApp,com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:03,981 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=51000000000, name=veh_23, lane=1, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:04,004 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=53000000000, name=veh_24, lane=0, pos=0: Vehicle: name=electricCar, apps=com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:04,029 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=55000000000, name=veh_25, lane=1, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:04,101 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=57000000000, name=veh_26, lane=0, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:04,152 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=59000000000, name=veh_27, lane=1, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.WeatherWarningApp,com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:04,188 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=61000000000, name=veh_28, lane=0, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:04,218 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=63000000000, name=veh_29, lane=1, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:04,242 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=65000000000, name=veh_30, lane=0, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.WeatherWarningAppCell,com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:04,294 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=67000000000, name=veh_31, lane=1, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:04,378 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=69000000000, name=veh_32, lane=0, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.WeatherWarningApp,com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:04,418 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=71000000000, name=veh_33, lane=1, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:04,451 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=73000000000, name=veh_34, lane=0, pos=0: Vehicle: name=electricCar, apps=com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:04,481 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=75000000000, name=veh_35, lane=1, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:04,549 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=77000000000, name=veh_36, lane=0, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:04,576 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=79000000000, name=veh_37, lane=1, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.WeatherWarningApp,com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:04,631 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=81000000000, name=veh_38, lane=0, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:04,666 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=83000000000, name=veh_39, lane=1, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:05,263 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=85000000000, name=veh_40, lane=0, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.WeatherWarningAppCell,com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:05,380 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=87000000000, name=veh_41, lane=1, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:05,420 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=89000000000, name=veh_42, lane=0, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.WeatherWarningApp,com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:05,581 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=91000000000, name=veh_43, lane=1, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:05,684 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=93000000000, name=veh_44, lane=0, pos=0: Vehicle: name=electricCar, apps=com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:05,852 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=95000000000, name=veh_45, lane=1, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:06,073 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=97000000000, name=veh_46, lane=0, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:06,231 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=99000000000, name=veh_47, lane=1, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.WeatherWarningApp,com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:06,311 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=101000000000, name=veh_48, lane=0, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:06,414 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=103000000000, name=veh_49, lane=1, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:06,476 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=105000000000, name=veh_50, lane=0, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.WeatherWarningAppCell,com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:06,641 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=107000000000, name=veh_51, lane=1, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:06,719 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=109000000000, name=veh_52, lane=0, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.WeatherWarningApp,com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:06,875 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=111000000000, name=veh_53, lane=1, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:07,012 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=113000000000, name=veh_54, lane=0, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:07,070 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=115000000000, name=veh_55, lane=1, pos=0: Vehicle: name=electricCar, apps=com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:07,242 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=117000000000, name=veh_56, lane=0, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:07,340 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=119000000000, name=veh_57, lane=1, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.WeatherWarningApp,com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:07,506 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=121000000000, name=veh_58, lane=0, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:07,648 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=123000000000, name=veh_59, lane=1, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:07,866 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=125000000000, name=veh_60, lane=0, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.WeatherWarningAppCell,com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:08,058 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=127000000000, name=veh_61, lane=1, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:08,167 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=129000000000, name=veh_62, lane=0, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.WeatherWarningApp,com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:08,361 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=131000000000, name=veh_63, lane=1, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:08,499 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=133000000000, name=veh_64, lane=0, pos=0: Vehicle: name=electricCar, apps=com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:08,645 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=135000000000, name=veh_65, lane=1, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:08,863 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=137000000000, name=veh_66, lane=0, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:08,975 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=139000000000, name=veh_67, lane=1, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.WeatherWarningApp,com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:09,162 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=141000000000, name=veh_68, lane=0, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:09,317 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=143000000000, name=veh_69, lane=1, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:09,421 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=145000000000, name=veh_70, lane=0, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.WeatherWarningAppCell,com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:09,509 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=147000000000, name=veh_71, lane=1, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:09,758 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=149000000000, name=veh_72, lane=0, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.WeatherWarningApp,com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:10,001 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=151000000000, name=veh_73, lane=1, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:10,163 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=153000000000, name=veh_74, lane=0, pos=0: Vehicle: name=electricCar, apps=com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:10,282 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=155000000000, name=veh_75, lane=1, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:10,427 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=157000000000, name=veh_76, lane=0, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:10,490 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=159000000000, name=veh_77, lane=1, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.WeatherWarningApp,com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:10,741 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=161000000000, name=veh_78, lane=0, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:10,943 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=163000000000, name=veh_79, lane=1, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:11,140 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=165000000000, name=veh_80, lane=0, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.WeatherWarningAppCell,com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:11,600 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=167000000000, name=veh_81, lane=1, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:11,692 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=169000000000, name=veh_82, lane=0, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.WeatherWarningApp,com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:12,109 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=171000000000, name=veh_83, lane=1, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:12,290 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=173000000000, name=veh_84, lane=0, pos=0: Vehicle: name=electricCar, apps=com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:12,643 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=175000000000, name=veh_85, lane=1, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:12,891 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=177000000000, name=veh_86, lane=0, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:13,183 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=179000000000, name=veh_87, lane=1, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.WeatherWarningApp,com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:13,496 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=181000000000, name=veh_88, lane=0, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:13,801 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=183000000000, name=veh_89, lane=1, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:14,050 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=185000000000, name=veh_90, lane=0, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.WeatherWarningAppCell,com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:14,346 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=187000000000, name=veh_91, lane=1, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:14,512 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=189000000000, name=veh_92, lane=0, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.WeatherWarningApp,com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:14,817 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=191000000000, name=veh_93, lane=1, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:15,029 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=193000000000, name=veh_94, lane=0, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:15,256 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=195000000000, name=veh_95, lane=1, pos=0: Vehicle: name=electricCar, apps=com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:15,501 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=197000000000, name=veh_96, lane=0, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:15,688 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=199000000000, name=veh_97, lane=1, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.WeatherWarningApp,com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:15,967 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=201000000000, name=veh_98, lane=0, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:16,146 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=203000000000, name=veh_99, lane=1, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:16,384 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=205000000000, name=veh_100, lane=0, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.WeatherWarningAppCell,com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:16,630 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=207000000000, name=veh_101, lane=1, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:16,862 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=209000000000, name=veh_102, lane=0, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.WeatherWarningApp,com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:17,130 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=211000000000, name=veh_103, lane=1, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:17,271 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=213000000000, name=veh_104, lane=0, pos=0: Vehicle: name=electricCar, apps=com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:17,488 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=215000000000, name=veh_105, lane=1, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:17,676 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=217000000000, name=veh_106, lane=0, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:17,860 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=219000000000, name=veh_107, lane=1, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.WeatherWarningApp,com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:18,118 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=221000000000, name=veh_108, lane=0, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:18,298 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=223000000000, name=veh_109, lane=1, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:18,540 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=225000000000, name=veh_110, lane=0, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.WeatherWarningAppCell,com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:18,811 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=227000000000, name=veh_111, lane=1, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:19,012 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=229000000000, name=veh_112, lane=0, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.WeatherWarningApp,com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:19,200 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=231000000000, name=veh_113, lane=1, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:19,463 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=233000000000, name=veh_114, lane=0, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:19,654 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=235000000000, name=veh_115, lane=1, pos=0: Vehicle: name=electricCar, apps=com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:19,848 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=237000000000, name=veh_116, lane=0, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:19,965 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=239000000000, name=veh_117, lane=1, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.WeatherWarningApp,com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:20,200 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=241000000000, name=veh_118, lane=0, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0
+2020-05-23 21:56:20,435 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=243000000000, name=veh_119, lane=1, pos=0: Vehicle: name=Car, apps=com.dcaiti.vsimrti.app.tutorials.barnim.SlowDownApp, departSpeed=0.0

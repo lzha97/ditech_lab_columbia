@@ -1,0 +1,30 @@
+2020-05-23 22:01:46,021 INFO  Cell2Ambassador - Start Cell2
+2020-05-23 22:01:46,123 INFO  Cell2Ambassador - Using network config:
+2020-05-23 22:01:46,123 INFO  Cell2Ambassador - "globalRegion" uplink: [delayType: gammaRandomDelay, minDelay: 50.0, expDelay: 150.0, prplValue: 0.0, maxRetries: 2], capacity: 28000000, downlink {unicast: [delayType: gammaRandomDelay, minDelay: 50.0, expDelay: 150.0, prplValue: 0.0, maxRetries: 2], multicast: [delayType: gammaRandomDelay, minDelay: 100.0, expDelay: 200.0, prplValue: 0.0, maxRetries: 0], usableCapacity: 0.6, capacity: 42200000}
+2020-05-23 22:01:46,163 INFO  Cell2Ambassador - Using region config:
+2020-05-23 22:01:46,164 INFO  Cell2Ambassador - "tuberlin" uplink: [delayType: simpleRandomDelay, minDelay: 50.0, maxDelay 200.0, steps: 4, prplValue: 0.8, maxRetries: 2], capacity: 28000000, downlink {unicast: [delayType: simpleRandomDelay, minDelay: 100.0, maxDelay 200.0, steps: 3, prplValue: 0.8, maxRetries: 2], multicast: [delayType: simpleRandomDelay, minDelay: 120.0, maxDelay 220.0, steps: 3, prplValue: 0.8, maxRetries: 0], usableCapacity: 0.6, capacity: 42200000}, area: Rectangle{a=GeoPoint{lat|lon=[52.513100,13.324900]}, b=GeoPoint{lat|lon=[52.512500,13.327300]}}		
+2020-05-23 22:01:46,179 INFO  ChainManager - Initialize ChainManager
+2020-05-23 22:01:46,179 INFO  ChainManager - Adding Module Upstream
+2020-05-23 22:01:46,179 INFO  ChainManager - Adding Module Geocaster
+2020-05-23 22:01:46,179 INFO  ChainManager - Adding Module Downstream
+2020-05-23 22:01:46,183 INFO  ServerController - Start Server Module
+2020-05-23 22:01:46,183 INFO  ChainManager - Adding Module ServerController
+2020-05-23 22:01:46,183 INFO  Cell2Ambassador - Finished Initialization, waiting for Interactions...
+2020-05-23 22:01:50,588 INFO  Cell2Ambassador - Enabled (Configured) Cell Communication for vehicle=veh_0, t=6.000,000,000 s
+2020-05-23 22:01:50,647 INFO  Cell2Ambassador - Enabled (Configured) Cell Communication for vehicle=veh_2, t=10.000,000,000 s
+2020-05-23 22:01:50,695 INFO  Cell2Ambassador - Enabled (Configured) Cell Communication for vehicle=veh_4, t=14.000,000,000 s
+2020-05-23 22:01:50,727 INFO  Cell2Ambassador - Enabled (Configured) Cell Communication for vehicle=veh_5, t=16.000,000,000 s
+2020-05-23 22:01:50,787 INFO  Cell2Ambassador - Enabled (Configured) Cell Communication for vehicle=veh_7, t=20.000,000,000 s
+2020-05-23 22:01:51,939 INFO  Cell2Ambassador - Removed VEH (id=veh_0) from simulation, t=76.000,000,000 s
+2020-05-23 22:01:52,021 INFO  Cell2Ambassador - Removed VEH (id=veh_1) from simulation, t=78.000,000,000 s
+2020-05-23 22:01:52,092 INFO  Cell2Ambassador - Removed VEH (id=veh_2) from simulation, t=88.000,000,000 s
+2020-05-23 22:01:52,100 INFO  Cell2Ambassador - Removed VEH (id=veh_3) from simulation, t=90.000,000,000 s
+2020-05-23 22:01:52,141 INFO  Cell2Ambassador - Removed VEH (id=veh_4) from simulation, t=102.000,000,000 s
+2020-05-23 22:01:52,238 INFO  Cell2Ambassador - Removed VEH (id=veh_6) from simulation, t=109.000,000,000 s
+2020-05-23 22:01:52,334 INFO  Cell2Ambassador - Removed VEH (id=veh_5) from simulation, t=136.000,000,000 s
+2020-05-23 22:01:52,453 INFO  Cell2Ambassador - Removed VEH (id=veh_7) from simulation, t=149.000,000,000 s
+2020-05-23 22:01:52,495 INFO  Cell2Ambassador - FinishSimulation
+2020-05-23 22:01:52,495 INFO  ChainManager - [Upstream] Processed messages: 18
+2020-05-23 22:01:52,495 INFO  ChainManager - [Geocaster] Processed messages: 18
+2020-05-23 22:01:52,495 INFO  ChainManager - [ServerController] Processed messages: 0
+2020-05-23 22:01:52,495 INFO  ChainManager - [Downstream] Processed messages: 63

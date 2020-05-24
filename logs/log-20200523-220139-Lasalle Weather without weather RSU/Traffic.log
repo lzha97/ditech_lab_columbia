@@ -1,0 +1,67 @@
+2020-05-23 22:01:40,256 INFO  SumoGUIAmbassador - The file does not exist: /Users/lillian/ns3/vsimrti-allinone/vsimrti/scenarios/120_Lasalle_Weather/sumo/sumo_config.jsonFile can not be read.The file does not exist: /Users/lillian/ns3/vsimrti-allinone/vsimrti/scenarios/120_Lasalle_Weather/sumo/sumo_config.json
+Try to instantiate using the default constructor.
+Object instantiated using the default constructor.
+
+2020-05-23 22:01:40,256 INFO  SumoGUIAmbassador - cSumo.updateInterval: 1000
+2020-05-23 22:01:40,256 INFO  SumoGUIAmbassador - cSumo.sumoConfigurationFile: null
+2020-05-23 22:01:40,257 INFO  SumoGUIAmbassador - found a a sumoConfigurationFile.
+2020-05-23 22:01:40,257 INFO  SumoGUIAmbassador - foundFile: ./scenarios/120_Lasalle_Weather/sumo/120_lasalle.sumo.cfg
+2020-05-23 22:01:40,258 INFO  SumoGUIAmbassador - cSumo.sumoConfigurationFile: 120_lasalle.sumo.cfg
+2020-05-23 22:01:40,290 INFO  SumoGUIAmbassador - routeFilename: 120_lasalle.rou.xml
+2020-05-23 22:01:40,303 INFO  SumoGUIAmbassador - stepSize: 1.0
+2020-05-23 22:01:46,222 INFO  SumoGUIAmbassador - Start Federate local
+2020-05-23 22:01:46,222 INFO  SumoGUIAmbassador - Directory: ./tmp/sumo
+2020-05-23 22:01:46,295 WARN  SumoGUIAmbassador - Error while connecting to SUMO. Retrying.
+2020-05-23 22:01:47,305 INFO  SumoGUIAmbassador - Process SumoAmbassador : Loading configuration... done.
+2020-05-23 22:01:50,501 INFO  SumoGUIAmbassador - Current API version of SUMO is 20 (=SUMO 1.2.0/1.3.0)
+2020-05-23 22:01:50,563 INFO  SumoGUIAmbassador - AddedVehicle "veh_0" received at simulation time 5000000000 ns
+2020-05-23 22:01:50,566 INFO  SumoGUIAmbassador - Adding new vehicle "veh_0" at simulation time 5000000000 ns (type=Car,routeId=1,laneId=0,departPos=0.0)
+2020-05-23 22:01:50,599 INFO  SumoGUIAmbassador - AddedVehicle "veh_1" received at simulation time 7000000000 ns
+2020-05-23 22:01:50,600 INFO  SumoGUIAmbassador - Adding new vehicle "veh_1" at simulation time 7000000000 ns (type=PKW,routeId=1,laneId=0,departPos=0.0)
+2020-05-23 22:01:50,629 INFO  SumoGUIAmbassador - AddedVehicle "veh_2" received at simulation time 9000000000 ns
+2020-05-23 22:01:50,630 INFO  SumoGUIAmbassador - Adding new vehicle "veh_2" at simulation time 9000000000 ns (type=Car,routeId=1,laneId=0,departPos=0.0)
+2020-05-23 22:01:50,658 INFO  SumoGUIAmbassador - AddedVehicle "veh_3" received at simulation time 11000000000 ns
+2020-05-23 22:01:50,660 INFO  SumoGUIAmbassador - Adding new vehicle "veh_3" at simulation time 11000000000 ns (type=PKW,routeId=1,laneId=0,departPos=0.0)
+2020-05-23 22:01:50,681 INFO  SumoGUIAmbassador - AddedVehicle "veh_4" received at simulation time 13000000000 ns
+2020-05-23 22:01:50,683 INFO  SumoGUIAmbassador - Adding new vehicle "veh_4" at simulation time 13000000000 ns (type=Car,routeId=1,laneId=0,departPos=0.0)
+2020-05-23 22:01:50,706 INFO  SumoGUIAmbassador - AddedVehicle "veh_5" received at simulation time 15000000000 ns
+2020-05-23 22:01:50,713 INFO  SumoGUIAmbassador - Adding new vehicle "veh_5" at simulation time 15000000000 ns (type=Car,routeId=1,laneId=0,departPos=0.0)
+2020-05-23 22:01:50,734 INFO  SumoGUIAmbassador - AddedVehicle "veh_6" received at simulation time 17000000000 ns
+2020-05-23 22:01:50,735 INFO  SumoGUIAmbassador - Adding new vehicle "veh_6" at simulation time 17000000000 ns (type=PKW,routeId=1,laneId=0,departPos=0.0)
+2020-05-23 22:01:50,760 INFO  SumoGUIAmbassador - AddedVehicle "veh_7" received at simulation time 19000000000 ns
+2020-05-23 22:01:50,761 INFO  SumoGUIAmbassador - Adding new vehicle "veh_7" at simulation time 19000000000 ns (type=Car,routeId=1,laneId=0,departPos=0.0)
+2020-05-23 22:01:51,446 INFO  SumoGUIAmbassador - Receive ChangeSpeed request at simulation time 50.0 s: vehicleId="veh_0", targetSpeed=6.94444465637207m/s, interval=5000ms
+2020-05-23 22:01:51,602 INFO  SumoGUIAmbassador - Receive ChangeStaticRoute request at simulation time 50.301 s: vehicleId="veh_7", newRouteId=2, current edge: 5668986_42421852_561035342_6791817303
+2020-05-23 22:01:51,614 INFO  SumoGUIAmbassador - Receive ChangeStaticRoute request at simulation time 50.332 s: vehicleId="veh_4", newRouteId=2, current edge: 5668986_561035342_42421857_2541754741
+2020-05-23 22:01:51,628 WARN  TraciVehicleFacade - Route for vehicle veh_4 could not be changed
+com.dcaiti.vsimrti.fed.sumo.traci.TraciCommandException: TraCI Command failed: Route replacement failed for veh_4
+	at com.dcaiti.vsimrti.fed.sumo.traci.AbstractTraciCommand.readResults(AbstractTraciCommand.java:231) ~[sumo-traci-19.1.jar:na]
+	at com.dcaiti.vsimrti.fed.sumo.traci.AbstractTraciCommand.execute(AbstractTraciCommand.java:90) ~[sumo-traci-19.1.jar:na]
+	at com.dcaiti.vsimrti.fed.sumo.traci.commands.VehicleSetRouteById.execute(VehicleSetRouteById.java:27) ~[sumo-traci-19.1.jar:na]
+	at com.dcaiti.vsimrti.fed.sumo.traci.facades.TraciVehicleFacade.setRouteById(TraciVehicleFacade.java:141) ~[sumo-traci-19.1.jar:na]
+	at com.dcaiti.vsimrti.fed.sumo.ambassador.AbstractSumoAmbassador.receiveMessage(AbstractSumoAmbassador.java:665) ~[sumo-ambassador-19.1.jar:na]
+	at com.dcaiti.vsimrti.fed.sumo.ambassador.AbstractSumoAmbassador.processMessageAdvanced(AbstractSumoAmbassador.java:437) ~[sumo-ambassador-19.1.jar:na]
+	at com.dcaiti.vsimrti.fed.sumo.ambassador.SumoAmbassador.processMessageAdvanced(SumoAmbassador.java:125) ~[sumo-ambassador-19.1.jar:na]
+	at com.dcaiti.vsimrti.fed.sumo.ambassador.AbstractSumoAmbassador.processTimeAdvanceGrant(AbstractSumoAmbassador.java:1015) ~[sumo-ambassador-19.1.jar:na]
+	at com.dcaiti.vsimrti.rti.services.AbstractFederateAmbassador.advanceTime(Unknown Source) ~[vsimrti-19.1.jar:na]
+	at com.dcaiti.vsimrti.rti.services.time.a.runSimulation(Unknown Source) ~[vsimrti-19.1.jar:na]
+	at com.dcaiti.vsimrti.start.XMLConfigRunner.runSimulation(XMLConfigRunner.java:750) ~[vsimrti-xml-runner-19.1.jar:na]
+	at com.dcaiti.vsimrti.start.XMLConfigRunner.main(XMLConfigRunner.java:260) ~[vsimrti-xml-runner-19.1.jar:na]
+2020-05-23 22:01:51,637 INFO  SumoGUIAmbassador - Receive ChangeStaticRoute request at simulation time 50.334 s: vehicleId="veh_5", newRouteId=2, current edge: 5668986_42421852_561035342_6791817304
+2020-05-23 22:01:51,687 INFO  SumoGUIAmbassador - Receive ChangeSpeed request at simulation time 54.0 s: vehicleId="veh_0", targetSpeed=0.0m/s, interval=0ms
+2020-05-23 22:01:51,744 INFO  SumoGUIAmbassador - Receive ChangeSpeed request at simulation time 63.0 s: vehicleId="veh_2", targetSpeed=6.94444465637207m/s, interval=5000ms
+2020-05-23 22:01:51,879 INFO  SumoGUIAmbassador - Receive ChangeSpeed request at simulation time 66.0 s: vehicleId="veh_2", targetSpeed=0.0m/s, interval=0ms
+2020-05-23 22:01:51,939 INFO  TraciSimulationFacade - Removed vehicle "veh_0" at simulation time 76000000000ns
+2020-05-23 22:01:52,007 INFO  SumoGUIAmbassador - Receive ChangeSpeed request at simulation time 77.0 s: vehicleId="veh_4", targetSpeed=6.94444465637207m/s, interval=5000ms
+2020-05-23 22:01:52,020 INFO  TraciSimulationFacade - Removed vehicle "veh_1" at simulation time 78000000000ns
+2020-05-23 22:01:52,044 INFO  SumoGUIAmbassador - Receive ChangeSpeed request at simulation time 80.0 s: vehicleId="veh_4", targetSpeed=0.0m/s, interval=0ms
+2020-05-23 22:01:52,091 INFO  TraciSimulationFacade - Removed vehicle "veh_2" at simulation time 88000000000ns
+2020-05-23 22:01:52,100 INFO  TraciSimulationFacade - Removed vehicle "veh_3" at simulation time 90000000000ns
+2020-05-23 22:01:52,141 INFO  TraciSimulationFacade - Removed vehicle "veh_4" at simulation time 102000000000ns
+2020-05-23 22:01:52,237 INFO  TraciSimulationFacade - Removed vehicle "veh_6" at simulation time 109000000000ns
+2020-05-23 22:01:52,239 INFO  SumoGUIAmbassador - Receive ChangeSpeed request at simulation time 109.0 s: vehicleId="veh_5", targetSpeed=6.94444465637207m/s, interval=5000ms
+2020-05-23 22:01:52,269 INFO  SumoGUIAmbassador - Receive ChangeSpeed request at simulation time 113.0 s: vehicleId="veh_5", targetSpeed=0.0m/s, interval=0ms
+2020-05-23 22:01:52,289 INFO  SumoGUIAmbassador - Receive ChangeSpeed request at simulation time 122.0 s: vehicleId="veh_7", targetSpeed=6.94444465637207m/s, interval=5000ms
+2020-05-23 22:01:52,312 INFO  SumoGUIAmbassador - Receive ChangeSpeed request at simulation time 126.0 s: vehicleId="veh_7", targetSpeed=0.0m/s, interval=0ms
+2020-05-23 22:01:52,334 INFO  TraciSimulationFacade - Removed vehicle "veh_5" at simulation time 136000000000ns
+2020-05-23 22:01:52,452 INFO  TraciSimulationFacade - Removed vehicle "veh_7" at simulation time 149000000000ns

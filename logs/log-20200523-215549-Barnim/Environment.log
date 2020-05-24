@@ -1,0 +1,594 @@
+2020-05-23 21:55:49,556 INFO  EventserverAmbassador - File found, read successfully.
+The following object was created (This is the created, internal JSON data object and might differ from the initial JSON-String read).
+The normal string representation.
+{"events":[{"type":"Ice","rectangle":{"a":{"longitude":13.5608,"latitude":52.6331},"b":{"longitude":13.5656,"latitude":52.6196}},"strength":1,"time":{"start":0,"end":1220}}],"parkingLots":[]}
+The pretty string representation.
+{
+  "events": [
+    {
+      "type": "Ice",
+      "rectangle": {
+        "a": {
+          "longitude": 13.5608,
+          "latitude": 52.6331
+        },
+        "b": {
+          "longitude": 13.5656,
+          "latitude": 52.6196
+        }
+      },
+      "strength": 1,
+      "time": {
+        "start": 0,
+        "end": 1220
+      }
+    }
+  ],
+  "parkingLots": []
+}
+2020-05-23 21:56:02,768 INFO  EventserverAmbassador - Registered for sensor information: id=rsu_0 at time 0.000,000,000 s
+2020-05-23 21:56:02,833 INFO  EventserverAmbassador - Registered for sensor information: id=veh_0 at time 6.000,000,000 s
+2020-05-23 21:56:02,861 INFO  EventserverAmbassador - Registered for sensor information: id=veh_1 at time 8.000,000,000 s
+2020-05-23 21:56:02,872 INFO  EventserverAmbassador - Registered for sensor information: id=veh_2 at time 10.000,000,000 s
+2020-05-23 21:56:02,901 INFO  EventserverAmbassador - Registered for sensor information: id=veh_3 at time 12.000,000,000 s
+2020-05-23 21:56:02,914 INFO  EventserverAmbassador - Registered for sensor information: id=veh_4 at time 14.000,000,000 s
+2020-05-23 21:56:03,269 INFO  EventserverAmbassador - Registered for sensor information: id=veh_5 at time 16.000,000,000 s
+2020-05-23 21:56:03,294 INFO  EventserverAmbassador - Registered for sensor information: id=veh_6 at time 18.000,000,000 s
+2020-05-23 21:56:03,344 INFO  EventserverAmbassador - Registered for sensor information: id=veh_7 at time 20.000,000,000 s
+2020-05-23 21:56:03,379 INFO  EventserverAmbassador - Registered for sensor information: id=veh_8 at time 22.000,000,000 s
+2020-05-23 21:56:03,399 INFO  EventserverAmbassador - Registered for sensor information: id=veh_9 at time 24.000,000,000 s
+2020-05-23 21:56:03,442 INFO  EventserverAmbassador - Registered for sensor information: id=veh_10 at time 26.000,000,000 s
+2020-05-23 21:56:03,489 INFO  EventserverAmbassador - Registered for sensor information: id=veh_11 at time 28.000,000,000 s
+2020-05-23 21:56:03,508 INFO  EventserverAmbassador - Registered for sensor information: id=veh_12 at time 30.000,000,000 s
+2020-05-23 21:56:03,573 INFO  EventserverAmbassador - Registered for sensor information: id=veh_13 at time 32.000,000,000 s
+2020-05-23 21:56:03,604 INFO  EventserverAmbassador - Registered for sensor information: id=veh_14 at time 34.000,000,000 s
+2020-05-23 21:56:03,634 INFO  EventserverAmbassador - Registered for sensor information: id=veh_15 at time 36.000,000,000 s
+2020-05-23 21:56:03,657 INFO  EventserverAmbassador - Registered for sensor information: id=veh_16 at time 38.000,000,000 s
+2020-05-23 21:56:03,678 INFO  EventserverAmbassador - Registered for sensor information: id=veh_17 at time 40.000,000,000 s
+2020-05-23 21:56:03,783 INFO  EventserverAmbassador - Registered for sensor information: id=veh_18 at time 42.000,000,000 s
+2020-05-23 21:56:03,806 INFO  EventserverAmbassador - Registered for sensor information: id=veh_19 at time 44.000,000,000 s
+2020-05-23 21:56:03,869 INFO  EventserverAmbassador - Registered for sensor information: id=veh_20 at time 46.000,000,000 s
+2020-05-23 21:56:03,898 INFO  EventserverAmbassador - Registered for sensor information: id=veh_21 at time 48.000,000,000 s
+2020-05-23 21:56:03,952 INFO  EventserverAmbassador - Registered for sensor information: id=veh_22 at time 50.000,000,000 s
+2020-05-23 21:56:03,988 INFO  EventserverAmbassador - Registered for sensor information: id=veh_23 at time 52.000,000,000 s
+2020-05-23 21:56:04,008 INFO  EventserverAmbassador - Registered for sensor information: id=veh_24 at time 54.000,000,000 s
+2020-05-23 21:56:04,063 INFO  EventserverAmbassador - Registered for sensor information: id=veh_25 at time 56.000,000,000 s
+2020-05-23 21:56:04,133 INFO  EventserverAmbassador - Registered for sensor information: id=veh_26 at time 58.000,000,000 s
+2020-05-23 21:56:04,158 INFO  EventserverAmbassador - Registered for sensor information: id=veh_27 at time 60.000,000,000 s
+2020-05-23 21:56:04,197 INFO  EventserverAmbassador - Registered for sensor information: id=veh_28 at time 62.000,000,000 s
+2020-05-23 21:56:04,224 INFO  EventserverAmbassador - Registered for sensor information: id=veh_29 at time 64.000,000,000 s
+2020-05-23 21:56:04,267 INFO  EventserverAmbassador - Registered for sensor information: id=veh_30 at time 66.000,000,000 s
+2020-05-23 21:56:04,300 INFO  EventserverAmbassador - Registered for sensor information: id=veh_31 at time 68.000,000,000 s
+2020-05-23 21:56:04,387 INFO  EventserverAmbassador - Registered for sensor information: id=veh_32 at time 70.000,000,000 s
+2020-05-23 21:56:04,426 INFO  EventserverAmbassador - Registered for sensor information: id=veh_33 at time 72.000,000,000 s
+2020-05-23 21:56:04,458 INFO  EventserverAmbassador - Registered for sensor information: id=veh_34 at time 74.000,000,000 s
+2020-05-23 21:56:04,502 INFO  EventserverAmbassador - Registered for sensor information: id=veh_35 at time 76.000,000,000 s
+2020-05-23 21:56:04,555 INFO  EventserverAmbassador - Registered for sensor information: id=veh_36 at time 78.000,000,000 s
+2020-05-23 21:56:04,583 INFO  EventserverAmbassador - Registered for sensor information: id=veh_37 at time 80.000,000,000 s
+2020-05-23 21:56:04,585 INFO  EventserverAmbassador - SimTime 80000000000: Emitted sensor data to 1 vehicles
+2020-05-23 21:56:04,626 INFO  EventserverAmbassador - SimTime 81000000000: Emitted sensor data to 1 vehicles
+2020-05-23 21:56:04,641 INFO  EventserverAmbassador - Registered for sensor information: id=veh_38 at time 82.000,000,000 s
+2020-05-23 21:56:04,643 INFO  EventserverAmbassador - SimTime 82000000000: Emitted sensor data to 2 vehicles
+2020-05-23 21:56:04,661 INFO  EventserverAmbassador - SimTime 83000000000: Emitted sensor data to 2 vehicles
+2020-05-23 21:56:04,675 INFO  EventserverAmbassador - Registered for sensor information: id=veh_39 at time 84.000,000,000 s
+2020-05-23 21:56:04,677 INFO  EventserverAmbassador - SimTime 84000000000: Emitted sensor data to 3 vehicles
+2020-05-23 21:56:05,253 INFO  EventserverAmbassador - SimTime 85000000000: Emitted sensor data to 3 vehicles
+2020-05-23 21:56:05,302 INFO  EventserverAmbassador - Registered for sensor information: id=veh_40 at time 86.000,000,000 s
+2020-05-23 21:56:05,305 INFO  EventserverAmbassador - SimTime 86000000000: Emitted sensor data to 4 vehicles
+2020-05-23 21:56:05,372 INFO  EventserverAmbassador - SimTime 87000000000: Emitted sensor data to 4 vehicles
+2020-05-23 21:56:05,389 INFO  EventserverAmbassador - Registered for sensor information: id=veh_41 at time 88.000,000,000 s
+2020-05-23 21:56:05,392 INFO  EventserverAmbassador - SimTime 88000000000: Emitted sensor data to 5 vehicles
+2020-05-23 21:56:05,414 INFO  EventserverAmbassador - SimTime 89000000000: Emitted sensor data to 5 vehicles
+2020-05-23 21:56:05,432 INFO  EventserverAmbassador - Registered for sensor information: id=veh_42 at time 90.000,000,000 s
+2020-05-23 21:56:05,434 INFO  EventserverAmbassador - SimTime 90000000000: Emitted sensor data to 6 vehicles
+2020-05-23 21:56:05,491 INFO  EventserverAmbassador - SimTime 91000000000: Emitted sensor data to 6 vehicles
+2020-05-23 21:56:05,641 INFO  EventserverAmbassador - Registered for sensor information: id=veh_43 at time 92.000,000,000 s
+2020-05-23 21:56:05,643 INFO  EventserverAmbassador - SimTime 92000000000: Emitted sensor data to 7 vehicles
+2020-05-23 21:56:05,675 INFO  EventserverAmbassador - SimTime 93000000000: Emitted sensor data to 7 vehicles
+2020-05-23 21:56:05,719 INFO  EventserverAmbassador - Registered for sensor information: id=veh_44 at time 94.000,000,000 s
+2020-05-23 21:56:05,792 INFO  EventserverAmbassador - SimTime 94000000000: Emitted sensor data to 8 vehicles
+2020-05-23 21:56:05,841 INFO  EventserverAmbassador - SimTime 95000000000: Emitted sensor data to 8 vehicles
+2020-05-23 21:56:06,011 INFO  EventserverAmbassador - Registered for sensor information: id=veh_45 at time 96.000,000,000 s
+2020-05-23 21:56:06,015 INFO  EventserverAmbassador - SimTime 96000000000: Emitted sensor data to 9 vehicles
+2020-05-23 21:56:06,058 INFO  EventserverAmbassador - SimTime 97000000000: Emitted sensor data to 9 vehicles
+2020-05-23 21:56:06,083 INFO  EventserverAmbassador - Registered for sensor information: id=veh_46 at time 98.000,000,000 s
+2020-05-23 21:56:06,086 INFO  EventserverAmbassador - SimTime 98000000000: Emitted sensor data to 10 vehicles
+2020-05-23 21:56:06,220 INFO  EventserverAmbassador - SimTime 99000000000: Emitted sensor data to 10 vehicles
+2020-05-23 21:56:06,246 INFO  EventserverAmbassador - Registered for sensor information: id=veh_47 at time 100.000,000,000 s
+2020-05-23 21:56:06,253 INFO  EventserverAmbassador - SimTime 100000000000: Emitted sensor data to 11 vehicles
+2020-05-23 21:56:06,304 INFO  EventserverAmbassador - SimTime 101000000000: Emitted sensor data to 11 vehicles
+2020-05-23 21:56:06,319 INFO  EventserverAmbassador - Registered for sensor information: id=veh_48 at time 102.000,000,000 s
+2020-05-23 21:56:06,368 INFO  EventserverAmbassador - SimTime 102000000000: Emitted sensor data to 12 vehicles
+2020-05-23 21:56:06,407 INFO  EventserverAmbassador - SimTime 103000000000: Emitted sensor data to 12 vehicles
+2020-05-23 21:56:06,423 INFO  EventserverAmbassador - Registered for sensor information: id=veh_49 at time 104.000,000,000 s
+2020-05-23 21:56:06,425 INFO  EventserverAmbassador - SimTime 104000000000: Emitted sensor data to 13 vehicles
+2020-05-23 21:56:06,458 INFO  EventserverAmbassador - SimTime 105000000000: Emitted sensor data to 13 vehicles
+2020-05-23 21:56:06,523 INFO  EventserverAmbassador - Registered for sensor information: id=veh_50 at time 106.000,000,000 s
+2020-05-23 21:56:06,527 INFO  EventserverAmbassador - SimTime 106000000000: Emitted sensor data to 14 vehicles
+2020-05-23 21:56:06,626 INFO  EventserverAmbassador - SimTime 107000000000: Emitted sensor data to 14 vehicles
+2020-05-23 21:56:06,660 INFO  EventserverAmbassador - Registered for sensor information: id=veh_51 at time 108.000,000,000 s
+2020-05-23 21:56:06,665 INFO  EventserverAmbassador - SimTime 108000000000: Emitted sensor data to 15 vehicles
+2020-05-23 21:56:06,692 INFO  EventserverAmbassador - SimTime 109000000000: Emitted sensor data to 15 vehicles
+2020-05-23 21:56:06,801 INFO  EventserverAmbassador - Registered for sensor information: id=veh_52 at time 110.000,000,000 s
+2020-05-23 21:56:06,805 INFO  EventserverAmbassador - SimTime 110000000000: Emitted sensor data to 16 vehicles
+2020-05-23 21:56:06,852 INFO  EventserverAmbassador - SimTime 111000000000: Emitted sensor data to 16 vehicles
+2020-05-23 21:56:06,908 INFO  EventserverAmbassador - Registered for sensor information: id=veh_53 at time 112.000,000,000 s
+2020-05-23 21:56:06,930 INFO  EventserverAmbassador - SimTime 112000000000: Emitted sensor data to 17 vehicles
+2020-05-23 21:56:06,995 INFO  EventserverAmbassador - SimTime 113000000000: Emitted sensor data to 17 vehicles
+2020-05-23 21:56:07,027 INFO  EventserverAmbassador - Registered for sensor information: id=veh_54 at time 114.000,000,000 s
+2020-05-23 21:56:07,030 INFO  EventserverAmbassador - SimTime 114000000000: Emitted sensor data to 18 vehicles
+2020-05-23 21:56:07,059 INFO  EventserverAmbassador - SimTime 115000000000: Emitted sensor data to 18 vehicles
+2020-05-23 21:56:07,097 INFO  EventserverAmbassador - Registered for sensor information: id=veh_55 at time 116.000,000,000 s
+2020-05-23 21:56:07,100 INFO  EventserverAmbassador - SimTime 116000000000: Emitted sensor data to 19 vehicles
+2020-05-23 21:56:07,226 INFO  EventserverAmbassador - SimTime 117000000000: Emitted sensor data to 19 vehicles
+2020-05-23 21:56:07,255 INFO  EventserverAmbassador - Registered for sensor information: id=veh_56 at time 118.000,000,000 s
+2020-05-23 21:56:07,258 INFO  EventserverAmbassador - SimTime 118000000000: Emitted sensor data to 20 vehicles
+2020-05-23 21:56:07,303 INFO  EventserverAmbassador - SimTime 119000000000: Emitted sensor data to 20 vehicles
+2020-05-23 21:56:07,429 INFO  EventserverAmbassador - Registered for sensor information: id=veh_57 at time 120.000,000,000 s
+2020-05-23 21:56:07,434 INFO  EventserverAmbassador - SimTime 120000000000: Emitted sensor data to 21 vehicles
+2020-05-23 21:56:07,490 INFO  EventserverAmbassador - SimTime 121000000000: Emitted sensor data to 21 vehicles
+2020-05-23 21:56:07,516 INFO  EventserverAmbassador - Registered for sensor information: id=veh_58 at time 122.000,000,000 s
+2020-05-23 21:56:07,518 INFO  EventserverAmbassador - SimTime 122000000000: Emitted sensor data to 22 vehicles
+2020-05-23 21:56:07,637 INFO  EventserverAmbassador - SimTime 123000000000: Emitted sensor data to 22 vehicles
+2020-05-23 21:56:07,661 INFO  EventserverAmbassador - Registered for sensor information: id=veh_59 at time 124.000,000,000 s
+2020-05-23 21:56:07,664 INFO  EventserverAmbassador - SimTime 124000000000: Emitted sensor data to 22 vehicles
+2020-05-23 21:56:07,795 INFO  EventserverAmbassador - SimTime 125000000000: Emitted sensor data to 22 vehicles
+2020-05-23 21:56:07,978 INFO  EventserverAmbassador - Registered for sensor information: id=veh_60 at time 126.000,000,000 s
+2020-05-23 21:56:07,983 INFO  EventserverAmbassador - SimTime 126000000000: Emitted sensor data to 23 vehicles
+2020-05-23 21:56:08,016 INFO  EventserverAmbassador - SimTime 127000000000: Emitted sensor data to 23 vehicles
+2020-05-23 21:56:08,124 INFO  EventserverAmbassador - Registered for sensor information: id=veh_61 at time 128.000,000,000 s
+2020-05-23 21:56:08,127 INFO  EventserverAmbassador - SimTime 128000000000: Emitted sensor data to 24 vehicles
+2020-05-23 21:56:08,157 INFO  EventserverAmbassador - SimTime 129000000000: Emitted sensor data to 24 vehicles
+2020-05-23 21:56:08,178 INFO  EventserverAmbassador - Registered for sensor information: id=veh_62 at time 130.000,000,000 s
+2020-05-23 21:56:08,181 INFO  EventserverAmbassador - SimTime 130000000000: Emitted sensor data to 25 vehicles
+2020-05-23 21:56:08,351 INFO  EventserverAmbassador - SimTime 131000000000: Emitted sensor data to 25 vehicles
+2020-05-23 21:56:08,372 INFO  EventserverAmbassador - Registered for sensor information: id=veh_63 at time 132.000,000,000 s
+2020-05-23 21:56:08,376 INFO  EventserverAmbassador - SimTime 132000000000: Emitted sensor data to 26 vehicles
+2020-05-23 21:56:08,486 INFO  EventserverAmbassador - SimTime 133000000000: Emitted sensor data to 26 vehicles
+2020-05-23 21:56:08,510 INFO  EventserverAmbassador - Registered for sensor information: id=veh_64 at time 134.000,000,000 s
+2020-05-23 21:56:08,512 INFO  EventserverAmbassador - SimTime 134000000000: Emitted sensor data to 26 vehicles
+2020-05-23 21:56:08,631 INFO  EventserverAmbassador - SimTime 135000000000: Emitted sensor data to 26 vehicles
+2020-05-23 21:56:08,670 INFO  EventserverAmbassador - Registered for sensor information: id=veh_65 at time 136.000,000,000 s
+2020-05-23 21:56:08,680 INFO  EventserverAmbassador - SimTime 136000000000: Emitted sensor data to 27 vehicles
+2020-05-23 21:56:08,845 INFO  EventserverAmbassador - SimTime 137000000000: Emitted sensor data to 27 vehicles
+2020-05-23 21:56:08,884 INFO  EventserverAmbassador - Registered for sensor information: id=veh_66 at time 138.000,000,000 s
+2020-05-23 21:56:08,892 INFO  EventserverAmbassador - SimTime 138000000000: Emitted sensor data to 28 vehicles
+2020-05-23 21:56:08,929 INFO  EventserverAmbassador - SimTime 139000000000: Emitted sensor data to 28 vehicles
+2020-05-23 21:56:09,075 INFO  EventserverAmbassador - Registered for sensor information: id=veh_67 at time 140.000,000,000 s
+2020-05-23 21:56:09,081 INFO  EventserverAmbassador - SimTime 140000000000: Emitted sensor data to 29 vehicles
+2020-05-23 21:56:09,140 INFO  EventserverAmbassador - SimTime 141000000000: Emitted sensor data to 29 vehicles
+2020-05-23 21:56:09,266 INFO  EventserverAmbassador - Registered for sensor information: id=veh_68 at time 142.000,000,000 s
+2020-05-23 21:56:09,272 INFO  EventserverAmbassador - SimTime 142000000000: Emitted sensor data to 30 vehicles
+2020-05-23 21:56:09,298 INFO  EventserverAmbassador - SimTime 143000000000: Emitted sensor data to 30 vehicles
+2020-05-23 21:56:09,377 INFO  EventserverAmbassador - Registered for sensor information: id=veh_69 at time 144.000,000,000 s
+2020-05-23 21:56:09,383 INFO  EventserverAmbassador - SimTime 144000000000: Emitted sensor data to 30 vehicles
+2020-05-23 21:56:09,410 INFO  EventserverAmbassador - SimTime 145000000000: Emitted sensor data to 30 vehicles
+2020-05-23 21:56:09,453 INFO  EventserverAmbassador - Registered for sensor information: id=veh_70 at time 146.000,000,000 s
+2020-05-23 21:56:09,459 INFO  EventserverAmbassador - SimTime 146000000000: Emitted sensor data to 31 vehicles
+2020-05-23 21:56:09,498 INFO  EventserverAmbassador - SimTime 147000000000: Emitted sensor data to 31 vehicles
+2020-05-23 21:56:09,525 INFO  EventserverAmbassador - Registered for sensor information: id=veh_71 at time 148.000,000,000 s
+2020-05-23 21:56:09,531 INFO  EventserverAmbassador - SimTime 148000000000: Emitted sensor data to 32 vehicles
+2020-05-23 21:56:09,716 INFO  EventserverAmbassador - SimTime 149000000000: Emitted sensor data to 32 vehicles
+2020-05-23 21:56:09,783 INFO  EventserverAmbassador - Registered for sensor information: id=veh_72 at time 150.000,000,000 s
+2020-05-23 21:56:09,789 INFO  EventserverAmbassador - SimTime 150000000000: Emitted sensor data to 33 vehicles
+2020-05-23 21:56:09,985 INFO  EventserverAmbassador - SimTime 151000000000: Emitted sensor data to 33 vehicles
+2020-05-23 21:56:10,066 INFO  EventserverAmbassador - Registered for sensor information: id=veh_73 at time 152.000,000,000 s
+2020-05-23 21:56:10,073 INFO  EventserverAmbassador - SimTime 152000000000: Emitted sensor data to 34 vehicles
+2020-05-23 21:56:10,132 INFO  EventserverAmbassador - SimTime 153000000000: Emitted sensor data to 34 vehicles
+2020-05-23 21:56:10,239 INFO  EventserverAmbassador - Registered for sensor information: id=veh_74 at time 154.000,000,000 s
+2020-05-23 21:56:10,244 INFO  EventserverAmbassador - SimTime 154000000000: Emitted sensor data to 34 vehicles
+2020-05-23 21:56:10,273 INFO  EventserverAmbassador - SimTime 155000000000: Emitted sensor data to 34 vehicles
+2020-05-23 21:56:10,308 INFO  EventserverAmbassador - Registered for sensor information: id=veh_75 at time 156.000,000,000 s
+2020-05-23 21:56:10,330 INFO  EventserverAmbassador - SimTime 156000000000: Emitted sensor data to 35 vehicles
+2020-05-23 21:56:10,415 INFO  EventserverAmbassador - SimTime 157000000000: Emitted sensor data to 35 vehicles
+2020-05-23 21:56:10,441 INFO  EventserverAmbassador - Registered for sensor information: id=veh_76 at time 158.000,000,000 s
+2020-05-23 21:56:10,445 INFO  EventserverAmbassador - SimTime 158000000000: Emitted sensor data to 36 vehicles
+2020-05-23 21:56:10,480 INFO  EventserverAmbassador - SimTime 159000000000: Emitted sensor data to 36 vehicles
+2020-05-23 21:56:10,528 INFO  EventserverAmbassador - Registered for sensor information: id=veh_77 at time 160.000,000,000 s
+2020-05-23 21:56:10,543 INFO  EventserverAmbassador - SimTime 160000000000: Emitted sensor data to 37 vehicles
+2020-05-23 21:56:10,726 INFO  EventserverAmbassador - SimTime 161000000000: Emitted sensor data to 37 vehicles
+2020-05-23 21:56:10,763 INFO  EventserverAmbassador - Registered for sensor information: id=veh_78 at time 162.000,000,000 s
+2020-05-23 21:56:10,770 INFO  EventserverAmbassador - SimTime 162000000000: Emitted sensor data to 38 vehicles
+2020-05-23 21:56:10,899 INFO  EventserverAmbassador - SimTime 163000000000: Emitted sensor data to 38 vehicles
+2020-05-23 21:56:10,990 INFO  EventserverAmbassador - Registered for sensor information: id=veh_79 at time 164.000,000,000 s
+2020-05-23 21:56:10,999 INFO  EventserverAmbassador - SimTime 164000000000: Emitted sensor data to 38 vehicles
+2020-05-23 21:56:11,130 INFO  EventserverAmbassador - SimTime 165000000000: Emitted sensor data to 38 vehicles
+2020-05-23 21:56:11,188 INFO  EventserverAmbassador - Registered for sensor information: id=veh_80 at time 166.000,000,000 s
+2020-05-23 21:56:11,193 INFO  EventserverAmbassador - SimTime 166000000000: Emitted sensor data to 39 vehicles
+2020-05-23 21:56:11,582 INFO  EventserverAmbassador - SimTime 167000000000: Emitted sensor data to 39 vehicles
+2020-05-23 21:56:11,616 INFO  EventserverAmbassador - Registered for sensor information: id=veh_81 at time 168.000,000,000 s
+2020-05-23 21:56:11,620 INFO  EventserverAmbassador - SimTime 168000000000: Emitted sensor data to 40 vehicles
+2020-05-23 21:56:11,661 INFO  EventserverAmbassador - SimTime 169000000000: Emitted sensor data to 40 vehicles
+2020-05-23 21:56:11,870 INFO  EventserverAmbassador - Registered for sensor information: id=veh_82 at time 170.000,000,000 s
+2020-05-23 21:56:11,900 INFO  EventserverAmbassador - SimTime 170000000000: Emitted sensor data to 41 vehicles
+2020-05-23 21:56:12,052 INFO  EventserverAmbassador - SimTime 171000000000: Emitted sensor data to 41 vehicles
+2020-05-23 21:56:12,130 INFO  EventserverAmbassador - Registered for sensor information: id=veh_83 at time 172.000,000,000 s
+2020-05-23 21:56:12,139 INFO  EventserverAmbassador - SimTime 172000000000: Emitted sensor data to 42 vehicles
+2020-05-23 21:56:12,271 INFO  EventserverAmbassador - SimTime 173000000000: Emitted sensor data to 42 vehicles
+2020-05-23 21:56:12,381 INFO  EventserverAmbassador - Registered for sensor information: id=veh_84 at time 174.000,000,000 s
+2020-05-23 21:56:12,463 INFO  EventserverAmbassador - SimTime 174000000000: Emitted sensor data to 43 vehicles
+2020-05-23 21:56:12,606 INFO  EventserverAmbassador - SimTime 175000000000: Emitted sensor data to 43 vehicles
+2020-05-23 21:56:12,698 INFO  EventserverAmbassador - Registered for sensor information: id=veh_85 at time 176.000,000,000 s
+2020-05-23 21:56:12,702 INFO  EventserverAmbassador - SimTime 176000000000: Emitted sensor data to 44 vehicles
+2020-05-23 21:56:12,857 INFO  EventserverAmbassador - SimTime 177000000000: Emitted sensor data to 44 vehicles
+2020-05-23 21:56:12,943 INFO  EventserverAmbassador - Registered for sensor information: id=veh_86 at time 178.000,000,000 s
+2020-05-23 21:56:12,981 INFO  EventserverAmbassador - SimTime 178000000000: Emitted sensor data to 45 vehicles
+2020-05-23 21:56:13,115 INFO  EventserverAmbassador - SimTime 179000000000: Emitted sensor data to 45 vehicles
+2020-05-23 21:56:13,244 INFO  EventserverAmbassador - Registered for sensor information: id=veh_87 at time 180.000,000,000 s
+2020-05-23 21:56:13,248 INFO  EventserverAmbassador - SimTime 180000000000: Emitted sensor data to 46 vehicles
+2020-05-23 21:56:13,471 INFO  EventserverAmbassador - SimTime 181000000000: Emitted sensor data to 46 vehicles
+2020-05-23 21:56:13,626 INFO  EventserverAmbassador - Registered for sensor information: id=veh_88 at time 182.000,000,000 s
+2020-05-23 21:56:13,633 INFO  EventserverAmbassador - SimTime 182000000000: Emitted sensor data to 47 vehicles
+2020-05-23 21:56:13,749 INFO  EventserverAmbassador - SimTime 183000000000: Emitted sensor data to 47 vehicles
+2020-05-23 21:56:13,834 INFO  EventserverAmbassador - Registered for sensor information: id=veh_89 at time 184.000,000,000 s
+2020-05-23 21:56:13,846 INFO  EventserverAmbassador - SimTime 184000000000: Emitted sensor data to 48 vehicles
+2020-05-23 21:56:13,958 INFO  EventserverAmbassador - SimTime 185000000000: Emitted sensor data to 48 vehicles
+2020-05-23 21:56:14,140 INFO  EventserverAmbassador - Registered for sensor information: id=veh_90 at time 186.000,000,000 s
+2020-05-23 21:56:14,183 INFO  EventserverAmbassador - SimTime 186000000000: Emitted sensor data to 49 vehicles
+2020-05-23 21:56:14,272 INFO  EventserverAmbassador - SimTime 187000000000: Emitted sensor data to 49 vehicles
+2020-05-23 21:56:14,413 INFO  EventserverAmbassador - Registered for sensor information: id=veh_91 at time 188.000,000,000 s
+2020-05-23 21:56:14,420 INFO  EventserverAmbassador - SimTime 188000000000: Emitted sensor data to 50 vehicles
+2020-05-23 21:56:14,466 INFO  EventserverAmbassador - SimTime 189000000000: Emitted sensor data to 50 vehicles
+2020-05-23 21:56:14,539 INFO  EventserverAmbassador - Registered for sensor information: id=veh_92 at time 190.000,000,000 s
+2020-05-23 21:56:14,561 INFO  EventserverAmbassador - SimTime 190000000000: Emitted sensor data to 51 vehicles
+2020-05-23 21:56:14,779 INFO  EventserverAmbassador - SimTime 191000000000: Emitted sensor data to 51 vehicles
+2020-05-23 21:56:14,942 INFO  EventserverAmbassador - Registered for sensor information: id=veh_93 at time 192.000,000,000 s
+2020-05-23 21:56:14,948 INFO  EventserverAmbassador - SimTime 192000000000: Emitted sensor data to 52 vehicles
+2020-05-23 21:56:15,002 INFO  EventserverAmbassador - SimTime 193000000000: Emitted sensor data to 52 vehicles
+2020-05-23 21:56:15,155 INFO  EventserverAmbassador - Registered for sensor information: id=veh_94 at time 194.000,000,000 s
+2020-05-23 21:56:15,162 INFO  EventserverAmbassador - SimTime 194000000000: Emitted sensor data to 53 vehicles
+2020-05-23 21:56:15,209 INFO  EventserverAmbassador - SimTime 195000000000: Emitted sensor data to 53 vehicles
+2020-05-23 21:56:15,375 INFO  EventserverAmbassador - Registered for sensor information: id=veh_95 at time 196.000,000,000 s
+2020-05-23 21:56:15,390 INFO  EventserverAmbassador - SimTime 196000000000: Emitted sensor data to 54 vehicles
+2020-05-23 21:56:15,479 INFO  EventserverAmbassador - SimTime 197000000000: Emitted sensor data to 54 vehicles
+2020-05-23 21:56:15,529 INFO  EventserverAmbassador - Registered for sensor information: id=veh_96 at time 198.000,000,000 s
+2020-05-23 21:56:15,538 INFO  EventserverAmbassador - SimTime 198000000000: Emitted sensor data to 55 vehicles
+2020-05-23 21:56:15,670 INFO  EventserverAmbassador - SimTime 199000000000: Emitted sensor data to 55 vehicles
+2020-05-23 21:56:15,718 INFO  EventserverAmbassador - Registered for sensor information: id=veh_97 at time 200.000,000,000 s
+2020-05-23 21:56:15,729 INFO  EventserverAmbassador - SimTime 200000000000: Emitted sensor data to 56 vehicles
+2020-05-23 21:56:15,950 INFO  EventserverAmbassador - SimTime 201000000000: Emitted sensor data to 56 vehicles
+2020-05-23 21:56:16,062 INFO  EventserverAmbassador - Registered for sensor information: id=veh_98 at time 202.000,000,000 s
+2020-05-23 21:56:16,069 INFO  EventserverAmbassador - SimTime 202000000000: Emitted sensor data to 57 vehicles
+2020-05-23 21:56:16,118 INFO  EventserverAmbassador - SimTime 203000000000: Emitted sensor data to 57 vehicles
+2020-05-23 21:56:16,274 INFO  EventserverAmbassador - Registered for sensor information: id=veh_99 at time 204.000,000,000 s
+2020-05-23 21:56:16,280 INFO  EventserverAmbassador - SimTime 204000000000: Emitted sensor data to 57 vehicles
+2020-05-23 21:56:16,332 INFO  EventserverAmbassador - SimTime 205000000000: Emitted sensor data to 57 vehicles
+2020-05-23 21:56:16,503 INFO  EventserverAmbassador - Registered for sensor information: id=veh_100 at time 206.000,000,000 s
+2020-05-23 21:56:16,510 INFO  EventserverAmbassador - SimTime 206000000000: Emitted sensor data to 58 vehicles
+2020-05-23 21:56:16,613 INFO  EventserverAmbassador - SimTime 207000000000: Emitted sensor data to 58 vehicles
+2020-05-23 21:56:16,657 INFO  EventserverAmbassador - Registered for sensor information: id=veh_101 at time 208.000,000,000 s
+2020-05-23 21:56:16,663 INFO  EventserverAmbassador - SimTime 208000000000: Emitted sensor data to 59 vehicles
+2020-05-23 21:56:16,762 INFO  EventserverAmbassador - SimTime 209000000000: Emitted sensor data to 59 vehicles
+2020-05-23 21:56:16,928 INFO  EventserverAmbassador - Registered for sensor information: id=veh_102 at time 210.000,000,000 s
+2020-05-23 21:56:16,936 INFO  EventserverAmbassador - SimTime 210000000000: Emitted sensor data to 60 vehicles
+2020-05-23 21:56:17,082 INFO  EventserverAmbassador - SimTime 211000000000: Emitted sensor data to 60 vehicles
+2020-05-23 21:56:17,199 INFO  EventserverAmbassador - Registered for sensor information: id=veh_103 at time 212.000,000,000 s
+2020-05-23 21:56:17,209 INFO  EventserverAmbassador - SimTime 212000000000: Emitted sensor data to 61 vehicles
+2020-05-23 21:56:17,255 INFO  EventserverAmbassador - SimTime 213000000000: Emitted sensor data to 61 vehicles
+2020-05-23 21:56:17,295 INFO  EventserverAmbassador - Registered for sensor information: id=veh_104 at time 214.000,000,000 s
+2020-05-23 21:56:17,301 INFO  EventserverAmbassador - SimTime 214000000000: Emitted sensor data to 61 vehicles
+2020-05-23 21:56:17,472 INFO  EventserverAmbassador - SimTime 215000000000: Emitted sensor data to 61 vehicles
+2020-05-23 21:56:17,614 INFO  EventserverAmbassador - Registered for sensor information: id=veh_105 at time 216.000,000,000 s
+2020-05-23 21:56:17,620 INFO  EventserverAmbassador - SimTime 216000000000: Emitted sensor data to 62 vehicles
+2020-05-23 21:56:17,659 INFO  EventserverAmbassador - SimTime 217000000000: Emitted sensor data to 62 vehicles
+2020-05-23 21:56:17,694 INFO  EventserverAmbassador - Registered for sensor information: id=veh_106 at time 218.000,000,000 s
+2020-05-23 21:56:17,701 INFO  EventserverAmbassador - SimTime 218000000000: Emitted sensor data to 63 vehicles
+2020-05-23 21:56:17,841 INFO  EventserverAmbassador - SimTime 219000000000: Emitted sensor data to 63 vehicles
+2020-05-23 21:56:17,877 INFO  EventserverAmbassador - Registered for sensor information: id=veh_107 at time 220.000,000,000 s
+2020-05-23 21:56:17,883 INFO  EventserverAmbassador - SimTime 220000000000: Emitted sensor data to 64 vehicles
+2020-05-23 21:56:18,064 INFO  EventserverAmbassador - SimTime 221000000000: Emitted sensor data to 64 vehicles
+2020-05-23 21:56:18,151 INFO  EventserverAmbassador - Registered for sensor information: id=veh_108 at time 222.000,000,000 s
+2020-05-23 21:56:18,157 INFO  EventserverAmbassador - SimTime 222000000000: Emitted sensor data to 65 vehicles
+2020-05-23 21:56:18,200 INFO  EventserverAmbassador - SimTime 223000000000: Emitted sensor data to 65 vehicles
+2020-05-23 21:56:18,341 INFO  EventserverAmbassador - Registered for sensor information: id=veh_109 at time 224.000,000,000 s
+2020-05-23 21:56:18,348 INFO  EventserverAmbassador - SimTime 224000000000: Emitted sensor data to 65 vehicles
+2020-05-23 21:56:18,511 INFO  EventserverAmbassador - SimTime 225000000000: Emitted sensor data to 65 vehicles
+2020-05-23 21:56:18,662 INFO  EventserverAmbassador - Registered for sensor information: id=veh_110 at time 226.000,000,000 s
+2020-05-23 21:56:18,668 INFO  EventserverAmbassador - SimTime 226000000000: Emitted sensor data to 66 vehicles
+2020-05-23 21:56:18,761 INFO  EventserverAmbassador - SimTime 227000000000: Emitted sensor data to 66 vehicles
+2020-05-23 21:56:18,875 INFO  EventserverAmbassador - Registered for sensor information: id=veh_111 at time 228.000,000,000 s
+2020-05-23 21:56:18,881 INFO  EventserverAmbassador - SimTime 228000000000: Emitted sensor data to 67 vehicles
+2020-05-23 21:56:18,933 INFO  EventserverAmbassador - SimTime 229000000000: Emitted sensor data to 67 vehicles
+2020-05-23 21:56:19,080 INFO  EventserverAmbassador - Registered for sensor information: id=veh_112 at time 230.000,000,000 s
+2020-05-23 21:56:19,087 INFO  EventserverAmbassador - SimTime 230000000000: Emitted sensor data to 68 vehicles
+2020-05-23 21:56:19,178 INFO  EventserverAmbassador - SimTime 231000000000: Emitted sensor data to 68 vehicles
+2020-05-23 21:56:19,303 INFO  EventserverAmbassador - Registered for sensor information: id=veh_113 at time 232.000,000,000 s
+2020-05-23 21:56:19,310 INFO  EventserverAmbassador - SimTime 232000000000: Emitted sensor data to 69 vehicles
+2020-05-23 21:56:19,442 INFO  EventserverAmbassador - SimTime 233000000000: Emitted sensor data to 69 vehicles
+2020-05-23 21:56:19,483 INFO  EventserverAmbassador - Registered for sensor information: id=veh_114 at time 234.000,000,000 s
+2020-05-23 21:56:19,489 INFO  EventserverAmbassador - SimTime 234000000000: Emitted sensor data to 69 vehicles
+2020-05-23 21:56:19,638 INFO  EventserverAmbassador - SimTime 235000000000: Emitted sensor data to 69 vehicles
+2020-05-23 21:56:19,695 INFO  EventserverAmbassador - Registered for sensor information: id=veh_115 at time 236.000,000,000 s
+2020-05-23 21:56:19,702 INFO  EventserverAmbassador - SimTime 236000000000: Emitted sensor data to 70 vehicles
+2020-05-23 21:56:19,830 INFO  EventserverAmbassador - SimTime 237000000000: Emitted sensor data to 70 vehicles
+2020-05-23 21:56:19,863 INFO  EventserverAmbassador - Registered for sensor information: id=veh_116 at time 238.000,000,000 s
+2020-05-23 21:56:19,869 INFO  EventserverAmbassador - SimTime 238000000000: Emitted sensor data to 71 vehicles
+2020-05-23 21:56:19,926 INFO  EventserverAmbassador - SimTime 239000000000: Emitted sensor data to 71 vehicles
+2020-05-23 21:56:20,080 INFO  EventserverAmbassador - Registered for sensor information: id=veh_117 at time 240.000,000,000 s
+2020-05-23 21:56:20,085 INFO  EventserverAmbassador - SimTime 240000000000: Emitted sensor data to 72 vehicles
+2020-05-23 21:56:20,179 INFO  EventserverAmbassador - SimTime 241000000000: Emitted sensor data to 72 vehicles
+2020-05-23 21:56:20,285 INFO  EventserverAmbassador - Registered for sensor information: id=veh_118 at time 242.000,000,000 s
+2020-05-23 21:56:20,297 INFO  EventserverAmbassador - SimTime 242000000000: Emitted sensor data to 73 vehicles
+2020-05-23 21:56:20,405 INFO  EventserverAmbassador - SimTime 243000000000: Emitted sensor data to 73 vehicles
+2020-05-23 21:56:20,458 INFO  EventserverAmbassador - Registered for sensor information: id=veh_119 at time 244.000,000,000 s
+2020-05-23 21:56:20,464 INFO  EventserverAmbassador - SimTime 244000000000: Emitted sensor data to 73 vehicles
+2020-05-23 21:56:20,502 INFO  EventserverAmbassador - SimTime 245000000000: Emitted sensor data to 73 vehicles
+2020-05-23 21:56:20,785 INFO  EventserverAmbassador - SimTime 246000000000: Emitted sensor data to 74 vehicles
+2020-05-23 21:56:20,868 INFO  EventserverAmbassador - SimTime 247000000000: Emitted sensor data to 74 vehicles
+2020-05-23 21:56:20,910 INFO  EventserverAmbassador - SimTime 248000000000: Emitted sensor data to 75 vehicles
+2020-05-23 21:56:21,062 INFO  EventserverAmbassador - SimTime 249000000000: Emitted sensor data to 75 vehicles
+2020-05-23 21:56:21,105 INFO  EventserverAmbassador - SimTime 250000000000: Emitted sensor data to 76 vehicles
+2020-05-23 21:56:21,306 INFO  EventserverAmbassador - SimTime 251000000000: Emitted sensor data to 76 vehicles
+2020-05-23 21:56:21,382 INFO  EventserverAmbassador - SimTime 252000000000: Emitted sensor data to 77 vehicles
+2020-05-23 21:56:21,424 INFO  EventserverAmbassador - SimTime 253000000000: Emitted sensor data to 77 vehicles
+2020-05-23 21:56:21,462 INFO  EventserverAmbassador - SimTime 254000000000: Emitted sensor data to 77 vehicles
+2020-05-23 21:56:21,511 INFO  EventserverAmbassador - SimTime 255000000000: Emitted sensor data to 77 vehicles
+2020-05-23 21:56:21,781 INFO  EventserverAmbassador - SimTime 256000000000: Emitted sensor data to 78 vehicles
+2020-05-23 21:56:21,866 INFO  EventserverAmbassador - SimTime 257000000000: Emitted sensor data to 78 vehicles
+2020-05-23 21:56:21,909 INFO  EventserverAmbassador - SimTime 258000000000: Emitted sensor data to 79 vehicles
+2020-05-23 21:56:22,373 INFO  EventserverAmbassador - SimTime 259000000000: Emitted sensor data to 79 vehicles
+2020-05-23 21:56:22,476 INFO  EventserverAmbassador - SimTime 260000000000: Emitted sensor data to 80 vehicles
+2020-05-23 21:56:22,783 INFO  EventserverAmbassador - SimTime 261000000000: Emitted sensor data to 80 vehicles
+2020-05-23 21:56:23,048 INFO  EventserverAmbassador - SimTime 262000000000: Emitted sensor data to 81 vehicles
+2020-05-23 21:56:23,211 INFO  EventserverAmbassador - SimTime 263000000000: Emitted sensor data to 81 vehicles
+2020-05-23 21:56:23,422 INFO  EventserverAmbassador - SimTime 264000000000: Emitted sensor data to 82 vehicles
+2020-05-23 21:56:23,613 INFO  EventserverAmbassador - SimTime 265000000000: Emitted sensor data to 82 vehicles
+2020-05-23 21:56:23,896 INFO  EventserverAmbassador - SimTime 266000000000: Emitted sensor data to 83 vehicles
+2020-05-23 21:56:24,018 INFO  EventserverAmbassador - SimTime 267000000000: Emitted sensor data to 83 vehicles
+2020-05-23 21:56:24,298 INFO  EventserverAmbassador - SimTime 268000000000: Emitted sensor data to 84 vehicles
+2020-05-23 21:56:24,412 INFO  EventserverAmbassador - SimTime 269000000000: Emitted sensor data to 84 vehicles
+2020-05-23 21:56:24,724 INFO  EventserverAmbassador - SimTime 270000000000: Emitted sensor data to 85 vehicles
+2020-05-23 21:56:24,817 INFO  EventserverAmbassador - SimTime 271000000000: Emitted sensor data to 85 vehicles
+2020-05-23 21:56:24,940 INFO  EventserverAmbassador - SimTime 272000000000: Emitted sensor data to 86 vehicles
+2020-05-23 21:56:25,167 INFO  EventserverAmbassador - SimTime 273000000000: Emitted sensor data to 86 vehicles
+2020-05-23 21:56:25,320 INFO  EventserverAmbassador - SimTime 274000000000: Emitted sensor data to 87 vehicles
+2020-05-23 21:56:25,549 INFO  EventserverAmbassador - SimTime 275000000000: Emitted sensor data to 87 vehicles
+2020-05-23 21:56:25,686 INFO  EventserverAmbassador - SimTime 276000000000: Emitted sensor data to 88 vehicles
+2020-05-23 21:56:25,910 INFO  EventserverAmbassador - SimTime 277000000000: Emitted sensor data to 88 vehicles
+2020-05-23 21:56:26,094 INFO  EventserverAmbassador - SimTime 278000000000: Emitted sensor data to 89 vehicles
+2020-05-23 21:56:26,249 INFO  EventserverAmbassador - SimTime 279000000000: Emitted sensor data to 89 vehicles
+2020-05-23 21:56:26,484 INFO  EventserverAmbassador - SimTime 280000000000: Emitted sensor data to 90 vehicles
+2020-05-23 21:56:26,595 INFO  EventserverAmbassador - SimTime 281000000000: Emitted sensor data to 90 vehicles
+2020-05-23 21:56:26,689 INFO  EventserverAmbassador - SimTime 282000000000: Emitted sensor data to 90 vehicles
+2020-05-23 21:56:26,945 INFO  EventserverAmbassador - SimTime 283000000000: Emitted sensor data to 90 vehicles
+2020-05-23 21:56:27,207 INFO  EventserverAmbassador - SimTime 284000000000: Emitted sensor data to 91 vehicles
+2020-05-23 21:56:27,412 INFO  EventserverAmbassador - SimTime 285000000000: Emitted sensor data to 91 vehicles
+2020-05-23 21:56:27,547 INFO  EventserverAmbassador - SimTime 286000000000: Emitted sensor data to 92 vehicles
+2020-05-23 21:56:27,746 INFO  EventserverAmbassador - SimTime 287000000000: Emitted sensor data to 92 vehicles
+2020-05-23 21:56:27,921 INFO  EventserverAmbassador - SimTime 288000000000: Emitted sensor data to 92 vehicles
+2020-05-23 21:56:28,088 INFO  EventserverAmbassador - SimTime 289000000000: Emitted sensor data to 91 vehicles
+2020-05-23 21:56:28,383 INFO  EventserverAmbassador - SimTime 290000000000: Emitted sensor data to 92 vehicles
+2020-05-23 21:56:28,483 INFO  EventserverAmbassador - SimTime 291000000000: Emitted sensor data to 92 vehicles
+2020-05-23 21:56:28,659 INFO  EventserverAmbassador - SimTime 292000000000: Emitted sensor data to 92 vehicles
+2020-05-23 21:56:28,845 INFO  EventserverAmbassador - SimTime 293000000000: Emitted sensor data to 91 vehicles
+2020-05-23 21:56:28,903 INFO  EventserverAmbassador - SimTime 294000000000: Emitted sensor data to 92 vehicles
+2020-05-23 21:56:29,153 INFO  EventserverAmbassador - SimTime 295000000000: Emitted sensor data to 92 vehicles
+2020-05-23 21:56:29,348 INFO  EventserverAmbassador - SimTime 296000000000: Emitted sensor data to 93 vehicles
+2020-05-23 21:56:29,433 INFO  EventserverAmbassador - SimTime 297000000000: Emitted sensor data to 93 vehicles
+2020-05-23 21:56:29,495 INFO  EventserverAmbassador - SimTime 298000000000: Emitted sensor data to 92 vehicles
+2020-05-23 21:56:29,704 INFO  EventserverAmbassador - SimTime 299000000000: Emitted sensor data to 92 vehicles
+2020-05-23 21:56:29,821 INFO  EventserverAmbassador - SimTime 300000000000: Emitted sensor data to 93 vehicles
+2020-05-23 21:56:30,071 INFO  EventserverAmbassador - SimTime 301000000000: Emitted sensor data to 92 vehicles
+2020-05-23 21:56:30,148 INFO  EventserverAmbassador - SimTime 302000000000: Emitted sensor data to 93 vehicles
+2020-05-23 21:56:30,211 INFO  EventserverAmbassador - SimTime 303000000000: Emitted sensor data to 92 vehicles
+2020-05-23 21:56:30,266 INFO  EventserverAmbassador - SimTime 304000000000: Emitted sensor data to 92 vehicles
+2020-05-23 21:56:30,352 INFO  EventserverAmbassador - SimTime 305000000000: Emitted sensor data to 91 vehicles
+2020-05-23 21:56:30,603 INFO  EventserverAmbassador - SimTime 306000000000: Emitted sensor data to 92 vehicles
+2020-05-23 21:56:30,743 INFO  EventserverAmbassador - SimTime 307000000000: Emitted sensor data to 91 vehicles
+2020-05-23 21:56:30,870 INFO  EventserverAmbassador - SimTime 308000000000: Emitted sensor data to 92 vehicles
+2020-05-23 21:56:30,932 INFO  EventserverAmbassador - SimTime 309000000000: Emitted sensor data to 92 vehicles
+2020-05-23 21:56:31,134 INFO  EventserverAmbassador - SimTime 310000000000: Emitted sensor data to 92 vehicles
+2020-05-23 21:56:31,241 INFO  EventserverAmbassador - SimTime 311000000000: Emitted sensor data to 92 vehicles
+2020-05-23 21:56:31,361 INFO  EventserverAmbassador - SimTime 312000000000: Emitted sensor data to 92 vehicles
+2020-05-23 21:56:31,424 INFO  EventserverAmbassador - SimTime 313000000000: Emitted sensor data to 91 vehicles
+2020-05-23 21:56:31,472 INFO  EventserverAmbassador - SimTime 314000000000: Emitted sensor data to 91 vehicles
+2020-05-23 21:56:31,751 INFO  EventserverAmbassador - SimTime 315000000000: Emitted sensor data to 91 vehicles
+2020-05-23 21:56:31,848 INFO  EventserverAmbassador - SimTime 316000000000: Emitted sensor data to 91 vehicles
+2020-05-23 21:56:31,961 INFO  EventserverAmbassador - SimTime 317000000000: Emitted sensor data to 91 vehicles
+2020-05-23 21:56:32,081 INFO  EventserverAmbassador - SimTime 318000000000: Emitted sensor data to 91 vehicles
+2020-05-23 21:56:32,182 INFO  EventserverAmbassador - SimTime 319000000000: Emitted sensor data to 91 vehicles
+2020-05-23 21:56:32,332 INFO  EventserverAmbassador - SimTime 320000000000: Emitted sensor data to 90 vehicles
+2020-05-23 21:56:32,479 INFO  EventserverAmbassador - SimTime 321000000000: Emitted sensor data to 89 vehicles
+2020-05-23 21:56:32,566 INFO  EventserverAmbassador - SimTime 322000000000: Emitted sensor data to 89 vehicles
+2020-05-23 21:56:32,677 INFO  EventserverAmbassador - SimTime 323000000000: Emitted sensor data to 89 vehicles
+2020-05-23 21:56:32,726 INFO  EventserverAmbassador - SimTime 324000000000: Emitted sensor data to 88 vehicles
+2020-05-23 21:56:32,900 INFO  EventserverAmbassador - SimTime 325000000000: Emitted sensor data to 88 vehicles
+2020-05-23 21:56:33,017 INFO  EventserverAmbassador - SimTime 326000000000: Emitted sensor data to 87 vehicles
+2020-05-23 21:56:33,154 INFO  EventserverAmbassador - SimTime 327000000000: Emitted sensor data to 87 vehicles
+2020-05-23 21:56:33,257 INFO  EventserverAmbassador - SimTime 328000000000: Emitted sensor data to 87 vehicles
+2020-05-23 21:56:33,300 INFO  EventserverAmbassador - SimTime 329000000000: Emitted sensor data to 87 vehicles
+2020-05-23 21:56:33,474 INFO  EventserverAmbassador - SimTime 330000000000: Emitted sensor data to 85 vehicles
+2020-05-23 21:56:33,581 INFO  EventserverAmbassador - SimTime 331000000000: Emitted sensor data to 85 vehicles
+2020-05-23 21:56:33,653 INFO  EventserverAmbassador - SimTime 332000000000: Emitted sensor data to 85 vehicles
+2020-05-23 21:56:33,707 INFO  EventserverAmbassador - SimTime 333000000000: Emitted sensor data to 85 vehicles
+2020-05-23 21:56:33,828 INFO  EventserverAmbassador - SimTime 334000000000: Emitted sensor data to 85 vehicles
+2020-05-23 21:56:33,882 INFO  EventserverAmbassador - SimTime 335000000000: Emitted sensor data to 83 vehicles
+2020-05-23 21:56:34,081 INFO  EventserverAmbassador - SimTime 336000000000: Emitted sensor data to 83 vehicles
+2020-05-23 21:56:34,174 INFO  EventserverAmbassador - SimTime 337000000000: Emitted sensor data to 83 vehicles
+2020-05-23 21:56:34,235 INFO  EventserverAmbassador - SimTime 338000000000: Emitted sensor data to 83 vehicles
+2020-05-23 21:56:34,284 INFO  EventserverAmbassador - SimTime 339000000000: Emitted sensor data to 82 vehicles
+2020-05-23 21:56:34,532 INFO  EventserverAmbassador - SimTime 340000000000: Emitted sensor data to 81 vehicles
+2020-05-23 21:56:34,681 INFO  EventserverAmbassador - SimTime 341000000000: Emitted sensor data to 81 vehicles
+2020-05-23 21:56:34,874 INFO  EventserverAmbassador - SimTime 342000000000: Emitted sensor data to 81 vehicles
+2020-05-23 21:56:34,970 INFO  EventserverAmbassador - SimTime 343000000000: Emitted sensor data to 81 vehicles
+2020-05-23 21:56:35,124 INFO  EventserverAmbassador - SimTime 344000000000: Emitted sensor data to 81 vehicles
+2020-05-23 21:56:35,247 INFO  EventserverAmbassador - SimTime 345000000000: Emitted sensor data to 79 vehicles
+2020-05-23 21:56:35,310 INFO  EventserverAmbassador - SimTime 346000000000: Emitted sensor data to 79 vehicles
+2020-05-23 21:56:35,391 INFO  EventserverAmbassador - SimTime 347000000000: Emitted sensor data to 79 vehicles
+2020-05-23 21:56:35,436 INFO  EventserverAmbassador - SimTime 348000000000: Emitted sensor data to 78 vehicles
+2020-05-23 21:56:35,472 INFO  EventserverAmbassador - SimTime 349000000000: Emitted sensor data to 77 vehicles
+2020-05-23 21:56:35,515 INFO  EventserverAmbassador - SimTime 350000000000: Emitted sensor data to 77 vehicles
+2020-05-23 21:56:35,757 INFO  EventserverAmbassador - SimTime 351000000000: Emitted sensor data to 77 vehicles
+2020-05-23 21:56:35,831 INFO  EventserverAmbassador - SimTime 352000000000: Emitted sensor data to 77 vehicles
+2020-05-23 21:56:35,873 INFO  EventserverAmbassador - SimTime 353000000000: Emitted sensor data to 77 vehicles
+2020-05-23 21:56:35,948 INFO  EventserverAmbassador - SimTime 354000000000: Emitted sensor data to 76 vehicles
+2020-05-23 21:56:36,111 INFO  EventserverAmbassador - SimTime 355000000000: Emitted sensor data to 75 vehicles
+2020-05-23 21:56:36,251 INFO  EventserverAmbassador - SimTime 356000000000: Emitted sensor data to 75 vehicles
+2020-05-23 21:56:36,299 INFO  EventserverAmbassador - SimTime 357000000000: Emitted sensor data to 75 vehicles
+2020-05-23 21:56:36,450 INFO  EventserverAmbassador - SimTime 358000000000: Emitted sensor data to 74 vehicles
+2020-05-23 21:56:36,489 INFO  EventserverAmbassador - SimTime 359000000000: Emitted sensor data to 74 vehicles
+2020-05-23 21:56:36,668 INFO  EventserverAmbassador - SimTime 360000000000: Emitted sensor data to 73 vehicles
+2020-05-23 21:56:36,878 INFO  EventserverAmbassador - SimTime 361000000000: Emitted sensor data to 73 vehicles
+2020-05-23 21:56:36,956 INFO  EventserverAmbassador - SimTime 362000000000: Emitted sensor data to 72 vehicles
+2020-05-23 21:56:37,130 INFO  EventserverAmbassador - SimTime 363000000000: Emitted sensor data to 72 vehicles
+2020-05-23 21:56:37,279 INFO  EventserverAmbassador - SimTime 364000000000: Emitted sensor data to 71 vehicles
+2020-05-23 21:56:37,325 INFO  EventserverAmbassador - SimTime 365000000000: Emitted sensor data to 71 vehicles
+2020-05-23 21:56:37,536 INFO  EventserverAmbassador - SimTime 366000000000: Emitted sensor data to 71 vehicles
+2020-05-23 21:56:37,641 INFO  EventserverAmbassador - SimTime 367000000000: Emitted sensor data to 71 vehicles
+2020-05-23 21:56:37,708 INFO  EventserverAmbassador - SimTime 368000000000: Emitted sensor data to 71 vehicles
+2020-05-23 21:56:37,837 INFO  EventserverAmbassador - SimTime 369000000000: Emitted sensor data to 69 vehicles
+2020-05-23 21:56:37,881 INFO  EventserverAmbassador - SimTime 370000000000: Emitted sensor data to 69 vehicles
+2020-05-23 21:56:38,088 INFO  EventserverAmbassador - SimTime 371000000000: Emitted sensor data to 69 vehicles
+2020-05-23 21:56:38,207 INFO  EventserverAmbassador - SimTime 372000000000: Emitted sensor data to 69 vehicles
+2020-05-23 21:56:38,307 INFO  EventserverAmbassador - SimTime 373000000000: Emitted sensor data to 69 vehicles
+2020-05-23 21:56:38,477 INFO  EventserverAmbassador - SimTime 374000000000: Emitted sensor data to 69 vehicles
+2020-05-23 21:56:38,537 INFO  EventserverAmbassador - SimTime 375000000000: Emitted sensor data to 68 vehicles
+2020-05-23 21:56:38,674 INFO  EventserverAmbassador - SimTime 376000000000: Emitted sensor data to 67 vehicles
+2020-05-23 21:56:38,758 INFO  EventserverAmbassador - SimTime 377000000000: Emitted sensor data to 67 vehicles
+2020-05-23 21:56:38,873 INFO  EventserverAmbassador - SimTime 378000000000: Emitted sensor data to 66 vehicles
+2020-05-23 21:56:38,950 INFO  EventserverAmbassador - SimTime 379000000000: Emitted sensor data to 65 vehicles
+2020-05-23 21:56:39,102 INFO  EventserverAmbassador - SimTime 380000000000: Emitted sensor data to 65 vehicles
+2020-05-23 21:56:39,188 INFO  EventserverAmbassador - SimTime 381000000000: Emitted sensor data to 65 vehicles
+2020-05-23 21:56:39,241 INFO  EventserverAmbassador - SimTime 382000000000: Emitted sensor data to 65 vehicles
+2020-05-23 21:56:39,465 INFO  EventserverAmbassador - SimTime 383000000000: Emitted sensor data to 65 vehicles
+2020-05-23 21:56:39,510 INFO  EventserverAmbassador - SimTime 384000000000: Emitted sensor data to 63 vehicles
+2020-05-23 21:56:39,672 INFO  EventserverAmbassador - SimTime 385000000000: Emitted sensor data to 63 vehicles
+2020-05-23 21:56:39,739 INFO  EventserverAmbassador - SimTime 386000000000: Emitted sensor data to 63 vehicles
+2020-05-23 21:56:39,893 INFO  EventserverAmbassador - SimTime 387000000000: Emitted sensor data to 63 vehicles
+2020-05-23 21:56:39,967 INFO  EventserverAmbassador - SimTime 388000000000: Emitted sensor data to 61 vehicles
+2020-05-23 21:56:40,112 INFO  EventserverAmbassador - SimTime 389000000000: Emitted sensor data to 61 vehicles
+2020-05-23 21:56:40,156 INFO  EventserverAmbassador - SimTime 390000000000: Emitted sensor data to 60 vehicles
+2020-05-23 21:56:40,293 INFO  EventserverAmbassador - SimTime 391000000000: Emitted sensor data to 60 vehicles
+2020-05-23 21:56:40,336 INFO  EventserverAmbassador - SimTime 392000000000: Emitted sensor data to 59 vehicles
+2020-05-23 21:56:40,392 INFO  EventserverAmbassador - SimTime 393000000000: Emitted sensor data to 59 vehicles
+2020-05-23 21:56:40,437 INFO  EventserverAmbassador - SimTime 394000000000: Emitted sensor data to 58 vehicles
+2020-05-23 21:56:40,516 INFO  EventserverAmbassador - SimTime 395000000000: Emitted sensor data to 58 vehicles
+2020-05-23 21:56:40,833 INFO  EventserverAmbassador - SimTime 396000000000: Emitted sensor data to 57 vehicles
+2020-05-23 21:56:40,878 INFO  EventserverAmbassador - SimTime 397000000000: Emitted sensor data to 57 vehicles
+2020-05-23 21:56:41,032 INFO  EventserverAmbassador - SimTime 398000000000: Emitted sensor data to 56 vehicles
+2020-05-23 21:56:41,085 INFO  EventserverAmbassador - SimTime 399000000000: Emitted sensor data to 56 vehicles
+2020-05-23 21:56:41,169 INFO  EventserverAmbassador - SimTime 400000000000: Emitted sensor data to 55 vehicles
+2020-05-23 21:56:41,347 INFO  EventserverAmbassador - SimTime 401000000000: Emitted sensor data to 55 vehicles
+2020-05-23 21:56:41,461 INFO  EventserverAmbassador - SimTime 402000000000: Emitted sensor data to 54 vehicles
+2020-05-23 21:56:41,534 INFO  EventserverAmbassador - SimTime 403000000000: Emitted sensor data to 54 vehicles
+2020-05-23 21:56:41,634 INFO  EventserverAmbassador - SimTime 404000000000: Emitted sensor data to 53 vehicles
+2020-05-23 21:56:41,668 INFO  EventserverAmbassador - SimTime 405000000000: Emitted sensor data to 53 vehicles
+2020-05-23 21:56:41,741 INFO  EventserverAmbassador - SimTime 406000000000: Emitted sensor data to 53 vehicles
+2020-05-23 21:56:41,810 INFO  EventserverAmbassador - SimTime 407000000000: Emitted sensor data to 53 vehicles
+2020-05-23 21:56:41,847 INFO  EventserverAmbassador - SimTime 408000000000: Emitted sensor data to 51 vehicles
+2020-05-23 21:56:41,919 INFO  EventserverAmbassador - SimTime 409000000000: Emitted sensor data to 51 vehicles
+2020-05-23 21:56:42,055 INFO  EventserverAmbassador - SimTime 410000000000: Emitted sensor data to 50 vehicles
+2020-05-23 21:56:42,120 INFO  EventserverAmbassador - SimTime 411000000000: Emitted sensor data to 50 vehicles
+2020-05-23 21:56:42,177 INFO  EventserverAmbassador - SimTime 412000000000: Emitted sensor data to 50 vehicles
+2020-05-23 21:56:42,211 INFO  EventserverAmbassador - SimTime 413000000000: Emitted sensor data to 50 vehicles
+2020-05-23 21:56:42,268 INFO  EventserverAmbassador - SimTime 414000000000: Emitted sensor data to 49 vehicles
+2020-05-23 21:56:42,347 INFO  EventserverAmbassador - SimTime 415000000000: Emitted sensor data to 48 vehicles
+2020-05-23 21:56:42,484 INFO  EventserverAmbassador - SimTime 416000000000: Emitted sensor data to 48 vehicles
+2020-05-23 21:56:42,533 INFO  EventserverAmbassador - SimTime 417000000000: Emitted sensor data to 48 vehicles
+2020-05-23 21:56:42,593 INFO  EventserverAmbassador - SimTime 418000000000: Emitted sensor data to 48 vehicles
+2020-05-23 21:56:42,627 INFO  EventserverAmbassador - SimTime 419000000000: Emitted sensor data to 46 vehicles
+2020-05-23 21:56:42,673 INFO  EventserverAmbassador - SimTime 420000000000: Emitted sensor data to 46 vehicles
+2020-05-23 21:56:42,800 INFO  EventserverAmbassador - SimTime 421000000000: Emitted sensor data to 46 vehicles
+2020-05-23 21:56:42,850 INFO  EventserverAmbassador - SimTime 422000000000: Emitted sensor data to 46 vehicles
+2020-05-23 21:56:42,887 INFO  EventserverAmbassador - SimTime 423000000000: Emitted sensor data to 46 vehicles
+2020-05-23 21:56:42,984 INFO  EventserverAmbassador - SimTime 424000000000: Emitted sensor data to 46 vehicles
+2020-05-23 21:56:43,016 INFO  EventserverAmbassador - SimTime 425000000000: Emitted sensor data to 44 vehicles
+2020-05-23 21:56:43,083 INFO  EventserverAmbassador - SimTime 426000000000: Emitted sensor data to 44 vehicles
+2020-05-23 21:56:43,201 INFO  EventserverAmbassador - SimTime 427000000000: Emitted sensor data to 44 vehicles
+2020-05-23 21:56:43,240 INFO  EventserverAmbassador - SimTime 428000000000: Emitted sensor data to 43 vehicles
+2020-05-23 21:56:43,269 INFO  EventserverAmbassador - SimTime 429000000000: Emitted sensor data to 42 vehicles
+2020-05-23 21:56:43,309 INFO  EventserverAmbassador - SimTime 430000000000: Emitted sensor data to 42 vehicles
+2020-05-23 21:56:43,409 INFO  EventserverAmbassador - SimTime 431000000000: Emitted sensor data to 42 vehicles
+2020-05-23 21:56:43,449 INFO  EventserverAmbassador - SimTime 432000000000: Emitted sensor data to 42 vehicles
+2020-05-23 21:56:43,511 INFO  EventserverAmbassador - SimTime 433000000000: Emitted sensor data to 42 vehicles
+2020-05-23 21:56:43,633 INFO  EventserverAmbassador - SimTime 434000000000: Emitted sensor data to 42 vehicles
+2020-05-23 21:56:43,681 INFO  EventserverAmbassador - SimTime 435000000000: Emitted sensor data to 40 vehicles
+2020-05-23 21:56:43,758 INFO  EventserverAmbassador - SimTime 436000000000: Emitted sensor data to 40 vehicles
+2020-05-23 21:56:43,845 INFO  EventserverAmbassador - SimTime 437000000000: Emitted sensor data to 40 vehicles
+2020-05-23 21:56:43,877 INFO  EventserverAmbassador - SimTime 438000000000: Emitted sensor data to 39 vehicles
+2020-05-23 21:56:43,961 INFO  EventserverAmbassador - SimTime 439000000000: Emitted sensor data to 38 vehicles
+2020-05-23 21:56:44,022 INFO  EventserverAmbassador - SimTime 440000000000: Emitted sensor data to 38 vehicles
+2020-05-23 21:56:44,069 INFO  EventserverAmbassador - SimTime 441000000000: Emitted sensor data to 38 vehicles
+2020-05-23 21:56:44,148 INFO  EventserverAmbassador - SimTime 442000000000: Emitted sensor data to 38 vehicles
+2020-05-23 21:56:44,217 INFO  EventserverAmbassador - SimTime 443000000000: Emitted sensor data to 38 vehicles
+2020-05-23 21:56:44,245 INFO  EventserverAmbassador - SimTime 444000000000: Emitted sensor data to 38 vehicles
+2020-05-23 21:56:44,277 INFO  EventserverAmbassador - SimTime 445000000000: Emitted sensor data to 36 vehicles
+2020-05-23 21:56:44,395 INFO  EventserverAmbassador - SimTime 446000000000: Emitted sensor data to 36 vehicles
+2020-05-23 21:56:44,450 INFO  EventserverAmbassador - SimTime 447000000000: Emitted sensor data to 35 vehicles
+2020-05-23 21:56:44,504 INFO  EventserverAmbassador - SimTime 448000000000: Emitted sensor data to 35 vehicles
+2020-05-23 21:56:44,647 INFO  EventserverAmbassador - SimTime 449000000000: Emitted sensor data to 34 vehicles
+2020-05-23 21:56:44,700 INFO  EventserverAmbassador - SimTime 450000000000: Emitted sensor data to 34 vehicles
+2020-05-23 21:56:44,806 INFO  EventserverAmbassador - SimTime 451000000000: Emitted sensor data to 34 vehicles
+2020-05-23 21:56:44,843 INFO  EventserverAmbassador - SimTime 452000000000: Emitted sensor data to 34 vehicles
+2020-05-23 21:56:44,907 INFO  EventserverAmbassador - SimTime 453000000000: Emitted sensor data to 34 vehicles
+2020-05-23 21:56:44,990 INFO  EventserverAmbassador - SimTime 454000000000: Emitted sensor data to 34 vehicles
+2020-05-23 21:56:45,022 INFO  EventserverAmbassador - SimTime 455000000000: Emitted sensor data to 32 vehicles
+2020-05-23 21:56:45,074 INFO  EventserverAmbassador - SimTime 456000000000: Emitted sensor data to 32 vehicles
+2020-05-23 21:56:45,191 INFO  EventserverAmbassador - SimTime 457000000000: Emitted sensor data to 32 vehicles
+2020-05-23 21:56:45,248 INFO  EventserverAmbassador - SimTime 458000000000: Emitted sensor data to 31 vehicles
+2020-05-23 21:56:45,277 INFO  EventserverAmbassador - SimTime 459000000000: Emitted sensor data to 30 vehicles
+2020-05-23 21:56:45,323 INFO  EventserverAmbassador - SimTime 460000000000: Emitted sensor data to 30 vehicles
+2020-05-23 21:56:45,422 INFO  EventserverAmbassador - SimTime 461000000000: Emitted sensor data to 30 vehicles
+2020-05-23 21:56:45,451 INFO  EventserverAmbassador - SimTime 462000000000: Emitted sensor data to 30 vehicles
+2020-05-23 21:56:45,479 INFO  EventserverAmbassador - SimTime 463000000000: Emitted sensor data to 30 vehicles
+2020-05-23 21:56:45,507 INFO  EventserverAmbassador - SimTime 464000000000: Emitted sensor data to 30 vehicles
+2020-05-23 21:56:45,608 INFO  EventserverAmbassador - SimTime 465000000000: Emitted sensor data to 28 vehicles
+2020-05-23 21:56:45,663 INFO  EventserverAmbassador - SimTime 466000000000: Emitted sensor data to 28 vehicles
+2020-05-23 21:56:45,808 INFO  EventserverAmbassador - SimTime 467000000000: Emitted sensor data to 28 vehicles
+2020-05-23 21:56:45,839 INFO  EventserverAmbassador - SimTime 468000000000: Emitted sensor data to 27 vehicles
+2020-05-23 21:56:45,882 INFO  EventserverAmbassador - SimTime 469000000000: Emitted sensor data to 26 vehicles
+2020-05-23 21:56:45,924 INFO  EventserverAmbassador - SimTime 470000000000: Emitted sensor data to 26 vehicles
+2020-05-23 21:56:46,047 INFO  EventserverAmbassador - SimTime 471000000000: Emitted sensor data to 26 vehicles
+2020-05-23 21:56:46,075 INFO  EventserverAmbassador - SimTime 472000000000: Emitted sensor data to 26 vehicles
+2020-05-23 21:56:46,113 INFO  EventserverAmbassador - SimTime 473000000000: Emitted sensor data to 24 vehicles
+2020-05-23 21:56:46,181 INFO  EventserverAmbassador - SimTime 474000000000: Emitted sensor data to 24 vehicles
+2020-05-23 21:56:46,217 INFO  EventserverAmbassador - SimTime 475000000000: Emitted sensor data to 24 vehicles
+2020-05-23 21:56:46,267 INFO  EventserverAmbassador - SimTime 476000000000: Emitted sensor data to 24 vehicles
+2020-05-23 21:56:46,299 INFO  EventserverAmbassador - SimTime 477000000000: Emitted sensor data to 23 vehicles
+2020-05-23 21:56:46,387 INFO  EventserverAmbassador - SimTime 478000000000: Emitted sensor data to 22 vehicles
+2020-05-23 21:56:46,418 INFO  EventserverAmbassador - SimTime 479000000000: Emitted sensor data to 22 vehicles
+2020-05-23 21:56:46,445 INFO  EventserverAmbassador - SimTime 480000000000: Emitted sensor data to 21 vehicles
+2020-05-23 21:56:46,492 INFO  EventserverAmbassador - SimTime 481000000000: Emitted sensor data to 20 vehicles
+2020-05-23 21:56:46,550 INFO  EventserverAmbassador - SimTime 482000000000: Emitted sensor data to 20 vehicles
+2020-05-23 21:56:46,580 INFO  EventserverAmbassador - SimTime 483000000000: Emitted sensor data to 20 vehicles
+2020-05-23 21:56:46,610 INFO  EventserverAmbassador - SimTime 484000000000: Emitted sensor data to 19 vehicles
+2020-05-23 21:56:46,646 INFO  EventserverAmbassador - SimTime 485000000000: Emitted sensor data to 19 vehicles
+2020-05-23 21:56:46,690 INFO  EventserverAmbassador - SimTime 486000000000: Emitted sensor data to 18 vehicles
+2020-05-23 21:56:46,724 INFO  EventserverAmbassador - SimTime 487000000000: Emitted sensor data to 18 vehicles
+2020-05-23 21:56:46,822 INFO  EventserverAmbassador - SimTime 488000000000: Emitted sensor data to 17 vehicles
+2020-05-23 21:56:46,853 INFO  EventserverAmbassador - SimTime 489000000000: Emitted sensor data to 17 vehicles
+2020-05-23 21:56:46,881 INFO  EventserverAmbassador - SimTime 490000000000: Emitted sensor data to 16 vehicles
+2020-05-23 21:56:46,949 INFO  EventserverAmbassador - SimTime 491000000000: Emitted sensor data to 16 vehicles
+2020-05-23 21:56:46,978 INFO  EventserverAmbassador - SimTime 492000000000: Emitted sensor data to 15 vehicles
+2020-05-23 21:56:47,002 INFO  EventserverAmbassador - SimTime 493000000000: Emitted sensor data to 14 vehicles
+2020-05-23 21:56:47,024 INFO  EventserverAmbassador - SimTime 494000000000: Emitted sensor data to 14 vehicles
+2020-05-23 21:56:47,051 INFO  EventserverAmbassador - SimTime 495000000000: Emitted sensor data to 14 vehicles
+2020-05-23 21:56:47,097 INFO  EventserverAmbassador - SimTime 496000000000: Emitted sensor data to 14 vehicles
+2020-05-23 21:56:47,150 INFO  EventserverAmbassador - SimTime 497000000000: Emitted sensor data to 12 vehicles
+2020-05-23 21:56:47,181 INFO  EventserverAmbassador - SimTime 498000000000: Emitted sensor data to 12 vehicles
+2020-05-23 21:56:47,213 INFO  EventserverAmbassador - SimTime 499000000000: Emitted sensor data to 12 vehicles
+2020-05-23 21:56:47,240 INFO  EventserverAmbassador - SimTime 500000000000: Emitted sensor data to 12 vehicles
+2020-05-23 21:56:47,308 INFO  EventserverAmbassador - SimTime 501000000000: Emitted sensor data to 10 vehicles
+2020-05-23 21:56:47,361 INFO  EventserverAmbassador - SimTime 502000000000: Emitted sensor data to 10 vehicles
+2020-05-23 21:56:47,386 INFO  EventserverAmbassador - SimTime 503000000000: Emitted sensor data to 10 vehicles
+2020-05-23 21:56:47,410 INFO  EventserverAmbassador - SimTime 504000000000: Emitted sensor data to 10 vehicles
+2020-05-23 21:56:47,433 INFO  EventserverAmbassador - SimTime 505000000000: Emitted sensor data to 10 vehicles
+2020-05-23 21:56:47,465 INFO  EventserverAmbassador - SimTime 506000000000: Emitted sensor data to 8 vehicles
+2020-05-23 21:56:47,486 INFO  EventserverAmbassador - SimTime 507000000000: Emitted sensor data to 8 vehicles
+2020-05-23 21:56:47,521 INFO  EventserverAmbassador - SimTime 508000000000: Emitted sensor data to 8 vehicles
+2020-05-23 21:56:47,554 INFO  EventserverAmbassador - SimTime 509000000000: Emitted sensor data to 8 vehicles
+2020-05-23 21:56:47,576 INFO  EventserverAmbassador - SimTime 510000000000: Emitted sensor data to 6 vehicles
+2020-05-23 21:56:47,605 INFO  EventserverAmbassador - SimTime 511000000000: Emitted sensor data to 6 vehicles
+2020-05-23 21:56:47,629 INFO  EventserverAmbassador - SimTime 512000000000: Emitted sensor data to 6 vehicles
+2020-05-23 21:56:47,650 INFO  EventserverAmbassador - SimTime 513000000000: Emitted sensor data to 6 vehicles
+2020-05-23 21:56:47,670 INFO  EventserverAmbassador - SimTime 514000000000: Emitted sensor data to 6 vehicles
+2020-05-23 21:56:47,690 INFO  EventserverAmbassador - SimTime 515000000000: Emitted sensor data to 5 vehicles
+2020-05-23 21:56:47,749 INFO  EventserverAmbassador - SimTime 516000000000: Emitted sensor data to 4 vehicles
+2020-05-23 21:56:47,775 INFO  EventserverAmbassador - SimTime 517000000000: Emitted sensor data to 4 vehicles
+2020-05-23 21:56:47,798 INFO  EventserverAmbassador - SimTime 518000000000: Emitted sensor data to 3 vehicles
+2020-05-23 21:56:47,815 INFO  EventserverAmbassador - SimTime 519000000000: Emitted sensor data to 3 vehicles
+2020-05-23 21:56:47,835 INFO  EventserverAmbassador - SimTime 520000000000: Emitted sensor data to 2 vehicles
+2020-05-23 21:56:47,862 INFO  EventserverAmbassador - SimTime 521000000000: Emitted sensor data to 2 vehicles
+2020-05-23 21:56:47,879 INFO  EventserverAmbassador - SimTime 522000000000: Emitted sensor data to 2 vehicles
+2020-05-23 21:56:47,901 INFO  EventserverAmbassador - SimTime 523000000000: Emitted sensor data to 2 vehicles
+2020-05-23 21:56:47,926 INFO  EventserverAmbassador - SimTime 524000000000: Emitted sensor data to 1 vehicles

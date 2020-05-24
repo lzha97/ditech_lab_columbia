@@ -17,3 +17,4 @@ common.sh
 firstStart.sh
 scenarios/120_Lasalle/Lasalle120-2.jar
 scenarios/120_Lasalle/Lasalle120-Weather.jar
+*.mov

@@ -1,0 +1,114 @@
+2020-05-23 21:57:24,973 INFO  MappingAmbassador - File found, read successfully.
+The following object was created (This is the created, internal JSON data object and might differ from the initial JSON-String read).
+The normal string representation.
+{"prototypes":[{"name":"PKW","applications":["com.columbia.vsimrti.applications.lasalle.vehicle.LasalleVehicle","com.columbia.vsimrti.applications.lasalle.vehicle.LasalleVehicleSlave"],"length":5.0,"minGap":2.5,"maxSpeed":10.0,"accel":1.5,"decel":4.5,"sigma":0.5,"tau":1.0,"color":"green"},{"name":"Car","length":5.0,"minGap":2.5,"maxSpeed":10.0,"accel":1.5,"decel":4.5,"emergencyDecel":6.0,"sigma":0.5,"tau":1.0,"speedFactor":1.0,"speedDeviation":0.0,"color":"green","laneChangeMode":"DEFAULT","speedMode":"DEFAULT"}],"rsus":[{"name":"RSU","applications":["com.columbia.vsimrti.applications.lasalle.rsu.LasalleRSU"],"lat":40.813447,"lon":-73.95994},{"name":"WeatherServer","applications":["com.columbia.vsimrti.applications.lasalle.rsu.LasalleWeatherServer"],"lat":40.805107,"lon":-73.959934}],"tls":[{"name":"TrafficLight","tlName":"26704448"},{"name":"TrafficLight","tlName":"252864801"},{"name":" ... hicle.LasalleSlowDownApp"]},{"name":"PKW","weight":0.4}],"deterministic":true,"pos":0,"route":"1"}]}
+The pretty string representation.
+{
+  "prototypes": [
+    {
+      "name": "PKW",
+      "applications": [
+        "com.columbia.vsimrti.applications.lasalle.vehicle.LasalleVehicle",
+        "com.columbia.vsimrti.applications.lasalle.vehicle.LasalleVehicleSlave"
+      ],
+      "length": 5.0,
+      "minGap": 2.5,
+      "maxSpeed": 10.0,
+      "accel": 1.5,
+      "decel": 4.5,
+      "sigma": 0.5,
+      "tau": 1.0,
+      "color": "green"
+    },
+    {
+      "name": "Car",
+      "length": 5.0,
+      "minGap": 2.5,
+      "maxSpeed": 10.0,
+      "accel": 1.5,
+      "decel": 4.5,
+      "emergencyDecel": 6.0,
+      "sigma": 0.5,
+      "tau": 1.0,
+      "speedFactor": 1.0,
+      "speedDeviation": 0.0,
+      "color": "green",
+      "laneChangeMode": "DEFAULT",
+      "speedMode": "DEFAULT"
+    }
+  ],
+  "rsus": [
+    {
+      "name": "RSU",
+      "applications": [
+        "com.columbia.vsimrti.applications.lasalle.rsu.LasalleRSU"
+      ],
+      "lat": 40.813447,
+      "lon": -73.95994
+    },
+    {
+      "name": "WeatherServer",
+      "applications": [
+        "com.columbia.vsimrti.applications.lasalle.rsu.LasalleWeatherServer"
+      ],
+      "lat": 40.805107,
+      "lon": -73.959934
+    }
+  ],
+  "tls": [
+    {
+      "name": "TrafficLight",
+      "tlName": "26704448"
+    },
+    {
+      "name": "TrafficLight",
+      "tlName": "252864801"
+    },
+    {
+      "name": "TrafficLight",
+      "tlName": "252864802"
+    }
+  ],
+  "vehicles": [
+    {
+      "startingTime": 5.0,
+      "targetFlow": 1800.0,
+      "spawningMode": "CONSTANT",
+      "maxNumberVehicles": 8,
+      "laneSelectionMode": "DEFAULT",
+      "departSpeed": 0.0,
+      "departSpeedMode": "MAXIMUM",
+      "types": [
+        {
+          "name": "Car",
+          "group": "Cellular",
+          "weight": 0.6,
+          "applications": [
+            "com.columbia.vsimrti.applications.lasalle.vehicle.LasalleWeatherWarningAppCell",
+            "com.columbia.vsimrti.applications.lasalle.vehicle.LasalleSlowDownApp"
+          ]
+        },
+        {
+          "name": "PKW",
+          "weight": 0.4
+        }
+      ],
+      "deterministic": true,
+      "pos": 0,
+      "route": "1"
+    }
+  ]
+}
+2020-05-23 21:57:35,686 INFO  MappingAmbassador - processMessage(): com.dcaiti.vsimrti.rti.messages.init.VehiclePathsInitMessage
+2020-05-23 21:57:35,686 INFO  MappingAmbassador - processMessage(): com.dcaiti.vsimrti.rti.messages.traffic.ScenarioTrafficLights
+2020-05-23 21:57:35,687 INFO  MappingAmbassador - Received TL-Message
+2020-05-23 21:57:35,688 INFO  MappingAmbassador - Creating RSU @GeoPoint{lat|lon=[40.813447,-73.959940]} with apps: com.columbia.vsimrti.applications.lasalle.rsu.LasalleRSU
+2020-05-23 21:57:35,692 INFO  MappingAmbassador - Creating RSU @GeoPoint{lat|lon=[40.805107,-73.959934]} with apps: com.columbia.vsimrti.applications.lasalle.rsu.LasalleWeatherServer
+2020-05-23 21:57:35,857 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=5000000000, name=veh_0, lane=0, pos=0: Vehicle: name=Car, apps=com.columbia.vsimrti.applications.lasalle.vehicle.LasalleWeatherWarningAppCell,com.columbia.vsimrti.applications.lasalle.vehicle.LasalleSlowDownApp, departSpeed=0.0
+2020-05-23 21:57:35,964 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=7000000000, name=veh_1, lane=0, pos=0: Vehicle: name=PKW, apps=com.columbia.vsimrti.applications.lasalle.vehicle.LasalleVehicle,com.columbia.vsimrti.applications.lasalle.vehicle.LasalleVehicleSlave, departSpeed=0.0
+2020-05-23 21:57:35,996 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=9000000000, name=veh_2, lane=0, pos=0: Vehicle: name=Car, apps=com.columbia.vsimrti.applications.lasalle.vehicle.LasalleWeatherWarningAppCell,com.columbia.vsimrti.applications.lasalle.vehicle.LasalleSlowDownApp, departSpeed=0.0
+2020-05-23 21:57:36,076 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=11000000000, name=veh_3, lane=0, pos=0: Vehicle: name=PKW, apps=com.columbia.vsimrti.applications.lasalle.vehicle.LasalleVehicle,com.columbia.vsimrti.applications.lasalle.vehicle.LasalleVehicleSlave, departSpeed=0.0
+2020-05-23 21:57:36,279 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=13000000000, name=veh_4, lane=0, pos=0: Vehicle: name=Car, apps=com.columbia.vsimrti.applications.lasalle.vehicle.LasalleWeatherWarningAppCell,com.columbia.vsimrti.applications.lasalle.vehicle.LasalleSlowDownApp, departSpeed=0.0
+2020-05-23 21:57:36,447 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=15000000000, name=veh_5, lane=0, pos=0: Vehicle: name=Car, apps=com.columbia.vsimrti.applications.lasalle.vehicle.LasalleWeatherWarningAppCell,com.columbia.vsimrti.applications.lasalle.vehicle.LasalleSlowDownApp, departSpeed=0.0
+2020-05-23 21:57:36,538 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=17000000000, name=veh_6, lane=0, pos=0: Vehicle: name=PKW, apps=com.columbia.vsimrti.applications.lasalle.vehicle.LasalleVehicle,com.columbia.vsimrti.applications.lasalle.vehicle.LasalleVehicleSlave, departSpeed=0.0
+2020-05-23 21:57:36,594 INFO  MappingAmbassador - Creating Vehicle. Route=1, time=19000000000, name=veh_7, lane=0, pos=0: Vehicle: name=Car, apps=com.columbia.vsimrti.applications.lasalle.vehicle.LasalleWeatherWarningAppCell,com.columbia.vsimrti.applications.lasalle.vehicle.LasalleSlowDownApp, departSpeed=0.0
