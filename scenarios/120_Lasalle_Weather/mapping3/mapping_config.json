@@ -1,0 +1,87 @@
+{
+	"prototypes":[
+
+		{
+			"applications":["com.columbia.vsimrti.applications.lasalle.vehicle.LasalleVehicle",
+                "com.columbia.vsimrti.applications.lasalle.vehicle.LasalleVehicleSlave"],
+			"name":"PKW",
+			"accel":1.5,
+			"decel":4.5,
+			"length":5.00,
+			"maxSpeed":10.0,
+			"minGap":2.5,
+			"sigma":0.5,
+			"tau":1,
+			"color": "green"
+		},
+		{
+            "name": "Car",
+            "accel": 1.5,
+            "decel": 4.5,
+            "emergencyDecel": 6.0,
+            "length": 5.00,
+            "maxSpeed": 10.0,
+            "minGap": 2.5,
+            "sigma": 0.5,
+            "tau": 1,
+            "speedFactor": 1.0,
+            "speedDeviation": 0,
+            "speedMode": "DEFAULT",
+			"laneChangeMode": "DEFAULT",
+			"color":"green"
+        }
+	],
+	
+    "tls":[
+        {
+            "tlName": "26704448",
+            "name":"TrafficLight"
+        },
+        {
+            "tlName": "252864801",
+            "name":"TrafficLight"
+        },
+		{
+			"tlName": "252864802",
+			"name":"TrafficLight"
+		}
+	],
+	"rsus":[
+		
+		{
+			"lat":40.813447,
+			"lon":-73.959940,
+			"name":"RSU",
+			"applications":["com.columbia.vsimrti.applications.lasalle.rsu.LasalleRSU"]
+		},
+		{
+			"lat":40.805107,
+            "lon": -73.959934,
+            "name": "WeatherServer",
+            "applications": [ "com.columbia.vsimrti.applications.lasalle.rsu.LasalleWeatherServer" ]
+		}
+	],
+	
+	"vehicles":[
+
+		{
+			"startingTime": 5.0,
+            "targetFlow": 1800,
+            "maxNumberVehicles": 8,
+            "route": "1",
+            "types": [
+                {
+                    "applications": [ "com.columbia.vsimrti.applications.lasalle.vehicle.LasalleWeatherWarningAppCell", "com.columbia.vsimrti.applications.lasalle.vehicle.LasalleSlowDownApp" ],
+                    "name": "Car",
+                    "group": "Cellular",
+                    "weight": 0.6
+				},
+				{
+					"name":"PKW",
+					"weight":0.4
+				}
+			]
+		}
+		
+	]
+}
