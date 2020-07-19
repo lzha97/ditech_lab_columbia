@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on Tue Feb 25 18:27:34 2020 by Eclipse SUMO duarouter Version 1.2.0
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/duarouterConfiguration.xsd">
+
+    <input>
+        <net-file value="120_lasalle.net.xml"/>
+        <route-files value="trips.trips.xml"/>
+    </input>
+
+    <output>
+        <output-file value="120_lasalle.rou.xml"/>
+        <alternatives-output value="120_lasalle.rou.alt.xml"/>
+    </output>
+
+    <time>
+        <begin value="0"/>
+        <end value="1.0"/>
+    </time>
+
+    <report>
+        <no-warnings value="true"/>
+        <ignore-errors value="true"/>
+        <no-step-log value="true"/>
+    </report>
+
+</configuration>
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <vType accel="3.0" decel="6.0" id="0" length="5.0" minGap="2.5" maxSpeed="35.0" sigma="0.5" />
+    <vehicle id="0" depart="0.00">
+        <route edges="-444907552#4 -5668986#7 -5668986#6 -5668986#5 -5668986#4 -5668986#3 -5668986#2 -5668986#1 -5668986#0 -309956784#7 -309956784#6 -309956784#5 -309956784#4 -309956784#3 -309956784#2 -309956784#1"/>
+    </vehicle>
+</routes>

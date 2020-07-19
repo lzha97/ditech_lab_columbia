@@ -1,0 +1,14 @@
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/duarouterConfiguration.xsd">
+
+    <input>
+        <net-file value="hollywood_highway_simplify.net.xml"/>
+        <route-files value="hollywood_highway.rou.xml"/>
+        <gui-settings-file value="hollywood_highway.settings.xml"/>
+    </input>
+
+    <time>
+        <begin value="0"/>
+        <end value="100.0"/>
+    </time>
+
+</configuration>

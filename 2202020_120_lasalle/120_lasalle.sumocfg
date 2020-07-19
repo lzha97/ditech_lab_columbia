@@ -1,0 +1,14 @@
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/duarouterConfiguration.xsd">
+
+    <input>
+        <net-file value="120_lasalle.net.xml"/>
+        <route-files value="120_lasalle.rou.xml"/>
+        <gui-settings-file value="120_lasalle.settings.xml"/>
+    </input>
+
+    <time>
+        <begin value="0"/>
+        <end value="100.0"/>
+    </time>
+
+</configuration>
